@@ -1,0 +1,491 @@
+fan: adabiyot
+nom: O'qish savodxonligi
+kitob: O'qish savodxonligi, 4-sinf (I qism). M.E. Toirova. «Novda Edutainment»
+
+## Vatan va tabiat (1–7-darslar)
+
+? «Yagonadir Vataning sening!» asarining muallifi kim?
++ Xurshid Davron
+- Azim Suyun
+- Nazarmat Egamnazarov
+- Miraziz A'zam
+
+? Xurshid Davronning she'riy to'plamini toping.
++ «Uchib boraman qushlar bilan»
+- «Yetti kitob»
+- «Ming bir so'zni bilaman»
+- «Sarbadorlar»
+
+? Matnga ko'ra, donishmandlardan biri Vatanni nima deb ta'riflaydi?
++ Sening kindik qoning tomgan tuproq
+- Faqat katta shahar
+- Faqat tog'lar
+- Faqat daryolar
+
+? Matnda keltirilgan Amerika daraxtlari Fransiyada nima uchun qurib qoldi?
++ Ularning vatanidagi shu navli daraxtlar qurg'oqchilikda qurigan payt o'zlari ham qurib qoldi
+- Ularni kesib tashlashdi
+- Suv berilmadi
+- Qattiq sovuq bo'ldi
+
+? Matnga ko'ra, daraxtlar o'rtasidagi sirli aloqa nima bilan izohlanadi?
++ Vatan tuyg'usi bilan
+- Shamol bilan
+- Suv bilan
+- Quyosh bilan
+
+? «Mukarram» so'zining ma'nosi nima?
++ Qadrli
+- Suvsiz
+- O'smoq
+- Hayratlanmoq
+= qadrli
+
+? «Yoqa ushlamoq» iborasining ma'nosi nima?
++ Hayratlanmoq
+- Kiyinmoq
+- Urishmoq
+- O'smoq
+
+? «Qurg'oqchilik» so'zining ma'nosi nima?
++ Suvsizlik
+- Yomg'ir
+- Sovuq
+- Qor
+= suvsizlik
+
+? «Buyuk mehring» she'rining muallifi kim?
++ Nazarmat Egamnazarov
+- Xurshid Davron
+- Azim Suyun
+- Temur Ubaydullo
+
+? «Vatan» so'zi qaysi tildan olingan va qanday ma'noni anglatadi?
++ Arab tilidan, «tug'ilgan makon»
+- Fors tilidan, «katta shahar»
+- Rus tilidan, «davlat»
+- Turk tilidan, «tog'»
+
+? «Mustaqillik» so'zi qanday ma'nolarni bildiradi?
++ Erkin, ozod, qaram bo'lmagan
+- Boy, badavlat
+- Katta, ulkan
+- Qadimiy, eski
+
+? «Istiqlol» so'zining ma'nosi nima?
++ Mustaqillik, erk
+- Maqtov
+- Nurli
+- Ulug' qaror
+= mustaqillik | erk
+
+? «Munavvar» so'zining ma'nosi nima?
++ Nurli, yorug'
+- Qorong'i
+- Qadimiy
+- Kichik
+= nurli | yorug'
+
+? «Buyuk mehring» she'rida qaysi buyuk shoirning g'azali tilga olinadi?
++ Navoiy
+- Bobur
+- Ogahiy
+- Furqat
+
+? «Sayroqi qushcha» hikoyasining muallifi kim?
++ Zamira Ibrohimova
+- Nasiba Erxonova
+- Hilola Hamdamova
+- Halima Ahmedova
+
+? «Sayroqi qushcha» hikoyasidagi opa-singillarning ismlari qanday?
++ Xosiyatxon va Hidoyatbonu
+- Fotima va Zuhra
+- Madina va Maftuna
+- Komila va Shahlo
+
+? Hikoyadagi sayroqi qush qanday qush edi?
++ Kanarevka
+- Chumchuq
+- Bulbul
+- To'tiqush
+= kanarevka
+
+? Opa-singillar qushchaning qafasiga nima o'rnatishdi?
++ Daraxt shoxlarini
+- O'yinchoqlarni
+- Oyna
+- Qo'ng'iroq
+
+? Buvisining fikricha, qushlar qayerda shukrona aytib sayraydi?
++ Tinchlik-omonlik, mehr-oqibat, qut-baraka bor joyda
+- Faqat bog'da
+- Faqat qafasda
+- Faqat tog'da
+
+? «Vatan yoshlari» she'rining muallifi kim?
++ Azim Suyun
+- Xurshid Davron
+- Miraziz A'zam
+- Nazarmat Egamnazarov
+
+? «Vatan yoshlari» she'ridagi naqarot qaysi?
++ Mardona-mardona tashlaylik qadam, ozod yurt, obod yurt bo'lsin mukarram!
+- Yagonadir Vataning sening!
+- O'zbegim, o'zligim, hayotim, borim
+- Hilpirayver boshimiz uzra
+
+? «Nasl» so'zining ma'nosi nima?
++ Avlod
+- Vatan
+- Bayroq
+- Mehr
+= avlod
+
+? «Mas'ul» so'zining ma'nosi nima?
++ Javobgar
+- Mehribon
+- Kuchli
+- Ozod
+= javobgar
+
+? «Vatanga falokat — o'zingga ...» maqolini davom ettiring.
++ halokat
+- baxt
+- quvonch
+- omad
+= halokat
+
+? «Marvarid» hikoyasining muallifi kim?
++ Meri Joslin
+- Lev Tolstoy
+- Janni Rodari
+- Roald Dal
+
+? «Marvarid» hikoyasida marvaridni kim topdi?
++ Josh
+- Ruben
+- Bir qiz
+- Baliqchi
+= josh
+
+? Josh marvaridni kimga berdi?
++ Rubenga
+- Opasiga
+- Baliqchiga
+- Savdogarga
+= ruben | rubenga
+
+? Ruben katta bo'lgach, qanday ish bilan shug'ullandi?
++ Marvarid savdosi bilan
+- Baliqchilik bilan
+- Dehqonchilik bilan
+- Kemasozlik bilan
+
+? Ruben boy bo'lsa ham nima uchun baxtli emas edi?
++ Bolaligi o'tgan shaharchani va do'stini sog'inardi
+- Pul yetishmas edi
+- Kasal edi
+- Marvaridlari yo'qolgan edi
+
+? Josh Rubendan qanday sovg'a so'radi?
++ Hech narsa so'ramadi; boringni boshqalar bilan baham ko'rish kerakligini aytdi
+- Yangi uy so'radi
+- Katta kema so'radi
+- Marvarid so'radi
+
+? «Toshbag'ir» hikoyasining muallifi kim?
++ Jabbor Razzoqov
+- Zamira Ibrohimova
+- Hilola Hamdamova
+- Temur Ubaydullo
+
+? Uch o'rtoq qaysi qishloqqa dam olishga borishdi?
++ Soyli qishlog'iga
+- Chimyonga
+- Bo'stonliqqa
+- Chorvoqqa
+
+? Qushni tutib, oyog'iga ip bog'lab qo'ygan kim edi?
++ Ravshan
+- Zafar
+- Ozod
+- Uy egasi
+
+? Qushcha har kuni kimning derazasiga kelardi?
++ Uy egasining o'g'li Ozodning
+- Ravshanning
+- Zafarning
+- Buvisining
+
+? Hikoya nima uchun «Toshbag'ir» deb nomlangan?
++ Qushga rahm qilmagan bag'ritosh odam haqida bo'lgani uchun
+- Toshlar haqida bo'lgani uchun
+- Tog'da yozilgani uchun
+- Qushning nomi shunday bo'lgani uchun
+
+? «Qarg'a va paxta» ertagining muallifi kim?
++ Nasiba Erxonova
+- Zamira Ibrohimova
+- Halima Ahmedova
+- Miraziz A'zam
+
+? Qarg'a dastlab chigitni kimga olib bordi?
++ Tikuvchiga
+- Dehqonga
+- To'quvchiga
+- Gul bosuvchiga
+
+? Paxtadan ip kim tayyorladi?
++ Ip yigiruvchi
+- To'quvchi
+- Tikuvchi
+- Dehqon
+
+? Ipdan matoni kim to'qidi?
++ To'quvchi
+- Ip yigiruvchi
+- Gul bosuvchi
+- Dehqon
+
+? Oq matoni gulli gazlamaga kim aylantirdi?
++ Gul bosuvchi
+- To'quvchi
+- Tikuvchi
+- Ip yigiruvchi
+
+? Ertakning asosiy g'oyasi nima?
++ Bir kiyim ortida ko'plab insonlarning mehnati turadi
+- Qarg'a aqlli qush
+- Paxta oq bo'ladi
+- Tikuvchi tez ishlaydi
+
+? «Oltin kosada toshib turar, dala husnini ochib turar» topishmog'ining javobi nima?
++ Paxta
+- Bug'doy
+- Gul
+- Quyosh
+= paxta
+
+## Til, bayroq va orzular (8–12-darslar)
+
+? «Ona tilim» she'rining muallifi kim?
++ Miraziz A'zam
+- Halima Ahmedova
+- Temur Ubaydullo
+- Azim Suyun
+
+? Miraziz A'zam bolalar uchun qanday izohli lug'at kitobi yozgan?
++ «Ming bir so'zni bilaman»
+- «Uchib boraman qushlar bilan»
+- «Yetti kitob»
+- «Hayot guli»
+
+? Matnga ko'ra, Yer yuzida taxminan nechta til va sheva bor?
++ 5621 ta
+- 500 ta
+- 100 ta
+- 50 000 ta
+
+? «O'zga tilga alishmasman, o'z onasin almashar kim?» misralari qaysi she'rdan?
++ «Ona tilim»
+- «Vatan yoshlari»
+- «Buyuk mehring»
+- «Baxtimizning timsoli»
+
+? «Tilga e'tibor — ... e'tibor» maqolini davom ettiring.
++ elga
+- dilga
+- yurtga
+- so'zga
+= elga
+
+? «Ariqni suv bezar, odamni — ...» maqolini davom ettiring.
++ so'z
+- kiyim
+- mehnat
+- oltin
+= so'z
+
+? «Tabiat darsi» va «Ona tili darsi» she'rlarining muallifi kim?
++ Halima Ahmedova
+- Miraziz A'zam
+- Hilola Hamdamova
+- Zamira Ibrohimova
+
+? «Jomadonga joylab bo'lmas ...» misrasini davom ettiring.
++ Vatanni
+- dunyoni
+- kitobni
+- onani
+= vatanni
+
+? «Ona tili darsi» she'rida bola onasiga qanday savol beradi?
++ Nega «Ona tili», «Ota tili» emas?
+- Nega dunyo keng?
+- Nega quyosh botadi?
+- Nega qushlar sayraydi?
+
+? She'rga ko'ra, «Ona tili» nima uchun shunday ataladi?
++ O'zagimiz ona ko'nglidir; Vatanni onajon desak, «Ona tili» Vatan tilidir
+- Uni faqat onalar gapiradi
+- U eng qisqa til
+- U eng yangi til
+
+? «Baxtimizning timsoli» she'rining muallifi kim?
++ Temur Ubaydullo
+- Azim Suyun
+- Xurshid Davron
+- Miraziz A'zam
+
+? «Baxtimizning timsoli» she'ri nima haqida?
++ Davlat bayrog'imiz haqida
+- Davlat madhiyasi haqida
+- Ona tili haqida
+- Paxta haqida
+
+? She'rda bayroq nimaga qiyoslangan?
++ Tovusga
+- Lochinga
+- Quyoshga
+- Gulga
+
+? She'rga ko'ra, bayroqdagi yashil rang nimani bildiradi?
++ A'lo kelajakni
+- Musaffo osmonni
+- Tuganmas ziyoni
+- Erkni
+
+? She'rga ko'ra, bayroqdagi oq rang nimani bildiradi?
++ Tuganmas ziyoni
+- Musaffo osmonni
+- Kelajakni
+- Tog'larni
+
+? She'rga ko'ra, bayroqdagi havorang nimani bildiradi?
++ Musaffo osmonni
+- Kelajakni
+- Ziyoni
+- Daryolarni
+
+? «Vatan qadrini bilmagan o'z ... bilmas» maqolini davom ettiring.
++ qadrini
+- yo'lini
+- uyini
+- ismini
+= qadrini
+
+? «Qanot qoqqan orzular» hikoyasining muallifi kim?
++ Hilola Hamdamova
+- Halima Ahmedova
+- Jabbor Razzoqov
+- Nasiba Erxonova
+
+? Nusratjon qaysi tanlovda qatnashmoqchi edi?
++ «Yosh hunarmand» tanlovida
+- Futbol turnirida
+- Kitobxonlar tanlovida
+- Qo'shiq tanlovida
+
+? Nusratjonning bobosi kim edi?
++ Mashhur kulol Sobir ota
+- Dehqon
+- Tikuvchi
+- O'qituvchi
+
+? Nusratjon tanlovga nima yasadi?
++ Loydan hushtaklar va mevali savatchalar
+- Yog'och qoshiqlar
+- Mato sumka
+- Temir o'yinchoq
+
+? Nusratjonning hushtaklarini kim sindirdi?
++ Yuqori sinf o'quvchisi Ahmad (uni turtib yiqitdi)
+- Ustozi
+- Bobosi
+- Sinfdoshi Sardor
+
+? Nusratjon Ahmadning ustidan shikoyat qildimi?
++ Yo'q, shikoyat qilmadi, ishini qaytadan yasadi
+- Ha, ustoziga shikoyat qildi
+- Ha, bobosiga aytdi
+- Ha, direktorga bordi
+
+? Tanlov yakunida kim eng zo'r sovrinni oldi?
++ Nusratjon
+- Ahmad
+- Sardor
+- Ravshan aka
+
+? Yusuf Xos Hojibning hikmatiga ko'ra, yaxshi axloqli kishi nimadan qimmatli?
++ Har qanday qimmatbaho durlardan
+- Oltindan arzon
+- Kumushdan kam
+- Tosh bilan teng
+
+? «Yetti xazinaning biri» hikoyasining muallifi kim?
++ Hilola Hamdamova
+- Halima Ahmedova
+- Temur Ubaydullo
+- Miraziz A'zam
+
+? Hikoyada «yetti xazinaning biri» deb nima ataladi?
++ Dehqonchilik
+- Uchuvchilik
+- Shifokorlik
+- Dizaynerlik
+
+? Sinf sardori Sardor kim bo'lishni orzu qildi?
++ Dehqon (fermer)
+- Uchuvchi
+- Shifokor
+- Dizayner
+
+? Hikoyachi bola kim bo'lmoqchi edi?
++ Uchuvchi
+- Dehqon
+- Shifokor
+- Rassom
+
+? Sardor somon tashib berish uchun qanday shart qo'ydi?
++ Karra jadvalini yodlab berishni
+- Pul to'lashni
+- Otini boqishni
+- Eshagini yuvishni
+
+? Sardor eshagini nimaga almashtirdi?
++ To'riq otga
+- Traktorga
+- Velosipedga
+- Sigirga
+
+? Keyinchalik hikoyachi qaysi yo'nalishda o'qidi?
++ Hisobchi-buxgalter
+- Uchuvchi
+- Shifokor
+- Haydovchi
+
+? Sardorning fermer xo'jaligi qanday nomlangan?
++ «Ravnaq»
+- «Baraka»
+- «Obod»
+- «Bog'bon»
+
+? «Dehqon» so'zi ingliz tilida qanday ataladi (hikoyada)?
++ Farmer (fermer)
+- Teacher
+- Pilot
+- Doctor
+
+? «Bilmaganni so'rab o'rgangan — olim, orlanib so'ramagan — o'ziga zolim» hikmati kimniki?
++ Alisher Navoiyniki
+- Yusuf Xos Hojibniki
+- Firdavsiyniki
+- Boburniki
+
+? «Hunar bo'lsa qo'lingda, non topilar ...» maqolini davom ettiring.
++ yo'lingda
+- uyingda
+- bog'ingda
+- dalangda
+= yo'lingda
