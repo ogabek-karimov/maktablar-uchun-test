@@ -1,0 +1,1972 @@
+fan: ingliz-tili
+kitob: English, Grade 5 (Guess What! 5, Student's Book). S. Reed, K. Bentley. Cambridge University Press, Uzbekistan edition
+
+## Around the world
+
+? «Braziliya» ingliz tilida qanday aytiladi?
++ Brazil
+- Colombia
+- Italy
+- the United States
+= brazil
+
+? What does «Brazil» mean? (o'zbekcha)
++ Braziliya
+- Meksika
+- Kolumbiya
+- Rossiya
+
+? «Xitoy» ingliz tilida qanday aytiladi?
++ China
+- France
+- Mexico
+- Brazil
+= china
+
+? What does «China» mean? (o'zbekcha)
++ Xitoy
+- Rossiya
+- Buyuk Britaniya
+- Meksika
+
+? «Kolumbiya» ingliz tilida qanday aytiladi?
++ Colombia
+- Spain
+- the United States
+- Mexico
+= colombia
+
+? What does «Colombia» mean? (o'zbekcha)
++ Kolumbiya
+- Ispaniya
+- Rossiya
+- Buyuk Britaniya
+
+? «Fransiya» ingliz tilida qanday aytiladi?
++ France
+- Spain
+- Brazil
+- Russia
+= france
+
+? What does «France» mean? (o'zbekcha)
++ Fransiya
+- Meksika
+- Braziliya
+- Xitoy
+
+? «Italiya» ingliz tilida qanday aytiladi?
++ Italy
+- the United States
+- Brazil
+- Mexico
+= italy
+
+? What does «Italy» mean? (o'zbekcha)
++ Italiya
+- Buyuk Britaniya
+- Fransiya
+- Braziliya
+
+? «Meksika» ingliz tilida qanday aytiladi?
++ Mexico
+- Spain
+- France
+- Brazil
+= mexico
+
+? What does «Mexico» mean? (o'zbekcha)
++ Meksika
+- Amerika Qo'shma Shtatlari
+- Ispaniya
+- Xitoy
+
+? «Rossiya» ingliz tilida qanday aytiladi?
++ Russia
+- France
+- the United States
+- the United Kingdom
+= russia
+
+? What does «Russia» mean? (o'zbekcha)
++ Rossiya
+- Kolumbiya
+- Italiya
+- Amerika Qo'shma Shtatlari
+
+? «Ispaniya» ingliz tilida qanday aytiladi?
++ Spain
+- Brazil
+- China
+- Russia
+= spain
+
+? What does «Spain» mean? (o'zbekcha)
++ Ispaniya
+- Rossiya
+- Italiya
+- Kolumbiya
+
+? «Buyuk Britaniya» ingliz tilida qanday aytiladi?
++ the United Kingdom
+- Mexico
+- France
+- China
+= the united kingdom
+
+? What does «the United Kingdom» mean? (o'zbekcha)
++ Buyuk Britaniya
+- Ispaniya
+- Kolumbiya
+- Rossiya
+
+? «Amerika Qo'shma Shtatlari» ingliz tilida qanday aytiladi?
++ the United States
+- Colombia
+- France
+- the United Kingdom
+= the united states
+
+? What does «the United States» mean? (o'zbekcha)
++ Amerika Qo'shma Shtatlari
+- Buyuk Britaniya
+- Kolumbiya
+- Fransiya
+
+? Complete: «Where ___ you from?» — «I'm from Spain.»
++ are
+- is
+- do
+- does
+
+? Complete: «Is he from France?» — «No, he ___.»
++ isn't
+- aren't
+- doesn't
+- don't
+
+? Complete: «Is she from Italy?» — «Yes, she ___.»
++ is
+- does
+- are
+- has
+
+? Complete: «He's from Mexico. He ___ from Brazil.»
++ isn't
+- aren't
+- don't
+- not
+
+? Complete: «I was born ___ April 24th.»
++ on
+- in
+- at
+- to
+
+? Complete: «When ___ you born?»
++ were
+- was
+- are
+- did
+
+? Complete: «I ___ born in 2014.»
++ was
+- were
+- am
+- is
+
+? How do we read «1st»?
++ first
+- one
+- oneth
+- firsth
+
+? How do we read «2nd»?
++ second
+- two
+- twoth
+- secondth
+
+? How do we read «3rd»?
++ third
+- three
+- thirth
+- threeth
+
+? How do we read «5th»?
++ fifth
+- fiveth
+- five
+- fivth
+
+? How do we read «10th»?
++ tenth
+- ten
+- tenst
+- tens
+
+? Which country's capital is Moscow?
++ Russia
+- Spain
+- Italy
+- Mexico
+
+? Which country's capital is Paris?
++ France
+- Brazil
+- China
+- Colombia
+
+? The value of the «Around the world» story is…
++ Try new things
+- Be kind to animals
+- Help other people
+- Be safe
+
+## Unit 1. Family and pets
+
+? «ijodkor» ingliz tilida qanday aytiladi?
++ artistic
+- kind
+- naughty
+- shy
+= artistic
+
+? What does «artistic» mean? (o'zbekcha)
++ ijodkor
+- mehnatkash
+- aqlli
+- sportchi
+
+? «do'stona» ingliz tilida qanday aytiladi?
++ friendly
+- sporty
+- funny
+- kind
+= friendly
+
+? What does «friendly» mean? (o'zbekcha)
++ do'stona
+- kulgili
+- sho'x
+- ijodkor
+
+? «kulgili» ingliz tilida qanday aytiladi?
++ funny
+- naughty
+- talkative
+- hardworking
+= funny
+
+? What does «funny» mean? (o'zbekcha)
++ kulgili
+- sho'x
+- mehnatkash
+- ijodkor
+
+? «mehnatkash» ingliz tilida qanday aytiladi?
++ hardworking
+- smart
+- sporty
+- kind
+= hardworking
+
+? What does «hardworking» mean? (o'zbekcha)
++ mehnatkash
+- sportchi
+- do'stona
+- mehribon
+
+? «mehribon» ingliz tilida qanday aytiladi?
++ kind
+- naughty
+- shy
+- artistic
+= kind
+
+? What does «kind» mean? (o'zbekcha)
++ mehribon
+- sho'x
+- mehnatkash
+- sportchi
+
+? «sho'x» ingliz tilida qanday aytiladi?
++ naughty
+- talkative
+- smart
+- hardworking
+= naughty
+
+? What does «naughty» mean? (o'zbekcha)
++ sho'x
+- kulgili
+- mehribon
+- ijodkor
+
+? «uyatchan» ingliz tilida qanday aytiladi?
++ shy
+- hardworking
+- naughty
+- smart
+= shy
+
+? What does «shy» mean? (o'zbekcha)
++ uyatchan
+- aqlli
+- sho'x
+- sportchi
+
+? «aqlli» ingliz tilida qanday aytiladi?
++ smart
+- naughty
+- artistic
+- sporty
+= smart
+
+? What does «smart» mean? (o'zbekcha)
++ aqlli
+- sho'x
+- mehnatkash
+- sportchi
+
+? «sportchi» ingliz tilida qanday aytiladi?
++ sporty
+- naughty
+- smart
+- kind
+= sporty
+
+? What does «sporty» mean? (o'zbekcha)
++ sportchi
+- mehribon
+- uyatchan
+- kulgili
+
+? «sergap» ingliz tilida qanday aytiladi?
++ talkative
+- smart
+- hardworking
+- naughty
+= talkative
+
+? What does «talkative» mean? (o'zbekcha)
++ sergap
+- mehnatkash
+- kulgili
+- mehribon
+
+? Complete: «My dog is ___ than my cat.» (smart)
++ smarter
+- more smart
+- smartest
+- smart
+
+? Complete: «My brother is ___ than my sister.» (hardworking)
++ more hardworking
+- hardworkinger
+- most hardworking
+- hardworking
+
+? Comparative of «shy»:
++ shyer
+- shyest
+- shy
+- shyier
+
+? Comparative of «sporty»:
++ sportier
+- sportiest
+- sportyer
+- sportyier
+
+? Comparative of «naughty»:
++ naughtier
+- naughtyer
+- naughtiest
+- naughtyier
+
+? Comparative of «funny»:
++ funnier
+- funnyer
+- funniest
+- more funnier
+
+? Comparative of «kind»:
++ kinder
+- kindest
+- more kinder
+- kinds
+
+? Comparative of «talkative»:
++ more talkative
+- talkativer
+- most talkative
+- talkativeer
+
+? Comparative of «artistic»:
++ more artistic
+- artisticer
+- most artistic
+- artistickest
+
+? Complete: «Who's older, you or your brother?» — «My brother ___.»
++ is
+- does
+- are
+- has
+
+? Complete: «She's more talkative ___ me.»
++ than
+- then
+- that
+- as
+
+? A person who likes sports is…
++ sporty
+- shy
+- artistic
+- talkative
+
+? A person who talks a lot is…
++ talkative
+- shy
+- sporty
+- hardworking
+
+? A person who makes you laugh is…
++ funny
+- shy
+- hardworking
+- smart
+
+? The value of the Unit 1 story is…
++ Learn about other cultures
+- Try new things
+- Be safe
+- Respect nature
+
+? The Unit 1 CLIL (Science) lesson is about…
++ ant families
+- sea turtles
+- volcanoes
+- castles
+
+## Unit 2. On the playground
+
+? «yig'lamoq» ingliz tilida qanday aytiladi?
++ cry
+- laugh
+- text a friend
+- throw a ball
+= cry
+
+? What does «cry» mean? (o'zbekcha)
++ yig'lamoq
+- do'stga SMS yozmoq
+- kulmoq
+- axlat tashlamoq
+
+? «boshqalarga yordam bermoq» ingliz tilida qanday aytiladi?
++ help others
+- use a cell phone
+- cry
+- text a friend
+= help others
+
+? What does «help others» mean? (o'zbekcha)
++ boshqalarga yordam bermoq
+- yig'lamoq
+- axlat tashlamoq
+- mobil telefondan foydalanmoq
+
+? «bir oyoqda sakramoq» ingliz tilida qanday aytiladi?
++ hop
+- litter
+- help others
+- laugh
+= hop
+
+? What does «hop» mean? (o'zbekcha)
++ bir oyoqda sakramoq
+- kulmoq
+- do'stga SMS yozmoq
+- to'p otmoq
+
+? «baqirmoq» ingliz tilida qanday aytiladi?
++ shout
+- throw a ball
+- cry
+- laugh
+= shout
+
+? What does «shout» mean? (o'zbekcha)
++ baqirmoq
+- kulmoq
+- bir oyoqda sakramoq
+- boshqalarga yordam bermoq
+
+? «kulmoq» ingliz tilida qanday aytiladi?
++ laugh
+- cry
+- text a friend
+- throw a ball
+= laugh
+
+? What does «laugh» mean? (o'zbekcha)
++ kulmoq
+- baqirmoq
+- mobil telefondan foydalanmoq
+- axlat tashlamoq
+
+? «axlat tashlamoq» ingliz tilida qanday aytiladi?
++ litter
+- use a cell phone
+- laugh
+- help others
+= litter
+
+? What does «litter» mean? (o'zbekcha)
++ axlat tashlamoq
+- to'p otmoq
+- yig'lamoq
+- bir oyoqda sakramoq
+
+? «do'stga SMS yozmoq» ingliz tilida qanday aytiladi?
++ text a friend
+- use a cell phone
+- hop
+- cry
+= text a friend
+
+? What does «text a friend» mean? (o'zbekcha)
++ do'stga SMS yozmoq
+- to'p otmoq
+- bir oyoqda sakramoq
+- baqirmoq
+
+? «to'p otmoq» ingliz tilida qanday aytiladi?
++ throw a ball
+- text a friend
+- use a cell phone
+- hop
+= throw a ball
+
+? What does «throw a ball» mean? (o'zbekcha)
++ to'p otmoq
+- boshqalarga yordam bermoq
+- yig'lamoq
+- mobil telefondan foydalanmoq
+
+? «mobil telefondan foydalanmoq» ingliz tilida qanday aytiladi?
++ use a cell phone
+- text a friend
+- help others
+- cry
+= use a cell phone
+
+? What does «use a cell phone» mean? (o'zbekcha)
++ mobil telefondan foydalanmoq
+- boshqalarga yordam bermoq
+- do'stga SMS yozmoq
+- kulmoq
+
+? Complete: «We ___ be polite and help people.»
++ should
+- shouldn't
+- should to
+- shoulds
+
+? Complete: «We ___ shout in class.»
++ shouldn't
+- should
+- don't should
+- not should
+
+? Choose the correct sentence.
++ We shouldn't litter.
+- We don't should litter.
+- We shouldn't to litter.
+- We not should litter.
+
+? Choose the correct sentence.
++ We should listen to our teachers.
+- We should to listen to our teachers.
+- We should listening to our teachers.
+- We shoulds listen to our teachers.
+
+? Complete: «Bring ___ the phone, please.»
++ me
+- I
+- my
+- mine
+
+? Complete: «Tell the class ___ your vacation, please.»
++ about
+- on
+- for
+- at
+
+? Complete: «We shouldn't laugh ___ others.»
++ at
+- on
+- to
+- in
+
+? After «should» we use…
++ a verb without «to»
+- a verb with «to»
+- a verb with -ing
+- a verb with -ed
+
+? What shouldn't we do at school?
++ shout in class
+- help others
+- be polite
+- listen to our teachers
+
+? What should we do?
++ help others
+- litter
+- shout in class
+- laugh at others
+
+? What should we do with trash?
++ put it in the bin
+- litter
+- throw it in the river
+- leave it on the playground
+
+? The value of the Unit 2 story is…
++ Be kind to animals
+- Try new things
+- Use technology wisely
+- Be safe
+
+? The Unit 2 CLIL (Geography) lesson is about…
++ places on the map
+- ant families
+- line charts
+- castles
+
+## Unit 3. Under the ocean
+
+? «qisqichbaqa» ingliz tilida qanday aytiladi?
++ crab
+- dolphin
+- shark
+- starfish
+= crab
+
+? What does «crab» mean? (o'zbekcha)
++ qisqichbaqa
+- dengiz yulduzi
+- delfin
+- skat (dengiz mushugi)
+
+? «delfin» ingliz tilida qanday aytiladi?
++ dolphin
+- whale
+- jellyfish
+- seal
+= dolphin
+
+? What does «dolphin» mean? (o'zbekcha)
++ delfin
+- kit
+- tyulen
+- dengiz yulduzi
+
+? «meduza» ingliz tilida qanday aytiladi?
++ jellyfish
+- crab
+- turtle
+- whale
+= jellyfish
+
+? What does «jellyfish» mean? (o'zbekcha)
++ meduza
+- qisqichbaqa
+- dengiz yulduzi
+- tyulen
+
+? «sakkizoyoq» ingliz tilida qanday aytiladi?
++ octopus
+- crab
+- stingray
+- shark
+= octopus
+
+? What does «octopus» mean? (o'zbekcha)
++ sakkizoyoq
+- tyulen
+- akula
+- delfin
+
+? «tyulen» ingliz tilida qanday aytiladi?
++ seal
+- jellyfish
+- shark
+- turtle
+= seal
+
+? What does «seal» mean? (o'zbekcha)
++ tyulen
+- kit
+- akula
+- toshbaqa
+
+? «akula» ingliz tilida qanday aytiladi?
++ shark
+- dolphin
+- stingray
+- octopus
+= shark
+
+? What does «shark» mean? (o'zbekcha)
++ akula
+- kit
+- qisqichbaqa
+- meduza
+
+? «dengiz yulduzi» ingliz tilida qanday aytiladi?
++ starfish
+- dolphin
+- whale
+- shark
+= starfish
+
+? What does «starfish» mean? (o'zbekcha)
++ dengiz yulduzi
+- qisqichbaqa
+- tyulen
+- kit
+
+? «skat (dengiz mushugi)» ingliz tilida qanday aytiladi?
++ stingray
+- octopus
+- jellyfish
+- starfish
+= stingray
+
+? What does «stingray» mean? (o'zbekcha)
++ skat (dengiz mushugi)
+- delfin
+- toshbaqa
+- akula
+
+? «toshbaqa» ingliz tilida qanday aytiladi?
++ turtle
+- stingray
+- seal
+- crab
+= turtle
+
+? What does «turtle» mean? (o'zbekcha)
++ toshbaqa
+- delfin
+- dengiz yulduzi
+- qisqichbaqa
+
+? «kit» ingliz tilida qanday aytiladi?
++ whale
+- turtle
+- jellyfish
+- starfish
+= whale
+
+? What does «whale» mean? (o'zbekcha)
++ kit
+- skat (dengiz mushugi)
+- dengiz yulduzi
+- qisqichbaqa
+
+? Superlative of «strong»:
++ the strongest
+- the most strong
+- the stronger
+- strongest than
+
+? Superlative of «heavy»:
++ the heaviest
+- the heavyest
+- the most heavy
+- the heavier
+
+? Superlative of «dangerous»:
++ the most dangerous
+- the dangerousest
+- the more dangerous
+- the dangerouser
+
+? Superlative of «big»:
++ the biggest
+- the bigest
+- the most big
+- the bigger
+
+? Superlative of «fast»:
++ the fastest
+- the most fast
+- the faster
+- the fastes
+
+? Superlative of «beautiful»:
++ the most beautiful
+- the beautifulest
+- the more beautiful
+- the beautifuller
+
+? Complete: «Which sea animal is ___ fastest?»
++ the
+- a
+- an
+- more
+
+? Which is the biggest animal in the world?
++ the blue whale
+- the shark
+- the dolphin
+- the seal
+
+? Which fish is the biggest?
++ the whale shark
+- the stingray
+- the starfish
+- the jellyfish
+
+? According to the chant, which bird is the strongest?
++ the eagle
+- the parrot
+- the owl
+- the penguin
+
+? Which sea animal has eight arms?
++ octopus
+- starfish
+- crab
+- seal
+= octopus
+
+? Which sea animal usually has five arms?
++ starfish
+- octopus
+- jellyfish
+- whale
+= starfish
+
+? Which sea animal has a hard shell and lays eggs on the beach?
++ turtle
+- jellyfish
+- shark
+- dolphin
+= turtle | sea turtle
+
+? The value of the Unit 3 story is…
++ Keep our seas and oceans clean
+- Try new things
+- Be safe
+- Help other people
+
+? The Unit 3 CLIL (Science) lesson is about…
++ an underwater food chain
+- ant families
+- volcanoes
+- castles
+
+## Unit 4. Gadgets
+
+? «raqamli fotoapparat» ingliz tilida qanday aytiladi?
++ digital camera
+- smartphone
+- tablet
+- video camera
+= digital camera
+
+? What does «digital camera» mean? (o'zbekcha)
++ raqamli fotoapparat
+- o'yin konsoli
+- videokamera
+- elektron kitob qurilmasi
+
+? «elektron kitob qurilmasi» ingliz tilida qanday aytiladi?
++ e-reader
+- games console
+- video camera
+- laptop
+= e-reader
+
+? What does «e-reader» mean? (o'zbekcha)
++ elektron kitob qurilmasi
+- MP4 pleer
+- videokamera
+- o'yin konsoli
+
+? «o'yin konsoli» ingliz tilida qanday aytiladi?
++ games console
+- tablet
+- digital camera
+- video camera
+= games console
+
+? What does «games console» mean? (o'zbekcha)
++ o'yin konsoli
+- quloqchinlar
+- videokamera
+- televizor
+
+? «quloqchinlar» ingliz tilida qanday aytiladi?
++ headphones
+- television
+- smartphone
+- laptop
+= headphones
+
+? What does «headphones» mean? (o'zbekcha)
++ quloqchinlar
+- raqamli fotoapparat
+- o'yin konsoli
+- televizor
+
+? «noutbuk» ingliz tilida qanday aytiladi?
++ laptop
+- television
+- smartphone
+- video camera
+= laptop
+
+? What does «laptop» mean? (o'zbekcha)
++ noutbuk
+- elektron kitob qurilmasi
+- raqamli fotoapparat
+- MP4 pleer
+
+? «MP4 pleer» ingliz tilida qanday aytiladi?
++ MP4 player
+- smartphone
+- television
+- games console
+= mp4 player
+
+? What does «MP4 player» mean? (o'zbekcha)
++ MP4 pleer
+- noutbuk
+- videokamera
+- smartfon
+
+? «smartfon» ingliz tilida qanday aytiladi?
++ smartphone
+- television
+- e-reader
+- MP4 player
+= smartphone
+
+? What does «smartphone» mean? (o'zbekcha)
++ smartfon
+- MP4 pleer
+- quloqchinlar
+- raqamli fotoapparat
+
+? «planshet» ingliz tilida qanday aytiladi?
++ tablet
+- e-reader
+- games console
+- television
+= tablet
+
+? What does «tablet» mean? (o'zbekcha)
++ planshet
+- raqamli fotoapparat
+- televizor
+- quloqchinlar
+
+? «televizor» ingliz tilida qanday aytiladi?
++ television
+- video camera
+- games console
+- MP4 player
+= television
+
+? What does «television» mean? (o'zbekcha)
++ televizor
+- smartfon
+- elektron kitob qurilmasi
+- MP4 pleer
+
+? «videokamera» ingliz tilida qanday aytiladi?
++ video camera
+- laptop
+- e-reader
+- television
+= video camera
+
+? What does «video camera» mean? (o'zbekcha)
++ videokamera
+- quloqchinlar
+- raqamli fotoapparat
+- planshet
+
+? Past simple of «study»:
++ studied
+- studyed
+- studed
+- studies
+
+? Past simple of «listen»:
++ listened
+- listend
+- listen
+- listening
+
+? Past simple of «play»:
++ played
+- plaied
+- plaid
+- playd
+
+? Past simple of «watch»:
++ watched
+- watcht
+- watches
+- watchd
+
+? Past simple of «visit»:
++ visited
+- visitted
+- visitd
+- visits
+
+? Past simple of «use»:
++ used
+- useed
+- usd
+- uses
+
+? Complete: «We didn't ___ to music.»
++ listen
+- listened
+- listening
+- listens
+
+? Complete: «What ___ you do last weekend?»
++ did
+- do
+- does
+- were
+
+? Complete: «I ___ my grandparents last weekend.»
++ visited
+- visit
+- visits
+- visiting
+
+? Make it negative: «I watched TV.»
++ I didn't watch TV.
+- I didn't watched TV.
+- I don't watched TV.
+- I not watched TV.
+
+? Which gadget do you use to read e-books?
++ e-reader
+- headphones
+- games console
+- video camera
+= e-reader
+
+? Which gadget do you use to take photos?
++ digital camera
+- headphones
+- games console
+- e-reader
+
+? How is «-ed» pronounced in «watched»?
++ /t/
+- /d/
+- /ɪd/
+- /ed/
+
+? How is «-ed» pronounced in «visited»?
++ /ɪd/
+- /t/
+- /d/
+- /ed/
+
+? The value of the Unit 4 story is…
++ Use technology wisely
+- Be kind to animals
+- Respect nature
+- Be safe
+
+? The Unit 4 CLIL (Math) lesson is about…
++ reading a line chart
+- ant families
+- an underwater food chain
+- castles
+
+## Unit 5. The natural world
+
+? «g'or» ingliz tilida qanday aytiladi?
++ cave
+- mountain
+- desert
+- jungle
+= cave
+
+? What does «cave» mean? (o'zbekcha)
++ g'or
+- vulqon
+- cho'l
+- orol
+
+? «cho'l» ingliz tilida qanday aytiladi?
++ desert
+- jungle
+- waterfall
+- forest
+= desert
+
+? What does «desert» mean? (o'zbekcha)
++ cho'l
+- sharshara
+- changalzor
+- orol
+
+? «o'rmon» ingliz tilida qanday aytiladi?
++ forest
+- volcano
+- mountain
+- lake
+= forest
+
+? What does «forest» mean? (o'zbekcha)
++ o'rmon
+- cho'l
+- g'or
+- orol
+
+? «orol» ingliz tilida qanday aytiladi?
++ island
+- river
+- jungle
+- cave
+= island
+
+? What does «island» mean? (o'zbekcha)
++ orol
+- ko'l
+- sharshara
+- o'rmon
+
+? «changalzor» ingliz tilida qanday aytiladi?
++ jungle
+- cave
+- river
+- forest
+= jungle
+
+? What does «jungle» mean? (o'zbekcha)
++ changalzor
+- cho'l
+- o'rmon
+- vulqon
+
+? «ko'l» ingliz tilida qanday aytiladi?
++ lake
+- mountain
+- jungle
+- forest
+= lake
+
+? What does «lake» mean? (o'zbekcha)
++ ko'l
+- o'rmon
+- cho'l
+- sharshara
+
+? «tog'» ingliz tilida qanday aytiladi?
++ mountain
+- cave
+- desert
+- island
+= mountain
+
+? What does «mountain» mean? (o'zbekcha)
++ tog'
+- sharshara
+- o'rmon
+- orol
+
+? «daryo» ingliz tilida qanday aytiladi?
++ river
+- jungle
+- forest
+- mountain
+= river
+
+? What does «river» mean? (o'zbekcha)
++ daryo
+- ko'l
+- vulqon
+- o'rmon
+
+? «vulqon» ingliz tilida qanday aytiladi?
++ volcano
+- island
+- mountain
+- lake
+= volcano
+
+? What does «volcano» mean? (o'zbekcha)
++ vulqon
+- tog'
+- changalzor
+- o'rmon
+
+? «sharshara» ingliz tilida qanday aytiladi?
++ waterfall
+- river
+- mountain
+- cave
+= waterfall
+
+? What does «waterfall» mean? (o'zbekcha)
++ sharshara
+- changalzor
+- tog'
+- g'or
+
+? Past simple of «eat»:
++ ate
+- eated
+- eaten
+- eats
+
+? Past simple of «catch»:
++ caught
+- catched
+- catcht
+- cought
+
+? Past simple of «drink»:
++ drank
+- drinked
+- drunk
+- drinks
+
+? Past simple of «have»:
++ had
+- haved
+- has
+- hadded
+
+? Past simple of «see»:
++ saw
+- seed
+- seen
+- sawed
+
+? Past simple of «swim»:
++ swam
+- swimmed
+- swum
+- swims
+
+? Past simple of «go»:
++ went
+- goed
+- gone
+- goes
+
+? Complete: «Did you see statues?» — «Yes, I ___.»
++ did
+- do
+- saw
+- was
+
+? Complete: «Did you go on a boat trip?» — «No, we ___.»
++ didn't
+- don't
+- weren't
+- doesn't
+
+? Complete: «___ you swim in a lake last summer?»
++ Did
+- Do
+- Were
+- Was
+
+? A mountain with fire and lava is a…
++ volcano
+- waterfall
+- cave
+- lake
+= volcano
+
+? Land with water all around it is an…
++ island
+- desert
+- forest
+- jungle
+= island
+
+? A very dry place with lots of sand is a…
++ desert
+- jungle
+- lake
+- river
+= desert
+
+? The value of the Unit 5 story is…
++ Encourage your friends
+- Use technology wisely
+- Help other people
+- Be safe
+
+? The Unit 5 CLIL (Geography) lesson is about…
++ what happens when a volcano erupts
+- ant families
+- castles
+- line charts
+
+## Unit 6. Helping at home
+
+? «hammomni tozalamoq» ingliz tilida qanday aytiladi?
++ clean the bathroom
+- water the plants
+- take the trash out
+- make my bed
+= clean the bathroom
+
+? What does «clean the bathroom» mean? (o'zbekcha)
++ hammomni tozalamoq
+- idishlarni artmoq
+- polni supurmoq
+- axlatni chiqarmoq
+
+? «kechki ovqat pishirmoq» ingliz tilida qanday aytiladi?
++ cook dinner
+- set the table
+- sweep the floor
+- clean my bedroom
+= cook dinner
+
+? What does «cook dinner» mean? (o'zbekcha)
++ kechki ovqat pishirmoq
+- o'rnimni yig'ishtirmoq
+- axlatni chiqarmoq
+- o'simliklarga suv quymoq
+
+? «idishlarni artmoq» ingliz tilida qanday aytiladi?
++ dry the dishes
+- sweep the floor
+- set the table
+- cook dinner
+= dry the dishes
+
+? What does «dry the dishes» mean? (o'zbekcha)
++ idishlarni artmoq
+- axlatni chiqarmoq
+- polni supurmoq
+- o'simliklarga suv quymoq
+
+? «o'rnimni yig'ishtirmoq» ingliz tilida qanday aytiladi?
++ make my bed
+- cook dinner
+- water the plants
+- clean my bedroom
+= make my bed
+
+? What does «make my bed» mean? (o'zbekcha)
++ o'rnimni yig'ishtirmoq
+- dasturxon tuzamoq
+- yotoqxonamni tozalamoq
+- kechki ovqat pishirmoq
+
+? «dasturxon tuzamoq» ingliz tilida qanday aytiladi?
++ set the table
+- take the trash out
+- wash my clothes
+- clean my bedroom
+= set the table
+
+? What does «set the table» mean? (o'zbekcha)
++ dasturxon tuzamoq
+- axlatni chiqarmoq
+- polni supurmoq
+- o'simliklarga suv quymoq
+
+? «axlatni chiqarmoq» ingliz tilida qanday aytiladi?
++ take the trash out
+- clean my bedroom
+- wash my clothes
+- dry the dishes
+= take the trash out
+
+? What does «take the trash out» mean? (o'zbekcha)
++ axlatni chiqarmoq
+- yotoqxonamni tozalamoq
+- o'simliklarga suv quymoq
+- dasturxon tuzamoq
+
+? «polni supurmoq» ingliz tilida qanday aytiladi?
++ sweep the floor
+- set the table
+- clean my bedroom
+- wash my clothes
+= sweep the floor
+
+? What does «sweep the floor» mean? (o'zbekcha)
++ polni supurmoq
+- axlatni chiqarmoq
+- kechki ovqat pishirmoq
+- o'simliklarga suv quymoq
+
+? «yotoqxonamni tozalamoq» ingliz tilida qanday aytiladi?
++ clean my bedroom
+- water the plants
+- make my bed
+- wash my clothes
+= clean my bedroom
+
+? What does «clean my bedroom» mean? (o'zbekcha)
++ yotoqxonamni tozalamoq
+- kiyimlarimni yuvmoq
+- hammomni tozalamoq
+- o'rnimni yig'ishtirmoq
+
+? «kiyimlarimni yuvmoq» ingliz tilida qanday aytiladi?
++ wash my clothes
+- set the table
+- clean my bedroom
+- take the trash out
+= wash my clothes
+
+? What does «wash my clothes» mean? (o'zbekcha)
++ kiyimlarimni yuvmoq
+- yotoqxonamni tozalamoq
+- hammomni tozalamoq
+- dasturxon tuzamoq
+
+? «o'simliklarga suv quymoq» ingliz tilida qanday aytiladi?
++ water the plants
+- make my bed
+- cook dinner
+- dry the dishes
+= water the plants
+
+? What does «water the plants» mean? (o'zbekcha)
++ o'simliklarga suv quymoq
+- o'rnimni yig'ishtirmoq
+- kechki ovqat pishirmoq
+- dasturxon tuzamoq
+
+? Complete: «I ___ to make my bed.»
++ have
+- has
+- having
+- am
+
+? Complete: «She ___ to feed the fish.»
++ has
+- have
+- is
+- does
+
+? Complete: «I don't ___ to take the trash out.»
++ have
+- has
+- had
+- having
+
+? Complete: «He ___ have to cook dinner.»
++ doesn't
+- don't
+- isn't
+- not
+
+? Complete: «Who has to collect the books?» — «Max ___.»
++ does
+- do
+- has
+- is
+
+? Complete: «What do you have to do?» — «I have to ___ the plants.»
++ water
+- waters
+- watering
+- watered
+
+? Complete: «___ the table»
++ set
+- make
+- sweep
+- dry
+
+? Complete: «___ my bed»
++ make
+- set
+- sweep
+- dry
+
+? Complete: «___ the floor» (with a broom)
++ sweep
+- dry
+- cook
+- set
+
+? Complete: «___ the dishes» (with a towel)
++ dry
+- sweep
+- make
+- cook
+
+? Choose the correct sentence.
++ He has to wash his clothes.
+- He have to wash his clothes.
+- He has wash his clothes.
+- He has to washes his clothes.
+
+? The value of the Unit 6 story is…
++ Help other people
+- Try new things
+- Respect nature
+- Be safe
+
+? The Unit 6 CLIL (History) lesson is about…
++ castle homes
+- ant families
+- volcanoes
+- sea turtles
+
+## Unit 7. Feelings
+
+? «jahli chiqqan» ingliz tilida qanday aytiladi?
++ angry
+- excited
+- hungry
+- tired
+= angry
+
+? What does «angry» mean? (o'zbekcha)
++ jahli chiqqan
+- qiziqqan
+- hayron qolgan
+- qo'rqqan
+
+? «zerikkan» ingliz tilida qanday aytiladi?
++ bored
+- worried
+- hungry
+- scared
+= bored
+
+? What does «bored» mean? (o'zbekcha)
++ zerikkan
+- xavotirlangan
+- qo'rqqan
+- hayron qolgan
+
+? «hayajonlangan» ingliz tilida qanday aytiladi?
++ excited
+- interested
+- thirsty
+- hungry
+= excited
+
+? What does «excited» mean? (o'zbekcha)
++ hayajonlangan
+- qo'rqqan
+- zerikkan
+- och (qorni och)
+
+? «och (qorni och)» ingliz tilida qanday aytiladi?
++ hungry
+- excited
+- interested
+- worried
+= hungry
+
+? What does «hungry» mean? (o'zbekcha)
++ och (qorni och)
+- hayron qolgan
+- xavotirlangan
+- chanqagan
+
+? «qiziqqan» ingliz tilida qanday aytiladi?
++ interested
+- hungry
+- surprised
+- tired
+= interested
+
+? What does «interested» mean? (o'zbekcha)
++ qiziqqan
+- hayajonlangan
+- och (qorni och)
+- hayron qolgan
+
+? «qo'rqqan» ingliz tilida qanday aytiladi?
++ scared
+- thirsty
+- angry
+- bored
+= scared
+
+? What does «scared» mean? (o'zbekcha)
++ qo'rqqan
+- hayron qolgan
+- hayajonlangan
+- xavotirlangan
+
+? «hayron qolgan» ingliz tilida qanday aytiladi?
++ surprised
+- thirsty
+- interested
+- hungry
+= surprised
+
+? What does «surprised» mean? (o'zbekcha)
++ hayron qolgan
+- qo'rqqan
+- qiziqqan
+- zerikkan
+
+? «chanqagan» ingliz tilida qanday aytiladi?
++ thirsty
+- surprised
+- interested
+- bored
+= thirsty
+
+? What does «thirsty» mean? (o'zbekcha)
++ chanqagan
+- xavotirlangan
+- zerikkan
+- hayajonlangan
+
+? «charchagan» ingliz tilida qanday aytiladi?
++ tired
+- scared
+- worried
+- hungry
+= tired
+
+? What does «tired» mean? (o'zbekcha)
++ charchagan
+- jahli chiqqan
+- hayajonlangan
+- chanqagan
+
+? «xavotirlangan» ingliz tilida qanday aytiladi?
++ worried
+- thirsty
+- surprised
+- scared
+= worried
+
+? What does «worried» mean? (o'zbekcha)
++ xavotirlangan
+- charchagan
+- och (qorni och)
+- jahli chiqqan
+
+? Complete: «He's scared ___ he doesn't like spiders.»
++ because
+- so
+- but
+- and
+
+? Complete: «Why ___ she tired?»
++ is
+- does
+- are
+- do
+
+? Complete: «She's tired because she ___ up late.»
++ stayed
+- stay
+- stays
+- staying
+
+? Complete: «I'm worried because the test ___ today.»
++ is
+- are
+- be
+- does
+
+? If you need food, you are…
++ hungry
+- thirsty
+- bored
+- angry
+= hungry
+
+? If you need a drink, you are…
++ thirsty
+- hungry
+- excited
+- tired
+= thirsty
+
+? If you have nothing to do, you feel…
++ bored
+- thirsty
+- scared
+- hungry
+= bored
+
+? You see a big spider and you feel…
++ scared
+- bored
+- thirsty
+- hungry
+= scared
+
+? You stayed up late. Now you are…
++ tired
+- thirsty
+- surprised
+- angry
+= tired
+
+? The test is today. You didn't study. You are…
++ worried
+- bored
+- hungry
+- thirsty
+= worried
+
+? Which word is the opposite of «bored»?
++ interested
+- tired
+- hungry
+- scared
+
+? The value of the Unit 7 story is…
++ Respect nature
+- Help other people
+- Try new things
+- Use technology wisely
+
+? The Unit 7 reading text is…
++ Jack and the Beanstalk
+- The Winter Festival
+- Life on a farm
+- Making movies
+
+? The Unit 7 CLIL (Science) lesson is about…
++ how animals communicate
+- ant families
+- castle homes
+- line charts
+
+## Unit 8. Outdoor sports
+
+? «bodibording» ingliz tilida qanday aytiladi?
++ bodyboarding
+- windsurfing
+- snorkeling
+- go-carting
+= bodyboarding
+
+? What does «bodyboarding» mean? (o'zbekcha)
++ bodibording
+- akvalang bilan sho'ng'ish
+- eshkak eshish
+- trubka bilan suzish
+
+? «kanoeda suzish» ingliz tilida qanday aytiladi?
++ canoeing
+- hiking
+- rowing
+- bodyboarding
+= canoeing
+
+? What does «canoeing» mean? (o'zbekcha)
++ kanoeda suzish
+- piyoda sayohat
+- qoyaga chiqish
+- kartingda poyga
+
+? «kartingda poyga» ingliz tilida qanday aytiladi?
++ go-carting
+- rock climbing
+- rowing
+- scuba diving
+= go-carting
+
+? What does «go-carting» mean? (o'zbekcha)
++ kartingda poyga
+- piyoda sayohat
+- kanoeda suzish
+- trubka bilan suzish
+
+? «piyoda sayohat» ingliz tilida qanday aytiladi?
++ hiking
+- snorkeling
+- rock climbing
+- bodyboarding
+= hiking
+
+? What does «hiking» mean? (o'zbekcha)
++ piyoda sayohat
+- bodibording
+- batutda sakrash
+- eshkak eshish
+
+? «qoyaga chiqish» ingliz tilida qanday aytiladi?
++ rock climbing
+- hiking
+- bodyboarding
+- canoeing
+= rock climbing
+
+? What does «rock climbing» mean? (o'zbekcha)
++ qoyaga chiqish
+- eshkak eshish
+- piyoda sayohat
+- vindserfing
+
+? «eshkak eshish» ingliz tilida qanday aytiladi?
++ rowing
+- scuba diving
+- trampolining
+- snorkeling
+= rowing
+
+? What does «rowing» mean? (o'zbekcha)
++ eshkak eshish
+- batutda sakrash
+- kanoeda suzish
+- piyoda sayohat
+
+? «akvalang bilan sho'ng'ish» ingliz tilida qanday aytiladi?
++ scuba diving
+- canoeing
+- hiking
+- windsurfing
+= scuba diving
+
+? What does «scuba diving» mean? (o'zbekcha)
++ akvalang bilan sho'ng'ish
+- batutda sakrash
+- kanoeda suzish
+- trubka bilan suzish
+
+? «trubka bilan suzish» ingliz tilida qanday aytiladi?
++ snorkeling
+- canoeing
+- trampolining
+- go-carting
+= snorkeling
+
+? What does «snorkeling» mean? (o'zbekcha)
++ trubka bilan suzish
+- kartingda poyga
+- piyoda sayohat
+- bodibording
+
+? «batutda sakrash» ingliz tilida qanday aytiladi?
++ trampolining
+- hiking
+- go-carting
+- bodyboarding
+= trampolining
+
+? What does «trampolining» mean? (o'zbekcha)
++ batutda sakrash
+- bodibording
+- qoyaga chiqish
+- eshkak eshish
+
+? «vindserfing» ingliz tilida qanday aytiladi?
++ windsurfing
+- hiking
+- trampolining
+- bodyboarding
+= windsurfing
+
+? What does «windsurfing» mean? (o'zbekcha)
++ vindserfing
+- qoyaga chiqish
+- kanoeda suzish
+- batutda sakrash
+
+? Complete: «What did she do last weekend?» — «She ___ canoeing.»
++ went
+- go
+- goes
+- going
+
+? Complete: «They didn't ___ go-carting on Saturday.»
++ go
+- went
+- goes
+- going
+
+? Complete: «When did you go skating?» — «I went skating ___ December.»
++ in
+- on
+- at
+- to
+
+? Complete: «I went hiking ___ Saturday.»
++ on
+- in
+- at
+- to
+
+? Complete: «Where ___ you go last weekend?»
++ did
+- do
+- were
+- does
+
+? Choose the correct sentence.
++ We didn't go swimming.
+- We didn't went swimming.
+- We don't went swimming.
+- We not go swimming.
+
+? Which sport do you do on rocks?
++ rock climbing
+- snorkeling
+- rowing
+- windsurfing
+
+? Which sport uses a board and a sail?
++ windsurfing
+- hiking
+- rowing
+- go-carting
+= windsurfing
+
+? Which sport do you do underwater with an air tank?
++ scuba diving
+- hiking
+- trampolining
+- go-carting
+
+? Which activity is a long walk in nature?
++ hiking
+- rowing
+- bodyboarding
+- canoeing
+= hiking
+
+? Which sport do you do in small cars on a track?
++ go-carting
+- canoeing
+- snorkeling
+- hiking
+
+? The value of the Unit 8 story is…
++ Be safe
+- Respect nature
+- Try new things
+- Help other people
+
+? The Unit 8 CLIL (Sports) lesson is about…
++ what makes our bodies move
+- ant families
+- castle homes
+- volcanoes
