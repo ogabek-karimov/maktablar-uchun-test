@@ -1,0 +1,1341 @@
+fan: tabiiy-fanlar
+kitob: Tabiiy fanlar (Tabiatshunoslik), 4-sinf (I–II qismlar). «Novda Edutainment»
+
+## O'simliklar dunyosi
+
+? Gulli o'simliklar yashash muddatiga ko'ra qanday guruhlarga bo'linadi?
++ Bir yillik, ikki yillik va ko'p yillik
+- Katta va kichik
+- Yovvoyi va madaniy
+- Tez va sekin o'suvchi
+
+? Barglar qanday turlarga bo'linadi?
++ Oddiy va murakkab
+- Katta va kichik
+- Yashil va sariq
+- Tikanli va silliq
+
+? Murakkab barg nechta bo'g'indan iborat bo'ladi?
++ Bir nechta (besh, yetti, ba'zan to'qqiz)
+- Faqat bitta
+- Faqat ikkita
+- Yuzta
+
+? Zamburug' va suvo'tining birga yashashidan hosil bo'lgan organizm nima deyiladi?
++ Lishaynik
+- Mox
+- Qirqquloq
+- Bakteriya
+= lishaynik
+
+? Ma'lum bir hududdagina o'sadigan o'simliklar qanday ataladi?
++ Endemik o'simliklar
+- Madaniy o'simliklar
+- Bir yillik o'simliklar
+- Yirtqich o'simliklar
+= endemik
+
+? O'zbekistonda o'sadigan ko'plab qaysi gullar endemik hisoblanadi?
++ Lolalar
+- Atirgullar
+- Kungaboqarlar
+- Nilufarlar
+= lolalar | lola
+
+? Ildiz, poya va barglardan iborat, lekin gullamaydigan o'simlik qaysi?
++ Qirqquloq
+- Olma
+- Lola
+- Bug'doy
+= qirqquloq
+
+? Ba'zi o'simliklarda barg qanday a'zo vazifasini ham bajaradi?
++ Ko'payish a'zosi
+- Nafas olmaydigan a'zo
+- Ovqat hazm qilish a'zosi
+- Harakat a'zosi
+
+? O'simliklarning eng katta guruhiga nimalar kiradi?
++ O'tlar, butalar, daraxtlar (gulli o'simliklar)
+- Faqat moxlar
+- Faqat zamburug'lar
+- Faqat suvo'tlar
+
+? O'simlikning qaysi qismi suv va mineral moddalarni shimadi?
++ Ildiz
+- Gul
+- Meva
+- Barg
+= ildiz
+
+? Barglar quyosh nurida nima ishlab chiqaradi?
++ Oziq moddalar va kislorod
+- Karbonat angidrid va tuz
+- Faqat suv
+- Tuproq
+
+? O'simliklar nafas olganda va oziq tayyorlaganda havoga qaysi gazni chiqaradi?
++ Kislorod
+- Metan
+- Vodorod
+- Azot
+= kislorod
+
+? Gulning vazifasi nima?
++ Urug' va meva hosil qilish (ko'payish)
+- Suv shimish
+- Tayanch bo'lish
+- Nafas olish
+
+? Urug'dan yangi o'simlikning paydo bo'lishi nima deyiladi?
++ Unib chiqish
+- Gullash
+- Barg to'kish
+- Pishish
+= unib chiqish
+
+? Qaysi biri ko'p yillik o'simlik?
++ Olma daraxti
+- Bug'doy
+- Karam
+- Bodring
+
+? Qaysi biri ikki yillik o'simlik?
++ Sabzi
+- Olma
+- Chinor
+- Bug'doy
+
+? Toshkentdagi qaysi bog' «Toshkentning o'pkasi» deb ataladi (darslikda)?
++ Botanika bog'i
+- Hayvonot bog'i
+- Bolalar bog'i
+- Paxta maydoni
+
+? Lishaynik qayerlarda o'sadi?
++ Toshlar va daraxt po'stloqlarida
+- Faqat suvda
+- Faqat qumda
+- Faqat issiqxonada
+
+? Moxlar qanday joylarda yaxshi o'sadi?
++ Nam, soya joylarda
+- Quruq cho'lda
+- Issiq qumda
+- Muz ustida
+
+? Qaysi o'simlik ignabargli?
++ Archa
+- Terak
+- Tol
+- Olma
+
+? Ko'chatlarni qachon ekish qulay?
++ Erta bahorda yoki kuzda
+- Qishning sovuq kunida
+- Yozning eng issiq kunida
+- Hech qachon
+
+? O'simliklar nima uchun muhim?
++ Oziq, kislorod, dori-darmon va qurilish materiali beradi
+- Faqat chiroy uchun
+- Faqat soya uchun
+- Hech qanday foydasi yo'q
+
+? Qaysi biri dorivor o'simlik?
++ Na'matak
+- Qamish
+- Saksovul
+- Lishaynik
+
+? Barglar kuzda nima uchun to'kiladi?
++ O'simlik qishga tayyorlanadi, suvni tejaydi
+- Shamol ularni sindiradi
+- Ular og'irlashadi
+- Quyosh ularni kuydiradi
+
+? Paxta qaysi turdagi o'simlik?
++ Bir yillik madaniy o'simlik
+- Ko'p yillik daraxt
+- Mox
+- Zamburug'
+
+? O'simlikning qaysi qismi uni tik tutadi?
++ Poya
+- Ildiz
+- Gul
+- Urug'
+= poya
+
+? Qaysi biri murakkab bargli o'simlik?
++ Yong'oq
+- Olma
+- O'rik
+- Terak
+
+? Qaysi biri oddiy bargli o'simlik?
++ Olma
+- Yong'oq
+- Akatsiya
+- Na'matak
+
+? O'zbekistonda «Qizil kitob»ga kiritilgan o'simliklar qanday o'simliklar?
++ Kamayib ketayotgan, muhofaza qilinadigan o'simliklar
+- Eng ko'p o'sadigan o'simliklar
+- Faqat begona o'tlar
+- Faqat mevali daraxtlar
+
+? O'simliklar va hayvonlarning yashash sharoitiga moslashishi nima deyiladi?
++ Adaptatsiya
+- Deformatsiya
+- Tezlanish
+- Lishaynik
+= adaptatsiya
+
+## Hayvonlar dunyosi
+
+? Hayvonlar tana tuzilishiga ko'ra qanday guruhlarga bo'linadi?
++ Umurtqali va umurtqasiz
+- Katta va kichik
+- Uy va yovvoyi
+- Tez va sekin
+
+? Hayvonlar oziqlanishiga ko'ra qanday guruhlarga bo'linadi?
++ Yirtqichlar, o'txo'rlar va hammaxo'rlar
+- Quruqlik va suv hayvonlari
+- Katta va kichik
+- Uchuvchi va suzuvchi
+
+? Umurtqali hayvonlarning ichida nima bor?
++ Bir-biriga ulangan ko'plab suyaklardan iborat skelet
+- Faqat qobiq
+- Skelet yo'q
+- Faqat tog'ay
+
+? Dengiz yulduzlari, dengiz tipratikanlari qaysi guruhga kiradi?
++ Ignaterililar
+- Baliqlar
+- Qushlar
+- Sutemizuvchilar
+= ignaterililar
+
+? Yer yuzidagi yagona sovuq qonli sutemizuvchi qaysi?
++ Yalang'och ko'rsichqon
+- Ko'k kit
+- Fil
+- Ko'rshapalak
+= yalang'och ko'rsichqon
+
+? Yomg'ir chuvalchangi nima uchun shunday ataladi?
++ Yomg'irdan keyin yer yuzasiga chiqqani uchun
+- Yomg'ir yog'dirgani uchun
+- Suvda yashagani uchun
+- Bulutda yashagani uchun
+
+? Yomg'ir chuvalchanglarining tuproq uchun foydasi nima?
++ Tuproqni yumshatadi va unumdor qiladi
+- Tuproqni quritadi
+- O'simliklarni yeydi
+- Foydasi yo'q
+
+? Hayvonlarning yashash sharoitiga moslashishi nima deyiladi?
++ Adaptatsiya
+- Fotosintez
+- Deformatsiya
+- Migratsiya emas
+= adaptatsiya
+
+? Quruqlik-havo yashash muhiti qayerda?
++ Yer yuzasi va uning havo qobig'ida
+- Okean tubida
+- Yer ostida
+- Organizm ichida
+
+? Qaysi yashash muhitlari bor?
++ Suv, quruqlik-havo, tuproq, organizm muhiti
+- Faqat suv
+- Faqat quruqlik
+- Faqat havo
+
+? Qaysi hayvon tuproqda yashaydi?
++ Ko'rsichqon
+- Burgut
+- Delfin
+- Jirafa
+
+? Qaysi hayvon suv muhitida yashaydi?
++ Delfin
+- Tuya
+- Ko'rsichqon
+- Lochin
+
+? Qaysi hayvon umurtqasiz?
++ Chuvalchang
+- Baqa
+- Kaptar
+- Ilon
+
+? Qaysi hayvon sutemizuvchi?
++ Ko'rshapalak
+- Pingvin
+- Toshbaqa
+- Akula
+
+? Qushlarning issiq o'lkalarga uchib ketishi nima deyiladi?
++ Migratsiya
+- Adaptatsiya
+- Deformatsiya
+- Fotosintez
+= migratsiya
+
+? Qishda ba'zi hayvonlar uzoq uxlaydi. Bu nima deyiladi?
++ Qishki uyqu
+- Migratsiya
+- Gullash
+- Tullash
+
+? Qaysi hayvon qishki uyquga ketadi?
++ Ayiq
+- Bo'ri
+- Tulki
+- Quyon
+
+? Tuya cho'l sharoitiga qanday moslashgan?
++ Uzoq vaqt suv ichmasdan yura oladi
+- U suzishni yaxshi biladi
+- U daraxtga chiqadi
+- U qishki uyquga ketadi
+
+? Qaysi hayvon O'zbekiston cho'llarida yashaydi?
++ Jayron
+- Panda
+- Kenguru
+- Pingvin
+
+? Hasharotlarning tanasi necha qismdan iborat?
++ 3 ta
+- 2 ta
+- 4 ta
+- 6 ta
+= 3
+
+? O'rgimchakning nechta oyog'i bor?
++ 8 ta
+- 6 ta
+- 4 ta
+- 10 ta
+= 8
+
+? Qaysi hayvon o'txo'r?
++ Qo'y
+- Bo'ri
+- Sher
+- Burgut
+
+? Qaysi hayvon yirtqich?
++ Yo'lbars
+- Quyon
+- Sigir
+- Echki
+
+? «Qizil kitob»ga kiritilgan hayvonlar qanday hayvonlar?
++ Kamayib ketayotgan, muhofaza qilinadigan hayvonlar
+- Eng ko'p uchraydigan hayvonlar
+- Faqat uy hayvonlari
+- Faqat hasharotlar
+
+? Qaysi hayvon O'zbekiston «Qizil kitobi»ga kiritilgan?
++ Qor qoploni
+- Chumchuq
+- Sichqon
+- Qarg'a
+
+? Baliqlar nima bilan nafas oladi?
++ Jabralari bilan
+- O'pkasi bilan
+- Terisi bilan
+- Burni bilan
+= jabra | jabralari
+
+? Qushlarning tanasi nima bilan qoplangan?
++ Pat bilan
+- Jun bilan
+- Tangacha bilan
+- Tikan bilan
+= pat
+
+? Ilonning tanasi nima bilan qoplangan?
++ Tangacha bilan
+- Pat bilan
+- Jun bilan
+- Tikan bilan
+= tangacha
+
+? Tipratikanning tanasi nima bilan qoplangan?
++ Tikanlar bilan
+- Pat bilan
+- Tangacha bilan
+- Qobiq bilan
+= tikan | tikanlar
+
+? Qaysi hayvon tuxum qo'yadi?
++ Tovuq
+- Mushuk
+- Sigir
+- Ot
+
+## Inson tanasi va salomatlik
+
+? Inson tanasi qanday mayda zarralardan iborat?
++ Hujayralardan
+- Toshlardan
+- Tangachalardan
+- Barglardan
+= hujayralardan | hujayra
+
+? Yoshi katta odamning skeleti nechta suyakdan iborat?
++ 206 ta
+- 106 ta
+- 306 ta
+- 26 ta
+= 206
+
+? Bosh miya qayerda joylashgan?
++ Bosh chanog'i ichida
+- Ko'krak qafasida
+- Qorin bo'shlig'ida
+- Umurtqada
+
+? Bosh miya necha yarimshardan iborat?
++ Ikkita
+- Bitta
+- Uchta
+- To'rtta
+= 2 | ikkita
+
+? Ko'zlar, quloqlar, og'iz va til qanday a'zolar deyiladi?
++ Tashqi a'zolar
+- Ichki a'zolar
+- Ovqat hazm qilish a'zolari
+- Nafas a'zolari
+
+? Qonning suyuq qismi nima deyiladi?
++ Plazma
+- Eritrotsit
+- Leykotsit
+- Trombotsit
+= plazma
+
+? Kislorod tashiydigan qizil qon hujayralari qanday ataladi?
++ Eritrotsitlar
+- Leykotsitlar
+- Trombotsitlar
+- Plazma
+= eritrotsitlar | eritrotsit
+
+? Organizmni mikroblardan himoya qiladigan oq qon hujayralari qanday ataladi?
++ Leykotsitlar
+- Eritrotsitlar
+- Trombotsitlar
+- Plazma
+= leykotsitlar | leykotsit
+
+? Qon ivishida qatnashadigan qon plastinkalari qanday ataladi?
++ Trombotsitlar
+- Eritrotsitlar
+- Leykotsitlar
+- Plazma
+= trombotsitlar | trombotsit
+
+? Qonni butun tanaga haydaydigan a'zo qaysi?
++ Yurak
+- O'pka
+- Oshqozon
+- Jigar
+= yurak
+
+? Qon tashish tizimi nimalardan iborat?
++ Yurak va yo'g'on, ingichka qon tomirlaridan
+- Faqat suyaklardan
+- Faqat mushaklardan
+- O'pka va burundan
+
+? Nafas olish a'zosi qaysi?
++ O'pka
+- Yurak
+- Oshqozon
+- Buyrak
+= o'pka
+
+? Kutilmaganda boshlanib, tez rivojlanadigan kasallik qanday ataladi?
++ O'tkir kasallik
+- Surunkali kasallik
+- Yengil kasallik
+- Irsiy kasallik
+= o'tkir
+
+? Mikroblarni o'stirish uchun ishlatiladigan maxsus likopcha qanday ataladi?
++ Petri likopchasi
+- Mikroskop
+- Termometr
+- Probirka
+= petri
+
+? Sog'lom bo'lish uchun nima qilish kerak?
++ To'g'ri ovqatlanish, sport, gigiyena, yetarli uyqu
+- Kun bo'yi kompyuter o'ynash
+- Shirinlikni ko'p yeyish
+- Kech yotish
+
+? Suyaklarni harakatga keltiradigan a'zolar qaysilar?
++ Mushaklar
+- Asablar
+- Qon tomirlari
+- Teri
+
+? Ovqat hazm qilish a'zolariga nimalar kiradi?
++ Og'iz, qizilo'ngach, oshqozon, ichaklar
+- Yurak, qon tomirlari
+- O'pka, burun
+- Miya, asablar
+
+? Ko'z qaysi sezgi a'zosi?
++ Ko'rish a'zosi
+- Eshitish a'zosi
+- Hid bilish a'zosi
+- Ta'm bilish a'zosi
+
+? Til qaysi sezgi a'zosi?
++ Ta'm bilish a'zosi
+- Ko'rish a'zosi
+- Eshitish a'zosi
+- Hid bilish a'zosi
+
+? Burun qaysi sezgi a'zosi?
++ Hid bilish a'zosi
+- Ta'm bilish a'zosi
+- Eshitish a'zosi
+- Ko'rish a'zosi
+
+? Teri qanday sezgini beradi?
++ Teginish, issiq-sovuqni sezish
+- Ko'rish
+- Eshitish
+- Hid bilish
+
+? Nima uchun qo'lni sovunlab yuvish kerak?
++ Mikroblarni yo'qotish uchun
+- Qo'l oqarishi uchun
+- Qo'l issiq bo'lishi uchun
+- Shunchaki odat uchun
+
+? Tishlarni kuniga necha marta tozalash kerak?
++ Kamida 2 marta
+- Haftada bir marta
+- Oyda bir marta
+- Hech qachon
+= 2 | 2 marta
+
+? Umurtqa pog'onasi nima vazifani bajaradi?
++ Tanani tik tutadi, orqa miyani himoya qiladi
+- Ovqatni hazm qiladi
+- Qonni haydaydi
+- Havo beradi
+
+? Ko'krak qafasi qaysi a'zolarni himoya qiladi?
++ Yurak va o'pkalarni
+- Oshqozonni
+- Miyani
+- Ko'zlarni
+
+? Asab tizimini boshqaruvchi asosiy a'zo qaysi?
++ Bosh miya
+- Yurak
+- Jigar
+- Oshqozon
+= miya | bosh miya
+
+? Vitaminlarga boy oziq-ovqatlar qaysilar?
++ Meva va sabzavotlar
+- Shirinliklar
+- Gazli ichimliklar
+- Chipslar
+
+? Qaysi odat salomatlik uchun zararli?
++ Uzoq vaqt telefon o'ynab, kam harakat qilish
+- Ertalab badantarbiya qilish
+- Meva yeyish
+- Toza havoda sayr qilish
+
+? Jarohat olinganda qon to'xtashiga nima yordam beradi?
++ Trombotsitlar
+- Eritrotsitlar
+- Plazma
+- Leykotsitlar
+
+? Ovqatdan oldin nima qilish kerak?
++ Qo'lni sovunlab yuvish
+- Televizor ko'rish
+- Yugurish
+- Uxlash
+
+## Yer tuzilishi, atmosfera va tuproq
+
+? Yer nechta asosiy qatlamdan iborat?
++ 3 ta: qobiq, mantiya, yadro
+- 2 ta
+- 5 ta
+- 7 ta
+= 3
+
+? Yer qobig'i ostidagi qatlam nima deyiladi?
++ Mantiya
+- Yadro
+- Atmosfera
+- Gidrosfera
+= mantiya
+
+? Yer qobig'ining okean tubidagi qalinligi taxminan qancha?
++ 5 km
+- 80 km
+- 500 km
+- 1 km
+
+? Yer qobig'i Himolay tog'lari ostida qancha qalinlikka yetadi?
++ 80 km gacha
+- 5 km
+- 1000 km
+- 1 km
+
+? Yerning barcha jismlarni o'ziga tortib turadigan kuchi nima deyiladi?
++ Og'irlik kuchi (tortishish kuchi)
+- Ishqalanish kuchi
+- Magnit kuchi
+- Elastiklik kuchi
+= og'irlik kuchi | tortishish kuchi
+
+? Yerni o'rab turgan gaz qobig'i nima deyiladi?
++ Atmosfera
+- Litosfera
+- Gidrosfera
+- Mantiya
+= atmosfera
+
+? Atmosfera sayyoramizni nimadan himoya qiladi?
++ Quyosh nurlanishidan, haddan tashqari issiq va sovuqdan
+- Yomg'irdan
+- Shamoldan
+- Hech narsadan
+
+? Havo nimadan iborat?
++ Bir necha gazlar aralashmasidan
+- Faqat kisloroddan
+- Faqat suvdan
+- Faqat changdan
+
+? Havodagi eng ko'p gaz qaysi?
++ Azot
+- Kislorod
+- Karbonat angidrid
+- Vodorod
+= azot
+
+? Nafas olish uchun zarur gaz qaysi?
++ Kislorod
+- Azot
+- Metan
+- Geliy
+= kislorod
+
+? Eng unumdor, chirindiga boy tuproq qanday ataladi?
++ Qoratuproq
+- Qumli tuproq
+- Loy
+- Sho'r tuproq
+= qoratuproq
+
+? Tuproqning unumdorligini nima belgilaydi?
++ Chirindi (o'simlik va hayvon qoldiqlari) miqdori
+- Toshlar soni
+- Qum rangi
+- Suv sovuqligi
+
+? Kometalar nimadan iborat?
++ Chang va muzdan
+- Faqat temirdan
+- Issiq gazdan
+- Suvdan
+
+? Dinozavrlar yo'q bo'lib ketishining eng ko'p tarqalgan taxmini qaysi?
++ Yerga ulkan meteorit qulagan
+- Ular hammasi uchib ketgan
+- Ular suvga aylangan
+- Ular hali ham yashaydi
+
+? Yer qobig'i yaxlitmi?
++ Yo'q, alohida plitalardan iborat
+- Ha, yaxlit bir bo'lak
+- U suyuq
+- U havodan iborat
+
+? Zilzilalar nima sababdan bo'ladi?
++ Yer qobig'i plitalarining harakatidan
+- Shamoldan
+- Yomg'irdan
+- Oy nuridan
+
+? Vulqondan otilib chiqadigan qaynoq suyuq tog' jinsi nima deyiladi?
++ Lava
+- Tuproq
+- Qum
+- Muz
+= lava
+
+? Yerning eng ichki qatlami nima deyiladi?
++ Yadro
+- Mantiya
+- Qobiq
+- Atmosfera
+= yadro
+
+? Qaysi qatlamda biz yashaymiz?
++ Yer qobig'ida (uning yuzasida)
+- Mantiyada
+- Yadroda
+- Hech qaysisida
+
+? Tuproqdagi chirindi nimadan hosil bo'ladi?
++ O'simlik va hayvon qoldiqlaridan
+- Toshlardan
+- Suvdan
+- Havodan
+
+? Shamol tuproqni uchirib ketishiga qarshi nima qilinadi?
++ Ihota daraxtzorlari ekiladi
+- Tuproq yoqib yuboriladi
+- Hamma daraxtlar kesiladi
+- Hech narsa qilinmaydi
+
+? Atmosfera necha qatlamdan iborat?
++ Bir necha qatlamdan
+- Faqat bitta qatlamdan
+- Qatlami yo'q
+- Mingta qatlamdan
+
+? Ozon qatlami nimadan himoya qiladi?
++ Quyoshning zararli ultrabinafsha nurlaridan
+- Yomg'irdan
+- Sovuqdan
+- Shamoldan
+
+? Yerga tushgan meteoritning izi nima deyiladi?
++ Krater
+- Vodiy
+- Daryo
+- Kon
+= krater
+
+? Tog' jinsi granit asosan nimalardan iborat?
++ Dala shpati, sluda va kvarsdan
+- Faqat tuzdan
+- Faqat suvdan
+- Faqat temirdan
+
+? Qaysi biri tabiiy fizik jism?
++ Tog'
+- Stol
+- Mashina
+- Ruchka
+
+? Qaysi biri sun'iy fizik jism?
++ Kitob
+- Daraxt
+- Tosh
+- Daryo
+
+? Tabiiy jismlar qanday ikkiga bo'linadi?
++ Jonli va jonsiz
+- Katta va kichik
+- Og'ir va yengil
+- Issiq va sovuq
+
+? Jismlar qanday yaratilishiga ko'ra bo'linadi?
++ Tabiiy va sun'iy
+- Qattiq va yumshoq
+- Uzun va qisqa
+- Eski va yangi
+
+? Moddalar qanday turlarga bo'linadi?
++ Organik va noorganik
+- Katta va kichik
+- Issiq va sovuq
+- Rangli va rangsiz
+
+## Suv, daryolar va Orol
+
+? O'zbekistondagi eng katta va sersuv daryolar qaysilar?
++ Amudaryo va Sirdaryo
+- Zarafshon va Chirchiq
+- Qashqadaryo va Surxondaryo
+- Nil va Volga
+
+? Markaziy Osiyodagi eng sersuv daryo qaysi?
++ Amudaryo
+- Sirdaryo
+- Zarafshon
+- Chirchiq
+= amudaryo
+
+? O'zbekistonning eng katta ekologik muammolaridan biri qaysi?
++ Orol dengizining qurishi
+- Daryolarning ko'payishi
+- Tog'larning o'sishi
+- O'rmonlarning juda ko'payishi
+
+? Orol dengizi qurimasidan avval dunyodagi eng katta ko'llar ichida nechanchi o'rinda edi?
++ To'rtinchi
+- Birinchi
+- O'ninchi
+- Ikkinchi
+= 4 | to'rtinchi
+
+? O'zbekiston hududining qancha qismi cho'l va sahrolardan iborat?
++ Uchdan ikki qismi
+- Yarmi
+- Beshdan bir qismi
+- Hammasi
+
+? O'zbekistondagi daryolar asosan qayerga quyiladi?
++ Ko'llarga yoki Orol dengiziga
+- Tinch okeaniga
+- Qora dengizga
+- Hech qayerga
+
+? Daryoning boshlanish joyi nima deyiladi?
++ Daryo boshi (manba)
+- Daryo quyilishi
+- Irmoq
+- O'zan
+
+? Katta daryoga quyiladigan kichik daryo nima deyiladi?
++ Irmoq
+- Ko'l
+- Kanal
+- Dengiz
+= irmoq
+
+? Suv qanday uch holatda bo'ladi?
++ Qattiq, suyuq, gaz
+- Issiq, sovuq, iliq
+- Toza, iflos, sho'r
+- Katta, kichik, o'rta
+
+? Suv bug'i qanday holatdagi suv?
++ Gaz holati
+- Qattiq holat
+- Suyuq holat
+- Muz holati
+= gaz
+
+? Muz qanday holatdagi suv?
++ Qattiq holat
+- Suyuq holat
+- Gaz holati
+- Bug'
+= qattiq
+
+? Suv necha gradusda muzlaydi?
++ 0°C da
+- 100°C da
+- 10°C da
+- −50°C da
+= 0
+
+? Suv necha gradusda qaynaydi (normal sharoitda)?
++ 100°C da
+- 0°C da
+- 50°C da
+- 200°C da
+= 100
+
+? Iflos suvni tozalash uchun oddiy filtrni nimalardan yasash mumkin?
++ Mato, ko'mir va qumdan
+- Qog'oz va bo'yoqdan
+- Shakar va tuzdan
+- Temir va misdan
+
+? O'simlik va jonzotlar tarkibining katta qismi nimadan iborat?
++ Suvdan
+- Toshdan
+- Temirdan
+- Havodan
+
+? Suvni tejash uchun nima qilish kerak?
++ Jo'mrakni ochiq qoldirmaslik
+- Suvni doim oqizib qo'yish
+- Ariqqa chiqindi tashlash
+- Suvni behuda ishlatish
+
+? Orolning qurishi atrof-muhitga qanday ta'sir qildi?
++ Tuz va chang tarqalib, yerlar sho'rlandi, odamlar salomatligiga zarar yetdi
+- Havo tozalandi
+- Yerlar unumdor bo'ldi
+- Hech qanday ta'sir qilmadi
+
+? Yerlarning cho'lga aylanishi nima deyiladi?
++ Cho'llanish
+- Adaptatsiya
+- Deformatsiya
+- Migratsiya
+= cho'llanish
+
+? Tabiatda suvning aylanishida suv qanday harakatlanadi?
++ Bug'lanadi — bulut hosil bo'ladi — yog'in bo'lib tushadi
+- Faqat yer ostida qoladi
+- Faqat muzlaydi
+- Hech qachon o'zgarmaydi
+
+? Qaysi biri chuchuk suvli havza?
++ Daryo
+- Okean
+- Dengiz
+- Sho'r ko'l
+
+? Ichimlik suvini nima uchun qaynatib ichish kerak?
++ Zararli mikroblarni o'ldirish uchun
+- Ta'mi shirin bo'lishi uchun
+- Rangini o'zgartirish uchun
+- Og'irlashishi uchun
+
+? Daryoga qurilib, suvni to'playdigan inshoot nima deyiladi?
++ Suv ombori (to'g'on)
+- Kon
+- Shaxta
+- Quduq
+
+? Amudaryo qayerga quyiladi?
++ Orol dengiziga
+- Kaspiy dengiziga
+- Hind okeaniga
+- Sirdaryoga
+
+? Sirdaryo qayerga quyiladi?
++ Orol dengiziga
+- Amudaryoga
+- Qora dengizga
+- Tinch okeaniga
+
+? Suvni muhofaza qilish uchun nima qilmaslik kerak?
++ Suv havzalariga chiqindi tashlash
+- Daraxt ekish
+- Suvni tejash
+- Daryo bo'yini tozalash
+
+? Muz suvda nima uchun cho'kmaydi?
++ Muz suvdan yengil
+- Muz suvdan og'ir
+- Muz issiq
+- Muz suvni yoqtirmaydi
+
+? Yer yuzidagi suvning katta qismi qayerda?
++ Okeanlarda (sho'r suv)
+- Daryolarda
+- Ko'llarda
+- Quduqlarda
+
+? Bug'lanish qachon tezroq bo'ladi?
++ Issiq va shamolli havoda
+- Sovuq va shamolsiz havoda
+- Tunda
+- Muz ustida
+
+? Bulutlardan tushadigan suv nima deyiladi?
++ Yog'in
+- Bug'
+- Muz
+- Daryo
+= yog'in | yog'ingarchilik
+
+? Daryo suvining harakatlanadigan yo'li nima deyiladi?
++ O'zan
+- Irmoq
+- Delta
+- Manba
+= o'zan
+
+## Foydali qazilmalar, metallar va qotishmalar
+
+? Bir turdagi foydali qazilmalar joylashgan hudud nima deyiladi?
++ Kon
+- Ko'l
+- Vodiy
+- Ombor
+= kon
+
+? Neft qimmatbaho bo'lgani uchun qanday ataladi?
++ «Qora oltin»
+- «Oq oltin»
+- «Ko'k marmar»
+- «Qizil kumush»
+
+? Paxta qanday ataladi?
++ «Oq oltin»
+- «Qora oltin»
+- «Sariq tosh»
+- «Yashil oltin»
+
+? Tarkibida temir bo'lgan birikmalar nima deyiladi?
++ Temir rudasi
+- Bronza
+- Latun
+- Melxior
+= temir rudasi
+
+? Mis bilan qalay aralashmasi nima deyiladi?
++ Bronza
+- Latun
+- Melxior
+- Po'lat
+= bronza
+
+? Mis va rux aralashmasi nima deyiladi?
++ Latun
+- Bronza
+- Melxior
+- Cho'yan
+= latun
+
+? Misning nikel va rux bilan aralashmasi nima deyiladi?
++ Melxior
+- Bronza
+- Latun
+- Po'lat
+= melxior
+
+? Ikki va undan ortiq metall yoki moddalarning qattiq aralashmasi nima deyiladi?
++ Qotishma
+- Ruda
+- Kon
+- Mineral
+= qotishma
+
+? Temirdan boshqa metallar qanday ataladi?
++ Rangli metallar
+- Qora metallar
+- Qimmatbaho toshlar
+- Mineral o'g'itlar
+= rangli metallar
+
+? Foydali qazilmalar necha guruhga bo'linadi (darslikda)?
++ 3 ta
+- 2 ta
+- 5 ta
+- 10 ta
+= 3
+
+? Yonilg'i tayyorlanadigan qazilmalar qanday ataladi?
++ Qazilma yoqilg'ilar
+- Rudali qazilmalar
+- Qurilish materiallari
+- Qimmatbaho toshlar
+
+? Qaysi biri qazilma yoqilg'i?
++ Ko'mir
+- Oltin
+- Granit
+- Mis
+
+? Qaysi biri metall?
++ Mis
+- Ko'mir
+- Neft
+- Granit
+
+? Qaysi biri qurilish materiali sifatida ishlatiladi?
++ Granit va marmar
+- Neft
+- Oltin
+- Gaz
+
+? Tabiiy gaz qanday maqsadda ishlatiladi?
++ Uylarni isitish va ovqat pishirish
+- Kiyim tikish
+- Kitob bosish
+- Non yopishga un sifatida
+
+? Metan bilan vodorod nima uchun xavfli?
++ Portlab ketishi mumkin
+- Juda og'ir
+- Juda sovuq
+- Rangli
+
+? Oltin qanday metall?
++ Qimmatbaho metall
+- Qora metall
+- Yoqilg'i
+- Qurilish toshi
+
+? O'zbekistonning qaysi koni oltin bilan mashhur?
++ Muruntov
+- Orol
+- Chorvoq
+- Chimyon
+
+? Qaysi biri organik modda (tirik organizmlar ishlab chiqaradi)?
++ Yog'och
+- Temir
+- Oltin
+- Bo'r
+
+? Qaysi biri noorganik modda?
++ Temir
+- Yog'och
+- Kahrabo
+- Paxta
+
+? Foydali qazilmalarni qanday sarflash kerak?
++ To'g'ri va tejamkorlik bilan, kelajak avlod uchun asrab
+- Imkon qadar ko'p va tez
+- Faqat isrof qilib
+- Hech qachon ishlatmay
+
+? Mis qayerda ko'p ishlatiladi?
++ Elektr simlarida
+- Non yopishda
+- Kiyim tikishda
+- Qog'oz ishlab chiqarishda
+
+? Po'lat nimaning qotishmasi?
++ Temir va uglerodning
+- Mis va qalayning
+- Oltin va kumushning
+- Qum va suvning
+
+? Shisha asosan nimadan tayyorlanadi?
++ Qumdan
+- Temirdan
+- Neftdan
+- Ko'mirdan
+
+? Kahrabo qanday modda?
++ Daraxt smolasidan hosil bo'lgan organik modda
+- Metall
+- Gaz
+- Tuz
+
+? Qaysi qazilma tuzlangan taomlar uchun ishlatiladi?
++ Osh tuzi
+- Ko'mir
+- Neft
+- Granit
+
+? Neftdan nima olinadi?
++ Benzin, kerosin, mazut
+- Un va shakar
+- Paxta va ipak
+- Tuz va bo'r
+
+? Qaysi biri qimmatbaho tosh?
++ Olmos
+- Granit
+- Ohaktosh
+- Qum
+
+? Ruda nima?
++ Metall olinadigan tog' jinsi
+- Qotishma
+- Yoqilg'i
+- O'simlik
+
+? Bo'r qayerda ishlatiladi?
++ Doskaga yozishda va qurilishda
+- Yoqilg'i sifatida
+- Elektr simlarida
+- Ziynat buyumida
+
+## Kuch, harakat, yorug'lik, elektr va magnit hodisalari
+
+? Jismning shaklini o'zgartirish nima deyiladi?
++ Deformatsiya
+- Tezlanish
+- Ishqalanish
+- Adaptatsiya
+= deformatsiya
+
+? Tezlikning o'zgarishi nima deyiladi?
++ Tezlanish
+- Deformatsiya
+- Ishqalanish
+- Og'irlik
+= tezlanish
+
+? Ikki sirt bir-biriga tekkanda harakatga qarshilik qiluvchi kuch nima deyiladi?
++ Ishqalanish kuchi
+- Og'irlik kuchi
+- Magnit kuchi
+- Elastiklik kuchi
+= ishqalanish kuchi | ishqalanish
+
+? Qaysi sirtda ishqalanish kuchi katta bo'ladi?
++ Notekis (g'adir-budur) sirtda
+- Silliq muz ustida
+- Moylangan sirtda
+- Shisha ustida
+
+? Notekis sirtlar qanday ataladi?
++ Notekis (g'adir-budur) sirtlar
+- Silliq sirtlar
+- Ko'zgu sirtlar
+- Suyuq sirtlar
+
+? Qishda yo'lga qum sepilishiga sabab nima?
++ Ishqalanishni oshirib, sirpanishning oldini olish
+- Muzni ko'paytirish
+- Yo'lni chiroyli qilish
+- Mashinalarni tezlatish
+
+? Quyosh nuri nechta rangdan iborat?
++ 7 ta
+- 3 ta
+- 5 ta
+- 10 ta
+= 7
+
+? Elektr va magnit hodisalari nima bilan bog'liq?
++ Elektr zaryadlari (zaryadlangan zarralar) bilan
+- Yomg'ir bilan
+- Tuproq bilan
+- Ovqat bilan
+
+? Magnit qaysi jismlarni tortadi?
++ Temir buyumlarni
+- Yog'ochni
+- Qog'ozni
+- Shishani
+
+? Magnitning nechta qutbi bor?
++ 2 ta: shimoliy va janubiy
+- 1 ta
+- 3 ta
+- 4 ta
+= 2
+
+? Magnitlarning bir xil qutblari bir-biriga qanday ta'sir qiladi?
++ Itariladi
+- Tortiladi
+- Ta'sir qilmaydi
+- Yopishib qoladi
+
+? Magnitlarning har xil qutblari bir-biriga qanday ta'sir qiladi?
++ Tortiladi
+- Itariladi
+- Ta'sir qilmaydi
+- Yo'qoladi
+
+? Kompas qanday ishlaydi?
++ Magnit mili Yerning magnit maydoni bo'yicha shimolni ko'rsatadi
+- Quyoshga qarab aylanadi
+- Shamol bilan harakatlanadi
+- Batareyasiz ishlamaydi
+
+? Elektr tokini yaxshi o'tkazadigan modda qaysi?
++ Mis
+- Rezina
+- Plastik
+- Yog'och
+
+? Elektr tokini o'tkazmaydigan modda qaysi?
++ Rezina
+- Mis
+- Temir
+- Alyuminiy
+
+? Elektr bilan ishlashda qaysi qoida to'g'ri?
++ Ho'l qo'l bilan rozetka va simlarga tegmaslik
+- Rozetkaga mix tiqish
+- Simni tishlash
+- Buzuq simdan foydalanish
+
+? Jismni harakatga keltirish yoki to'xtatish uchun nima kerak?
++ Kuch
+- Rang
+- Hid
+- Tovush
+
+? Yerga tushayotgan olma qaysi kuch ta'sirida tushadi?
++ Og'irlik kuchi
+- Magnit kuchi
+- Ishqalanish kuchi
+- Shamol kuchi
+
+? Rezina koptok qo'ldan qo'yib yuborilsa, nima uchun yerga tushadi?
++ Yer uni tortadi
+- Havo uni itaradi
+- U og'irlashadi
+- Quyosh uni tortadi
+
+? Kamalak nima sababdan hosil bo'ladi?
++ Quyosh nuri yomg'ir tomchilarida ranglarga ajraladi
+- Bulutlar bo'yalgan
+- Oy nuri tushadi
+- Shamol esadi
+
+? Yorug'lik qanday tarqaladi?
++ To'g'ri chiziq bo'ylab
+- Faqat aylana bo'ylab
+- Burilib-burilib
+- Tarqalmaydi
+
+? Soya nima sababdan hosil bo'ladi?
++ Shaffof bo'lmagan jism yorug'likni to'sib qo'yadi
+- Jism yorug'lik chiqaradi
+- Havo qorayadi
+- Suv tushadi
+
+? Ko'zgu yorug'likka nima qiladi?
++ Qaytaradi
+- Yutib yuboradi
+- O'chiradi
+- Ranglarga bo'ladi
+
+? Tovush nimadan hosil bo'ladi?
++ Jismlarning tebranishidan
+- Yorug'likdan
+- Rangdan
+- Hiddan
+
+? Tovush qayerda tarqalmaydi?
++ Havosiz bo'shliqda (koinotda)
+- Havoda
+- Suvda
+- Qattiq jismda
+
+? Velosiped tormozi qaysi kuch hisobiga ishlaydi?
++ Ishqalanish kuchi
+- Magnit kuchi
+- Og'irlik kuchi
+- Elektr kuchi
+
+? Rezinani cho'zib qo'yib yuborsak, u nima uchun avvalgi holatiga qaytadi?
++ Elastiklik kuchi tufayli
+- Magnit kuchi tufayli
+- Og'irlik kuchi tufayli
+- Ishqalanish tufayli
+
+? Plastilin bosilganda shakli o'zgarib, qaytmaydi. Bu qanday deformatsiya?
++ Qaytmas (plastik) deformatsiya
+- Elastik deformatsiya
+- Deformatsiya emas
+- Magnit hodisasi
+
+? Elektr energiyasi qayerda ishlab chiqariladi?
++ Elektr stansiyalarida
+- Do'konlarda
+- Maktablarda
+- Bog'larda
+
+? Chaqmoq qanday hodisa?
++ Tabiatdagi elektr hodisasi
+- Magnit hodisasi
+- Issiqlik hodisasi
+- Tovush hodisasi
