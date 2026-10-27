@@ -61,7 +61,8 @@ function parseFile(file, grade, subjectId) {
     if (!q) return;
     if (!q.a) errors.push(`${q.at}: to'g'ri javob (+) yo'q`);
     if (q.w.length !== 3) errors.push(`${q.at}: 3 ta xato variant (-) bo'lishi kerak, ${q.w.length} ta bor`);
-    const all = [q.a, ...q.w].filter(Boolean).map(norm);
+    // Katta-kichik harf farqi saqlanadi: imloga oid savollarda variantlar faqat shu bilan farq qilishi mumkin.
+    const all = [q.a, ...q.w].filter(Boolean).map((x) => x.replace(/[ʻʼ‘’`´']/g, "'").replace(/\s+/g, ' ').trim());
     if (new Set(all).size !== all.length) errors.push(`${q.at}: variantlar takrorlangan`);
     topic.q.push(q);
     q = null;
