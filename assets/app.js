@@ -127,7 +127,7 @@
     }).join('');
     setView(`
       <section class="hero">
-        <div class="hero-emoji">🎓</div>
+        <img class="hero-art" src="assets/kids.svg" alt="" width="260" height="240">
         <h1>Bilimingizni sinab ko'ring!</h1>
         <p>2025–2026 o'quv yili maktab darsliklari asosida tuzilgan testlar. Sinfingizni tanlang, fanni tanlang — va boshladik!</p>
         <div class="hero-stats">
