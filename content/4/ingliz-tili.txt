@@ -1,0 +1,1793 @@
+fan: ingliz-tili
+kitob: English, Grade 4 (Guess What! 4, Student's Book). S. Reed, K. Bentley. Cambridge University Press, Uzbekistan edition
+
+## Welcome: appearance and height
+
+? «qora soch» ingliz tilida qanday aytiladi?
++ dark hair
+- short
+- red hair
+- eyes
+= dark hair
+
+? What does «dark hair» mean? (o'zbekcha)
++ qora soch
+- ko'zoynak
+- ko'zlar
+- jingalak soch
+
+? «to'g'ri soch» ingliz tilida qanday aytiladi?
++ straight hair
+- curly hair
+- fair hair
+- dark hair
+= straight hair
+
+? What does «straight hair» mean? (o'zbekcha)
++ to'g'ri soch
+- jingalak soch
+- qora soch
+- malla soch
+
+? «ko'zoynak» ingliz tilida qanday aytiladi?
++ glasses
+- dark hair
+- eyes
+- straight hair
+= glasses
+
+? What does «glasses» mean? (o'zbekcha)
++ ko'zoynak
+- malla soch
+- baland bo'yli
+- past bo'yli
+
+? «och rangli soch» ingliz tilida qanday aytiladi?
++ fair hair
+- short
+- red hair
+- curly hair
+= fair hair
+
+? What does «fair hair» mean? (o'zbekcha)
++ och rangli soch
+- baland bo'yli
+- ko'zoynak
+- qora soch
+
+? «jingalak soch» ingliz tilida qanday aytiladi?
++ curly hair
+- tall
+- short
+- glasses
+= curly hair
+
+? What does «curly hair» mean? (o'zbekcha)
++ jingalak soch
+- ko'zoynak
+- qora soch
+- malla soch
+
+? «malla soch» ingliz tilida qanday aytiladi?
++ red hair
+- straight hair
+- curly hair
+- dark hair
+= red hair
+
+? What does «red hair» mean? (o'zbekcha)
++ malla soch
+- jingalak soch
+- ko'zoynak
+- qora soch
+
+? «baland bo'yli» ingliz tilida qanday aytiladi?
++ tall
+- curly hair
+- dark hair
+- glasses
+= tall
+
+? What does «tall» mean? (o'zbekcha)
++ baland bo'yli
+- past bo'yli
+- qora soch
+- och rangli soch
+
+? «past bo'yli» ingliz tilida qanday aytiladi?
++ short
+- eyes
+- straight hair
+- tall
+= short
+
+? What does «short» mean? (o'zbekcha)
++ past bo'yli
+- ko'zoynak
+- ko'zlar
+- malla soch
+
+? «ko'zlar» ingliz tilida qanday aytiladi?
++ eyes
+- fair hair
+- tall
+- dark hair
+= eyes
+
+? What does «eyes» mean? (o'zbekcha)
++ ko'zlar
+- qora soch
+- malla soch
+- baland bo'yli
+
+? Complete: «What does she ___ like?» — «She's tall.»
++ look
+- looks
+- looking
+- see
+
+? Complete: «He ___ blue eyes.»
++ has
+- have
+- is
+- are
+
+? Complete: «She ___ tall.»
++ 's
+- has
+- have
+- are
+
+? Choose the correct question.
++ What does he look like?
+- What he looks like?
+- What does he looks like?
+- How does he look like?
+
+? Complete: «How ___ are you?» — «I'm 1 m 24 cm.»
++ tall
+- old
+- long
+- much
+
+? Complete: «How high ___ it?»
++ is
+- are
+- does
+- do
+
+? Choose the correct sentence.
++ She has curly hair.
+- She have curly hair.
+- She is curly hair.
+- She has hair curly.
+
+? The value of the Welcome story is…
++ Get involved with your local community
+- Cycle safely
+- Be a good sport
+- Take care of nature
+
+? «glasses» — this word is always…
++ plural (glasses)
+- singular only
+- a verb
+- an adjective
+
+? Which word describes hair?
++ curly
+- blue
+- tall
+- kind
+
+? Which one is the opposite of «tall»?
++ short
+- long
+- big
+- fair
+= short
+
+? Complete: «He ___ wear glasses.» (inkor)
++ doesn't
+- don't
+- isn't
+- not
+
+## Unit 1. Free time activities
+
+? «baliq ovlash» ingliz tilida qanday aytiladi?
++ fishing
+- kayaking
+- mountain biking
+- ice-skating
+= fishing
+
+? What does «fishing» mean? (o'zbekcha)
++ baliq ovlash
+- tog' velosipedi
+- chang'i uchish
+- yelkanli qayiqda suzish
+
+? «konkida uchish» ingliz tilida qanday aytiladi?
++ ice-skating
+- sailing
+- kayaking
+- mountain biking
+= ice-skating
+
+? What does «ice-skating» mean? (o'zbekcha)
++ konkida uchish
+- bouling
+- chang'i uchish
+- skeytbordda uchish
+
+? «skeytbordda uchish» ingliz tilida qanday aytiladi?
++ skateboarding
+- ice-skating
+- kayaking
+- mountain biking
+= skateboarding
+
+? What does «skateboarding» mean? (o'zbekcha)
++ skeytbordda uchish
+- chang'i uchish
+- tog' velosipedi
+- yelkanli qayiqda suzish
+
+? «yelkanli qayiqda suzish» ingliz tilida qanday aytiladi?
++ sailing
+- bowling
+- mountain biking
+- fishing
+= sailing
+
+? What does «sailing» mean? (o'zbekcha)
++ yelkanli qayiqda suzish
+- skeytbordda uchish
+- konkida uchish
+- baliq ovlash
+
+? «kayakda suzish» ingliz tilida qanday aytiladi?
++ kayaking
+- ice-skating
+- fishing
+- bowling
+= kayaking
+
+? What does «kayaking» mean? (o'zbekcha)
++ kayakda suzish
+- chang'i uchish
+- bouling
+- tog' velosipedi
+
+? «bouling» ingliz tilida qanday aytiladi?
++ bowling
+- kayaking
+- skateboarding
+- mountain biking
+= bowling
+
+? What does «bowling» mean? (o'zbekcha)
++ bouling
+- kayakda suzish
+- konkida uchish
+- yelkanli qayiqda suzish
+
+? «tog' velosipedi» ingliz tilida qanday aytiladi?
++ mountain biking
+- fishing
+- skateboarding
+- bowling
+= mountain biking
+
+? What does «mountain biking» mean? (o'zbekcha)
++ tog' velosipedi
+- baliq ovlash
+- konkida uchish
+- kayakda suzish
+
+? «chang'i uchish» ingliz tilida qanday aytiladi?
++ skiing
+- bowling
+- fishing
+- sailing
+= skiing
+
+? What does «skiing» mean? (o'zbekcha)
++ chang'i uchish
+- tog' velosipedi
+- baliq ovlash
+- kayakda suzish
+
+? Complete: «I'm very good ___ skiing.»
++ at
+- in
+- on
+- for
+
+? Complete: «He isn't very good at ___.»
++ sailing
+- sail
+- sails
+- sailed
+
+? Complete: «She's very good at ___.»
++ ice-skating
+- ice-skate
+- ice-skates
+- ice-skated
+
+? Choose the correct sentence.
++ I'm not very good at bowling.
+- I not very good at bowling.
+- I'm not very good in bowl.
+- I'm very not good at bowling.
+
+? Complete: «___ you good at fishing?» — «Yes, I am.»
++ Are
+- Is
+- Do
+- Does
+
+? Complete: «Is she good at kayaking?» — «No, she ___.»
++ isn't
+- doesn't
+- aren't
+- don't
+
+? The value of the Unit 1 story is…
++ Allow others to work
+- Cycle safely
+- Be clean around food
+- Work hard and try your best
+
+? Which activity do you do on snow?
++ skiing
+- sailing
+- fishing
+- kayaking
+= skiing
+
+? Which activity do you do on water?
++ sailing
+- skiing
+- bowling
+- skateboarding
+= sailing | kayaking
+
+? Which activity needs a ball and pins?
++ bowling
+- fishing
+- skiing
+- sailing
+= bowling
+
+? After «good at» we use…
++ a verb with -ing
+- a verb with -ed
+- only a noun with -s
+- «to» + verb
+
+? Which activity needs a bike?
++ mountain biking
+- ice-skating
+- kayaking
+- bowling
+= mountain biking
+
+? Which activity do you do on ice?
++ ice-skating
+- sailing
+- fishing
+- bowling
+= ice-skating
+
+? Complete: «My brother is good at ___ (fish).»
++ fishing
+- fish
+- fishes
+- fished
+
+## Unit 2. Around town
+
+? «savdo markazi» ingliz tilida qanday aytiladi?
++ shopping mall
+- traffic light
+- square
+- subway station
+= shopping mall
+
+? What does «shopping mall» mean? (o'zbekcha)
++ savdo markazi
+- mehmonxona
+- bank
+- piyodalar o'tish joyi
+
+? «maydon» ingliz tilida qanday aytiladi?
++ square
+- shopping mall
+- museum
+- bank
+= square
+
+? What does «square» mean? (o'zbekcha)
++ maydon
+- muzey
+- bank
+- savdo markazi
+
+? «metro bekati» ingliz tilida qanday aytiladi?
++ subway station
+- museum
+- shopping mall
+- crosswalk
+= subway station
+
+? What does «subway station» mean? (o'zbekcha)
++ metro bekati
+- piyodalar o'tish joyi
+- mehmonxona
+- maydon
+
+? «mehmonxona» ingliz tilida qanday aytiladi?
++ hotel
+- restaurant
+- crosswalk
+- shopping mall
+= hotel
+
+? What does «hotel» mean? (o'zbekcha)
++ mehmonxona
+- muzey
+- restoran
+- metro bekati
+
+? «restoran» ingliz tilida qanday aytiladi?
++ restaurant
+- square
+- museum
+- crosswalk
+= restaurant
+
+? What does «restaurant» mean? (o'zbekcha)
++ restoran
+- bank
+- muzey
+- mehmonxona
+
+? «muzey» ingliz tilida qanday aytiladi?
++ museum
+- square
+- subway station
+- hotel
+= museum
+
+? What does «museum» mean? (o'zbekcha)
++ muzey
+- restoran
+- mehmonxona
+- piyodalar o'tish joyi
+
+? «bank» ingliz tilida qanday aytiladi?
++ bank
+- restaurant
+- traffic light
+- hotel
+= bank
+
+? What does «bank» mean? (o'zbekcha)
++ bank
+- maydon
+- metro bekati
+- piyodalar o'tish joyi
+
+? «piyodalar o'tish joyi» ingliz tilida qanday aytiladi?
++ crosswalk
+- subway station
+- square
+- museum
+= crosswalk
+
+? What does «crosswalk» mean? (o'zbekcha)
++ piyodalar o'tish joyi
+- metro bekati
+- savdo markazi
+- mehmonxona
+
+? «svetofor» ingliz tilida qanday aytiladi?
++ traffic light
+- bank
+- museum
+- subway station
+= traffic light
+
+? What does «traffic light» mean? (o'zbekcha)
++ svetofor
+- piyodalar o'tish joyi
+- savdo markazi
+- metro bekati
+
+? Complete: «Where's the museum?» — «It's ___ from the hotel.» (qarshisida)
++ across
+- under
+- into
+- at
+
+? Complete: «It's close ___ the bank.»
++ to
+- from
+- at
+- of
+
+? Complete: «It's far ___ the square.»
++ from
+- to
+- at
+- with
+
+? «close to» means…
++ yaqinida
+- uzoqda
+- ichida
+- tepasida
+
+? «far from» means…
++ uzoqda
+- yaqinida
+- qarshisida
+- ostida
+
+? Where do people sleep when they travel?
++ In a hotel
+- In a bank
+- In a museum
+- At a crosswalk
+
+? Where can you see old and interesting things?
++ In a museum
+- In a bank
+- At a subway station
+- At a traffic light
+
+? Where do you cross the street safely?
++ At a crosswalk
+- In a restaurant
+- In a hotel
+- In a bank
+
+? Where do people keep money?
++ In a bank
+- In a museum
+- In a square
+- In a hotel
+
+? The value of the Unit 2 story is…
++ Cycle safely
+- Be a good sport
+- Take care of nature
+- Allow others to work
+
+? Choose the correct question.
++ Where's the restaurant?
+- Where the restaurant is?
+- Where's is restaurant?
+- Where restaurant?
+
+? CLIL (Math): a ball has the shape of a…
++ sphere
+- cube
+- cone
+- pyramid
+= sphere
+
+? CLIL (Math): a box has the shape of a…
++ cuboid
+- sphere
+- cone
+- cylinder
+= cuboid
+
+## Unit 3. Jobs
+
+? «shifokor» ingliz tilida qanday aytiladi?
++ doctor
+- singer
+- pilot
+- businessman
+= doctor
+
+? What does «doctor» mean? (o'zbekcha)
++ shifokor
+- tadbirkor (erkak)
+- rassom
+- hamshira
+
+? «hamshira» ingliz tilida qanday aytiladi?
++ nurse
+- actor
+- vet
+- pilot
+= nurse
+
+? What does «nurse» mean? (o'zbekcha)
++ hamshira
+- rassom
+- veterinar
+- qo'shiqchi
+
+? «rassom» ingliz tilida qanday aytiladi?
++ artist
+- bus driver
+- businessman
+- nurse
+= artist
+
+? What does «artist» mean? (o'zbekcha)
++ rassom
+- uchuvchi
+- qo'shiqchi
+- hamshira
+
+? «qo'shiqchi» ingliz tilida qanday aytiladi?
++ singer
+- actor
+- vet
+- artist
+= singer
+
+? What does «singer» mean? (o'zbekcha)
++ qo'shiqchi
+- hamshira
+- rassom
+- avtobus haydovchisi
+
+? «aktyor» ingliz tilida qanday aytiladi?
++ actor
+- pilot
+- nurse
+- doctor
+= actor
+
+? What does «actor» mean? (o'zbekcha)
++ aktyor
+- hamshira
+- qo'shiqchi
+- tadbirkor (erkak)
+
+? «veterinar» ingliz tilida qanday aytiladi?
++ vet
+- bus driver
+- singer
+- actor
+= vet
+
+? What does «vet» mean? (o'zbekcha)
++ veterinar
+- uchuvchi
+- hamshira
+- avtobus haydovchisi
+
+? «tadbirkor (erkak)» ingliz tilida qanday aytiladi?
++ businessman
+- artist
+- vet
+- nurse
+= businessman
+
+? What does «businessman» mean? (o'zbekcha)
++ tadbirkor (erkak)
+- shifokor
+- rassom
+- avtobus haydovchisi
+
+? «avtobus haydovchisi» ingliz tilida qanday aytiladi?
++ bus driver
+- doctor
+- actor
+- vet
+= bus driver
+
+? What does «bus driver» mean? (o'zbekcha)
++ avtobus haydovchisi
+- qo'shiqchi
+- aktyor
+- hamshira
+
+? «uchuvchi» ingliz tilida qanday aytiladi?
++ pilot
+- artist
+- nurse
+- actor
+= pilot
+
+? What does «pilot» mean? (o'zbekcha)
++ uchuvchi
+- shifokor
+- avtobus haydovchisi
+- tadbirkor (erkak)
+
+? Complete: «What ___ she do?» — «She's an artist.»
++ does
+- do
+- is
+- are
+
+? Complete: «Where does he work?» — «He ___ in a hospital.»
++ works
+- work
+- working
+- is work
+
+? Complete: «She's ___ artist.»
++ an
+- a
+- the a
+- –
+
+? Complete: «He's ___ pilot.»
++ a
+- an
+- –
+- the an
+
+? Who works in a hospital and helps sick people?
++ doctor
+- pilot
+- actor
+- singer
+= doctor | nurse
+
+? Who takes care of sick animals?
++ vet
+- nurse
+- pilot
+- artist
+= vet
+
+? Who flies a plane?
++ pilot
+- bus driver
+- actor
+- vet
+= pilot
+
+? Who paints pictures?
++ artist
+- singer
+- nurse
+- pilot
+= artist
+
+? Who sings songs?
++ singer
+- actor
+- vet
+- doctor
+= singer
+
+? The value of the Unit 3 story is…
++ Take care of pets and animals
+- Cycle safely
+- Be a good sport
+- Get involved with your local community
+
+? Choose the correct sentence.
++ She works in a bank.
+- She work in a bank.
+- She working in a bank.
+- She works at bank in.
+
+? Where does a bus driver work?
++ On a bus
+- In a hospital
+- In a museum
+- On a plane
+
+## Unit 4. Wild animals (comparatives)
+
+? «kenguru» ingliz tilida qanday aytiladi?
++ kangaroo
+- parrot
+- bear
+- owl
+= kangaroo
+
+? What does «kangaroo» mean? (o'zbekcha)
++ kenguru
+- gorilla
+- koala
+- yaguar
+
+? «koala» ingliz tilida qanday aytiladi?
++ koala
+- owl
+- bear
+- parrot
+= koala
+
+? What does «koala» mean? (o'zbekcha)
++ koala
+- boyo'g'li
+- pingvin
+- yaguar
+
+? «to'tiqush» ingliz tilida qanday aytiladi?
++ parrot
+- koala
+- jaguar
+- owl
+= parrot
+
+? What does «parrot» mean? (o'zbekcha)
++ to'tiqush
+- yaguar
+- boyo'g'li
+- kenguru
+
+? «pingvin» ingliz tilida qanday aytiladi?
++ penguin
+- kangaroo
+- bat
+- gorilla
+= penguin
+
+? What does «penguin» mean? (o'zbekcha)
++ pingvin
+- ko'rshapalak
+- kenguru
+- koala
+
+? «ko'rshapalak» ingliz tilida qanday aytiladi?
++ bat
+- koala
+- parrot
+- owl
+= bat
+
+? What does «bat» mean? (o'zbekcha)
++ ko'rshapalak
+- koala
+- to'tiqush
+- pingvin
+
+? «boyo'g'li» ingliz tilida qanday aytiladi?
++ owl
+- bat
+- bear
+- panda
+= owl
+
+? What does «owl» mean? (o'zbekcha)
++ boyo'g'li
+- yaguar
+- pingvin
+- ko'rshapalak
+
+? «yaguar» ingliz tilida qanday aytiladi?
++ jaguar
+- bat
+- parrot
+- panda
+= jaguar
+
+? What does «jaguar» mean? (o'zbekcha)
++ yaguar
+- ko'rshapalak
+- ayiq
+- panda
+
+? «ayiq» ingliz tilida qanday aytiladi?
++ bear
+- parrot
+- gorilla
+- penguin
+= bear
+
+? What does «bear» mean? (o'zbekcha)
++ ayiq
+- to'tiqush
+- ko'rshapalak
+- pingvin
+
+? «panda» ingliz tilida qanday aytiladi?
++ panda
+- bear
+- gorilla
+- parrot
+= panda
+
+? What does «panda» mean? (o'zbekcha)
++ panda
+- ko'rshapalak
+- ayiq
+- pingvin
+
+? «gorilla» ingliz tilida qanday aytiladi?
++ gorilla
+- jaguar
+- bear
+- penguin
+= gorilla
+
+? What does «gorilla» mean? (o'zbekcha)
++ gorilla
+- koala
+- ko'rshapalak
+- ayiq
+
+? Comparative of «big»:
++ bigger
+- biger
+- more big
+- bigest
+= bigger
+
+? Comparative of «noisy»:
++ noisier
+- noisyer
+- more noisy
+- noisiest
+= noisier
+
+? Comparative of «fast»:
++ faster
+- fastter
+- more fast
+- fastest
+= faster
+
+? Comparative of «tall»:
++ taller
+- taler
+- more tall
+- tallest
+= taller
+
+? Comparative of «small»:
++ smaller
+- smaler
+- more small
+- smallest
+= smaller
+
+? Complete: «Gorillas are bigger ___ parrots.»
++ than
+- that
+- then
+- as
+
+? Choose the correct sentence.
++ A jaguar is faster than a bear.
+- A jaguar is fast than a bear.
+- A jaguar is more faster than a bear.
+- A jaguar faster than a bear.
+
+? Which animal can fly and is active at night?
++ bat
+- penguin
+- kangaroo
+- panda
+= bat | owl
+
+? Which bird can't fly but swims well?
++ penguin
+- parrot
+- owl
+- bat
+= penguin
+
+? Which animal lives in Australia and jumps?
++ kangaroo
+- panda
+- jaguar
+- gorilla
+= kangaroo
+
+? The value of the Unit 4 story is…
++ Take care of nature
+- Be clean around food
+- Cycle safely
+- Allow others to work
+
+? CLIL: A bat is a…
++ mammal
+- bird
+- fish
+- reptile
+= mammal
+
+? CLIL: A penguin is a…
++ bird
+- mammal
+- fish
+- reptile
+= bird
+
+## Unit 5. Food
+
+? «makaron» ingliz tilida qanday aytiladi?
++ pasta
+- salad
+- nuts
+- coffee
+= pasta
+
+? What does «pasta» mean? (o'zbekcha)
++ makaron
+- salat
+- pechenye
+- choy
+
+? «yogurt» ingliz tilida qanday aytiladi?
++ yogurt
+- pizza
+- tea
+- pasta
+= yogurt
+
+? What does «yogurt» mean? (o'zbekcha)
++ yogurt
+- choy
+- salat
+- pechenye
+
+? «sho'rva» ingliz tilida qanday aytiladi?
++ soup
+- coffee
+- nuts
+- pasta
+= soup
+
+? What does «soup» mean? (o'zbekcha)
++ sho'rva
+- yong'oqlar
+- qahva
+- makaron
+
+? «pitsa» ingliz tilida qanday aytiladi?
++ pizza
+- pasta
+- salad
+- coffee
+= pizza
+
+? What does «pizza» mean? (o'zbekcha)
++ pitsa
+- kartoshka chipslari
+- yong'oqlar
+- makaron
+
+? «salat» ingliz tilida qanday aytiladi?
++ salad
+- soup
+- pizza
+- tea
+= salad
+
+? What does «salad» mean? (o'zbekcha)
++ salat
+- choy
+- kartoshka chipslari
+- pitsa
+
+? «yong'oqlar» ingliz tilida qanday aytiladi?
++ nuts
+- cookie
+- pasta
+- salad
+= nuts
+
+? What does «nuts» mean? (o'zbekcha)
++ yong'oqlar
+- makaron
+- salat
+- yogurt
+
+? «choy» ingliz tilida qanday aytiladi?
++ tea
+- pizza
+- nuts
+- coffee
+= tea
+
+? What does «tea» mean? (o'zbekcha)
++ choy
+- makaron
+- yong'oqlar
+- yogurt
+
+? «qahva» ingliz tilida qanday aytiladi?
++ coffee
+- pasta
+- cookie
+- chips
+= coffee
+
+? What does «coffee» mean? (o'zbekcha)
++ qahva
+- yogurt
+- salat
+- pitsa
+
+? «pechenye» ingliz tilida qanday aytiladi?
++ cookie
+- yogurt
+- soup
+- pizza
+= cookie
+
+? What does «cookie» mean? (o'zbekcha)
++ pechenye
+- salat
+- makaron
+- yogurt
+
+? «kartoshka chipslari» ingliz tilida qanday aytiladi?
++ chips
+- cookie
+- pasta
+- soup
+= chips
+
+? What does «chips» mean? (o'zbekcha)
++ kartoshka chipslari
+- yogurt
+- makaron
+- qahva
+
+? Which one is a drink?
++ tea
+- pasta
+- salad
+- cookie
+= tea | coffee
+
+? Which one is hot and you eat it with a spoon?
++ soup
+- cookie
+- nuts
+- chips
+= soup
+
+? The value of the Unit 5 story is…
++ Be clean around food
+- Take care of nature
+- Be a good sport
+- Cycle safely
+
+? What should you do before you eat?
++ Wash your hands
+- Play outside
+- Go to bed
+- Watch TV
+
+? CLIL: Where does water come from?
++ Rain, rivers, lakes and under the ground
+- Only from shops
+- Only from the sea
+- From the sun
+
+? Complete: «What do you usually have ___ lunch?»
++ for
+- at
+- in
+- on
+
+? Choose the correct sentence.
++ I usually have soup for lunch.
+- I usually has soup for lunch.
+- I usual have soup for lunch.
+- I have usually for lunch soup.
+
+? Which food is made from milk?
++ yogurt
+- pasta
+- nuts
+- chips
+= yogurt
+
+? Which one is a healthy snack?
++ nuts
+- chips
+- cookie
+- pizza
+= nuts
+
+? «I'm hungry» means…
++ Men ochman
+- Men chanqadim
+- Men charchadim
+- Men xursandman
+
+? «I'm thirsty» means…
++ Men chanqadim
+- Men ochman
+- Men uyquchiman
+- Men kasalman
+
+## Unit 6. Health
+
+? «qorin og'rig'i» ingliz tilida qanday aytiladi?
++ stomachache
+- headache
+- cold
+- cough
+= stomachache
+
+? What does «stomachache» mean? (o'zbekcha)
++ qorin og'rig'i
+- quloq og'rig'i
+- yo'tal
+- bel og'rig'i
+
+? «bosh og'rig'i» ingliz tilida qanday aytiladi?
++ headache
+- stomachache
+- cold
+- earache
+= headache
+
+? What does «headache» mean? (o'zbekcha)
++ bosh og'rig'i
+- bel og'rig'i
+- tish og'rig'i
+- shamollash
+
+? «tish og'rig'i» ingliz tilida qanday aytiladi?
++ toothache
+- backache
+- stomachache
+- cough
+= toothache
+
+? What does «toothache» mean? (o'zbekcha)
++ tish og'rig'i
+- qorin og'rig'i
+- bel og'rig'i
+- isitma
+
+? «quloq og'rig'i» ingliz tilida qanday aytiladi?
++ earache
+- fever
+- cough
+- cold
+= earache
+
+? What does «earache» mean? (o'zbekcha)
++ quloq og'rig'i
+- yo'tal
+- qorin og'rig'i
+- isitma
+
+? «bel og'rig'i» ingliz tilida qanday aytiladi?
++ backache
+- fever
+- cold
+- headache
+= backache
+
+? What does «backache» mean? (o'zbekcha)
++ bel og'rig'i
+- yo'tal
+- shamollash
+- isitma
+
+? «shamollash» ingliz tilida qanday aytiladi?
++ cold
+- backache
+- earache
+- fever
+= cold
+
+? What does «cold» mean? (o'zbekcha)
++ shamollash
+- yo'tal
+- qorin og'rig'i
+- quloq og'rig'i
+
+? «yo'tal» ingliz tilida qanday aytiladi?
++ cough
+- earache
+- backache
+- cold
+= cough
+
+? What does «cough» mean? (o'zbekcha)
++ yo'tal
+- shamollash
+- bosh og'rig'i
+- qorin og'rig'i
+
+? «isitma» ingliz tilida qanday aytiladi?
++ fever
+- backache
+- earache
+- stomachache
+= fever
+
+? What does «fever» mean? (o'zbekcha)
++ isitma
+- shamollash
+- bel og'rig'i
+- bosh og'rig'i
+
+? Complete: «What's the ___?» — «I have a stomachache.»
++ matter
+- problem is
+- wrong of
+- ill
+
+? Complete: «He ___ a headache.»
++ has
+- have
+- is
+- are
+
+? Complete: «Do you have a cold?» — «Yes, I ___.»
++ do
+- am
+- have
+- does
+
+? Complete: «Does she have a fever?» — «No, she ___.»
++ doesn't
+- don't
+- isn't
+- hasn't got a
+
+? You eat too many sweets. You may have a…
++ toothache
+- earache
+- backache
+- fever
+= toothache
+
+? Who do you go to when you are sick?
++ A doctor
+- A pilot
+- An artist
+- A singer
+
+? The value of the Unit 6 story is…
++ Be a good sport
+- Be clean around food
+- Take care of nature
+- Cycle safely
+
+? CLIL: What can we use plants for?
++ Food, medicine, clothes and building
+- Only for games
+- Nothing
+- Only for colors
+
+? Choose the correct sentence.
++ She has a toothache.
+- She have a toothache.
+- She is a toothache.
+- She has toothache a.
+
+? Your body is very hot. You have a…
++ fever
+- cough
+- backache
+- earache
+= fever
+
+? «How often do you have a cold?» — choose the answer.
++ Once a year.
+- Yes, I do.
+- I'm ten.
+- At school.
+
+? Your ear hurts. You have an…
++ earache
+- toothache
+- backache
+- headache
+= earache
+
+? Your back hurts. You have a…
++ backache
+- earache
+- headache
+- stomachache
+= backache
+
+? You eat too much. You may have a…
++ stomachache
+- earache
+- backache
+- cough
+= stomachache
+
+## Unit 7. At home (was / were)
+
+? «birinchi qavat» ingliz tilida qanday aytiladi?
++ first floor
+- elevator
+- second floor
+- roof
+= first floor
+
+? What does «first floor» mean? (o'zbekcha)
++ birinchi qavat
+- tom
+- chordoq
+- lift
+
+? «ikkinchi qavat» ingliz tilida qanday aytiladi?
++ second floor
+- attic
+- garage
+- roof
+= second floor
+
+? What does «second floor» mean? (o'zbekcha)
++ ikkinchi qavat
+- birinchi qavat
+- garaj
+- zinapoya
+
+? «lift» ingliz tilida qanday aytiladi?
++ elevator
+- basement
+- stairs
+- garage
+= elevator
+
+? What does «elevator» mean? (o'zbekcha)
++ lift
+- birinchi qavat
+- tom
+- ikkinchi qavat
+
+? «tom» ingliz tilida qanday aytiladi?
++ roof
+- basement
+- first floor
+- attic
+= roof
+
+? What does «roof» mean? (o'zbekcha)
++ tom
+- yerto'la
+- ikkinchi qavat
+- birinchi qavat
+
+? «yerto'la» ingliz tilida qanday aytiladi?
++ basement
+- roof
+- second floor
+- stairs
+= basement
+
+? What does «basement» mean? (o'zbekcha)
++ yerto'la
+- ikkinchi qavat
+- garaj
+- lift
+
+? «garaj» ingliz tilida qanday aytiladi?
++ garage
+- roof
+- elevator
+- attic
+= garage
+
+? What does «garage» mean? (o'zbekcha)
++ garaj
+- chordoq
+- lift
+- birinchi qavat
+
+? «zinapoya» ingliz tilida qanday aytiladi?
++ stairs
+- roof
+- elevator
+- attic
+= stairs
+
+? What does «stairs» mean? (o'zbekcha)
++ zinapoya
+- garaj
+- yerto'la
+- chordoq
+
+? «chordoq» ingliz tilida qanday aytiladi?
++ attic
+- elevator
+- basement
+- stairs
+= attic
+
+? What does «attic» mean? (o'zbekcha)
++ chordoq
+- ikkinchi qavat
+- birinchi qavat
+- tom
+
+? Complete: «Where ___ you yesterday morning?»
++ were
+- was
+- are
+- is
+
+? Complete: «I ___ in the kitchen.» (o'tgan zamon)
++ was
+- were
+- am
+- be
+
+? Complete: «Were you at home last night?» — «Yes, I ___.»
++ was
+- were
+- am
+- did
+
+? Complete: «Was he in the garage?» — «No, he ___.»
++ wasn't
+- weren't
+- isn't
+- didn't
+
+? Complete: «They ___ in the basement.» (o'tgan zamon)
++ were
+- was
+- is
+- be
+
+? Past form of «am / is»:
++ was
+- were
+- be
+- been
+= was
+
+? Past form of «are»:
++ were
+- was
+- are'd
+- be
+= were
+
+? Where do people usually keep a car?
++ In the garage
+- In the attic
+- On the roof
+- In the elevator
+
+? Which room is at the very top of a house, under the roof?
++ attic
+- basement
+- garage
+- first floor
+= attic
+
+? Which room is under the ground?
++ basement
+- attic
+- roof
+- second floor
+= basement
+
+? The value of the Unit 7 story is…
++ Take care of your possessions
+- Cycle safely
+- Be a good sport
+- Allow others to work
+
+? CLIL (History): old buildings were often made of…
++ stone, wood and mud bricks
+- plastic only
+- glass only
+- paper
+
+? We use the ___ to go up and down without stairs.
++ elevator
+- attic
+- basement
+- roof
+= elevator
+
+? Complete: «We ___ at school yesterday.»
++ were
+- was
+- are
+- is
+
+## Unit 8. Weather
+
+? «issiq» ingliz tilida qanday aytiladi?
++ hot
+- rainy
+- foggy
+- cloudy
+= hot
+
+? What does «hot» mean? (o'zbekcha)
++ issiq
+- sovuq
+- iliq
+- shamolli
+
+? «quyoshli» ingliz tilida qanday aytiladi?
++ sunny
+- snowy
+- foggy
+- warm
+= sunny
+
+? What does «sunny» mean? (o'zbekcha)
++ quyoshli
+- qorli
+- yomg'irli
+- issiq
+
+? «sovuq» ingliz tilida qanday aytiladi?
++ cold
+- sunny
+- rainy
+- snowy
+= cold
+
+? What does «cold» mean? (o'zbekcha)
++ sovuq
+- bulutli
+- quyoshli
+- yomg'irli
+
+? «iliq» ingliz tilida qanday aytiladi?
++ warm
+- snowy
+- cold
+- sunny
+= warm
+
+? What does «warm» mean? (o'zbekcha)
++ iliq
+- bulutli
+- issiq
+- shamolli
+
+? «qorli» ingliz tilida qanday aytiladi?
++ snowy
+- sunny
+- warm
+- windy
+= snowy
+
+? What does «snowy» mean? (o'zbekcha)
++ qorli
+- iliq
+- bulutli
+- quyoshli
+
+? «bulutli» ingliz tilida qanday aytiladi?
++ cloudy
+- warm
+- rainy
+- cold
+= cloudy
+
+? What does «cloudy» mean? (o'zbekcha)
++ bulutli
+- tumanli
+- quyoshli
+- iliq
+
+? «tumanli» ingliz tilida qanday aytiladi?
++ foggy
+- snowy
+- cloudy
+- rainy
+= foggy
+
+? What does «foggy» mean? (o'zbekcha)
++ tumanli
+- shamolli
+- sovuq
+- qorli
+
+? «shamolli» ingliz tilida qanday aytiladi?
++ windy
+- hot
+- cold
+- foggy
+= windy
+
+? What does «windy» mean? (o'zbekcha)
++ shamolli
+- quyoshli
+- issiq
+- tumanli
+
+? «yomg'irli» ingliz tilida qanday aytiladi?
++ rainy
+- cloudy
+- snowy
+- hot
+= rainy
+
+? What does «rainy» mean? (o'zbekcha)
++ yomg'irli
+- tumanli
+- qorli
+- bulutli
+
+? Complete: «It ___ cold and rainy yesterday.»
++ was
+- is
+- were
+- be
+
+? Complete: «It's hot and sunny ___.»
++ today
+- yesterday
+- last week
+- ago
+
+? Complete: «Was it sunny on Monday?» — «No, it ___.»
++ wasn't
+- isn't
+- weren't
+- didn't
+
+? Complete: «___ it windy yesterday?» — «Yes, it was.»
++ Was
+- Were
+- Is
+- Did
+
+? Adjective from «rain»:
++ rainy
+- raining
+- rainly
+- rained
+= rainy
+
+? Adjective from «sun»:
++ sunny
+- suny
+- sunly
+- sunning
+= sunny
+
+? Adjective from «fog»:
++ foggy
+- fogy
+- fogly
+- fogging
+= foggy
+
+? The value of the Unit 8 story is…
++ Work hard and try your best
+- Take care of nature
+- Cycle safely
+- Be clean around food
+
+? You need an umbrella when it is…
++ rainy
+- sunny
+- hot
+- warm
+= rainy
+
+? You can make a snowman when it is…
++ snowy
+- foggy
+- hot
+- windy
+= snowy
+
+? Choose the correct sentence.
++ It was cloudy yesterday.
+- It were cloudy yesterday.
+- It is cloudy yesterday.
+- It cloudy was yesterday.
+
+? Adjective from «wind»:
++ windy
+- windly
+- winding
+- windyy
+= windy

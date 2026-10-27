@@ -1,0 +1,1558 @@
+fan: ona-tili
+kitob: Ona tili, 4-sinf (I–IV qismlar). D.Dj. Baynazarova va boshq. «Novda Edutainment»
+
+## Tovushlar, harflar va imlo
+
+? O'zbek alifbosida nechta harf bor?
++ 29 ta
+- 26 ta
+- 30 ta
+- 32 ta
+= 29
+
+? O'zbek alifbosida nechta unli harf bor?
++ 6 ta
+- 5 ta
+- 8 ta
+- 10 ta
+= 6
+
+? Unli harflar qatorini toping.
++ a, e, i, o, u, o'
+- b, d, f, g, h, j
+- sh, ch, ng
+- a, b, v, g, d, e
+
+? Bir tovushni ifodalovchi harf birikmalari qaysilar?
++ sh, ch, ng
+- o', g'
+- ya, yo, yu
+- ts, ks
+
+? Unli tovushlarni talaffuz qilganda havo qanday chiqadi?
++ Og'izdan erkin, to'siqsiz
+- To'siqqa uchrab
+- Faqat burundan
+- Umuman chiqmaydi
+
+? Undosh tovushlar ovoz va shovqin ishtirokiga ko'ra qanday turlarga bo'linadi?
++ Jarangli va jarangsiz
+- Unli va undosh
+- Qisqa va cho'ziq
+- Katta va kichik
+
+? Qaysi qatorda faqat jarangsiz undoshlar berilgan?
++ p, t, k, s, sh, ch
+- b, d, g, z, j
+- m, n, l, r
+- a, o, u, e
+
+? Qaysi qatorda faqat jarangli undoshlar berilgan?
++ b, d, g, z, v
+- p, t, k, s, f
+- sh, ch, h, x
+- q, k, t, p
+
+? Tutuq belgisi (') qayerda ishlatiladi?
++ Unlidan keyin cho'zib yoki undoshdan keyin ajratib talaffuz qilinadigan so'zlarda
+- Har bir so'z oxirida
+- Faqat ismlarda
+- Faqat sonlarda
+
+? Qaysi so'z tutuq belgisi bilan yoziladi?
++ ma'no
+- kitob
+- olma
+- maktab
+
+? Qaysi so'z tutuq belgisi bilan to'g'ri yozilgan?
++ sur'at
+- surat'
+- s'urat
+- sura't
+
+? Qaysi so'zda tutuq belgisi tushib qolgan?
++ manaviyat (to'g'risi: ma'naviyat)
+- ta'lim
+- e'tibor
+- sa'y
+
+? «Ta'lim» so'zidagi tutuq belgisi talaffuzga qanday ta'sir qiladi?
++ Oldingi unli cho'ziqroq aytiladi
+- So'z tezroq aytiladi
+- Hech qanday ta'sir qilmaydi
+- Oxirgi harf tushib qoladi
+
+? Qaysi so'zda yonma-yon kelgan bir xil undosh bor?
++ katta
+- kitob
+- daraxt
+- bola
+
+? Qaysi so'zda yonma-yon kelgan unlilar bor?
++ saodat
+- kitob
+- daftar
+- qalam
+
+? «Kitob» so'zining oxirida talaffuzda qaysi tovush eshitiladi?
++ p
+- b
+- d
+- t
+
+? Talaffuzda «p» eshitilsa ham «b» yoziladigan so'zni toping.
++ maktab
+- tup
+- top
+- qop
+
+? Qaysi so'zning oxiridagi «t» talaffuzda tushib qoladi, ammo yoziladi?
++ do'st
+- ot
+- tut
+- mato
+
+? So'zning oxirida qaysi undosh yozilishini aniqlash uchun nima qilinadi?
++ So'zga unli bilan boshlanuvchi qo'shimcha qo'shib ko'riladi
+- So'z teskari o'qiladi
+- So'zdan harf olib tashlanadi
+- So'z baland ovozda aytiladi
+
+? «Teatr» so'zi bo'g'inlarga qanday ajratiladi?
++ te-atr
+- tea-tr
+- t-eatr
+- teat-r
+
+? So'zda nechta unli bo'lsa, shuncha ... bo'ladi.
++ bo'g'in
+- harf
+- undosh
+- gap
+= bo'g'in
+
+? «Muallim» so'zida nechta bo'g'in bor?
++ 3 ta
+- 2 ta
+- 4 ta
+- 7 ta
+= 3
+
+? «Sh» harf birikmasi bo'g'in ko'chirishda qanday ko'chiriladi?
++ Ajratilmaydi, birga ko'chiriladi
+- Ikkiga ajratiladi
+- Tashlab yuboriladi
+- Faqat oldingi satrda qoladi
+
+? Qaysi so'z to'g'ri yozilgan?
++ mo'jiza
+- mojiza
+- mo'jizza
+- mujiza
+
+? Qaysi so'z to'g'ri yozilgan?
++ g'alaba
+- galaba
+- g'alaaba
+- galabba
+
+? Qaysi so'z to'g'ri yozilgan?
++ jamiyat
+- jamiat
+- jamiyyat
+- jamyat
+
+? Qaysi so'z to'g'ri yozilgan?
++ she'r
+- sher' (she'r ma'nosida)
+- sh'er
+- shye'r
+
+? «Sher» va «she'r» so'zlari nima bilan farq qiladi?
++ Tutuq belgisi va ma'nosi bilan
+- Hech narsa bilan
+- Faqat birinchi harfi bilan
+- Faqat bo'g'in soni bilan
+
+? Bosh harf bilan yoziladigan so'zni toping.
++ Toshkent
+- shahar
+- maktab
+- daraxt
+
+? Qaysi so'z «x» harfi bilan yoziladi?
++ xabar
+- hayot
+- hamma
+- havo
+
+? Qaysi so'z «h» harfi bilan yoziladi?
++ hayvon
+- xat
+- xalq
+- xona
+
+## Ma'nodosh, zid ma'noli va shakldosh so'zlar
+
+? Ma'nosi bir-biriga yaqin, shakli har xil so'zlar qanday ataladi?
++ Ma'nodosh so'zlar
+- Zid ma'noli so'zlar
+- Shakldosh so'zlar
+- Asosdosh so'zlar
+= ma'nodosh | ma'nodosh so'zlar
+
+? Bir-biriga qarama-qarshi ma'noli so'zlar qanday ataladi?
++ Zid ma'noli so'zlar
+- Ma'nodosh so'zlar
+- Shakldosh so'zlar
+- Yasama so'zlar
+= zid ma'noli | zid ma'noli so'zlar
+
+? Aytilishi va yozilishi bir xil, ma'nosi har xil bo'lgan so'zlar qanday ataladi?
++ Shakldosh so'zlar
+- Ma'nodosh so'zlar
+- Zid ma'noli so'zlar
+- Qo'shma so'zlar
+= shakldosh | shakldosh so'zlar
+
+? «Chiroyli» so'zining ma'nodoshi qaysi?
++ go'zal
+- xunuk
+- katta
+- tez
+= go'zal
+
+? «Botir» so'zining ma'nodoshi qaysi?
++ jasur
+- qo'rqoq
+- dangasa
+- kichik
+= jasur | mard
+
+? «Do'st» so'zining ma'nodoshi qaysi?
++ o'rtoq
+- dushman
+- qo'shni
+- mehmon
+= o'rtoq
+
+? «Aqlli» so'zining ma'nodoshi qaysi?
++ dono
+- nodon
+- sekin
+- baland
+= dono | zukko
+
+? «Yuz» so'zining ma'nodoshi qaysi?
++ bet, chehra
+- oyoq
+- qo'l
+- orqa
+
+? «Katta» so'zining zid ma'nolisi qaysi?
++ kichik
+- ulkan
+- baland
+- keng
+= kichik
+
+? «Issiq» so'zining zid ma'nolisi qaysi?
++ sovuq
+- iliq
+- qaynoq
+- yumshoq
+= sovuq
+
+? «Kun» so'zining zid ma'nolisi qaysi?
++ tun
+- oy
+- yil
+- hafta
+= tun
+
+? «Do'st» so'zining zid ma'nolisi qaysi?
++ dushman
+- o'rtoq
+- jo'ra
+- og'ayni
+= dushman
+
+? «Keldi» so'zining zid ma'nolisi qaysi?
++ ketdi
+- yetdi
+- chiqdi
+- qaytdi
+= ketdi
+
+? «Mehnatkash» so'zining zid ma'nolisi qaysi?
++ dangasa
+- tirishqoq
+- chaqqon
+- mard
+= dangasa | erinchoq
+
+? «Yorug'» so'zining zid ma'nolisi qaysi?
++ qorong'i
+- yaltiroq
+- oq
+- ravshan
+= qorong'i
+
+? «Ot» so'zi qaysi gapda hayvon ma'nosida kelgan?
++ Bobom otga mindi.
+- Kitobga ot qo'ydik.
+- To'pni uzoqqa ot.
+- Uning oti Anvar.
+
+? «Yuz» so'zi qaysi gapda son ma'nosida kelgan?
++ Kutubxonada yuz ta kitob bor.
+- Uning yuzi qizardi.
+- U yuzini yuvdi.
+- Qizning yuzi chiroyli.
+
+? «Kir» so'zi qaysi gapda harakat ma'nosida kelgan?
++ Uyga kir.
+- Ko'ylak kir bo'libdi.
+- Kirni yuvdik.
+- Qo'llaringda kir bor.
+
+? «Tut» so'zining shakldosh ma'nolarini toping.
++ daraxt nomi va «ushla» ma'nosi
+- faqat daraxt nomi
+- faqat meva
+- rang nomi
+
+? Ma'nodosh so'zlar juftligini toping.
++ shod — xursand
+- shod — xafa
+- katta — kichik
+- kun — tun
+
+? Zid ma'noli so'zlar juftligini toping.
++ baland — past
+- baland — yuksak
+- go'zal — chiroyli
+- tez — chaqqon
+
+? «Ozoda» so'zining ma'nodoshi qaysi?
++ toza
+- iflos
+- katta
+- yangi
+= toza
+
+? «Shirin» so'zining zid ma'nolisi qaysi?
++ achchiq
+- totli
+- mazali
+- yoqimli
+= achchiq
+
+? «Kirdi» so'zining zid ma'nolisi qaysi?
++ chiqdi
+- tushdi
+- qoldi
+- turdi
+= chiqdi
+
+? «Qari» so'zining zid ma'nolisi qaysi?
++ yosh
+- keksa
+- katta
+- ulug'
+= yosh
+
+? Qaysi so'zlar shakldosh so'zlar?
++ yoz (fasl) — yoz (harakat)
+- kitob — kitoblar
+- gul — gulzor
+- yaxshi — yomon
+
+? Qaysi so'zlar zid ma'noli?
++ boy — kambag'al
+- boy — badavlat
+- mard — botir
+- yaqin — qarindosh
+
+? «Tez» so'zining zid ma'nolisi qaysi?
++ sekin
+- chaqqon
+- ildam
+- shoshqin
+= sekin
+
+? «Sevinmoq» so'zining ma'nodoshi qaysi?
++ quvonmoq
+- qayg'urmoq
+- yig'lamoq
+- uxlamoq
+= quvonmoq
+
+? «Qo'rqoq» so'zining zid ma'nolisi qaysi?
++ botir
+- cho'chiydigan
+- yuraksiz
+- jur'atsiz
+= botir | jasur
+
+## So'z tarkibi: asos va qo'shimchalar
+
+? So'zning asosiy ma'nosini bildiruvchi qismi nima deyiladi?
++ Asos
+- Qo'shimcha
+- Bo'g'in
+- Harf
+= asos
+
+? Yangi ma'noli so'z hosil qiladigan qo'shimchalar qanday ataladi?
++ So'z yasovchi qo'shimchalar
+- So'zlarni bog'lovchi qo'shimchalar
+- Egalik qo'shimchalari
+- Kelishik qo'shimchalari
+
+? So'zlarni gapda bir-biriga bog'lovchi qo'shimchalar qaysilar?
++ -ning, -ni, -ga, -da, -dan
+- -chi, -kor, -dosh
+- -li, -siz, -dor
+- -la, -lan
+
+? «Gulzor» so'zining asosi qaysi?
++ gul
+- gulzor
+- -zor
+- gu
+= gul
+
+? «Paxtakor» so'zidagi so'z yasovchi qo'shimcha qaysi?
++ -kor
+- paxta
+- -or
+- -akor
+= -kor | kor
+
+? Qaysi so'z asos va so'z yasovchi qo'shimchadan iborat?
++ ishchi
+- uyga
+- bolaning
+- kitobni
+
+? Qaysi so'zda so'zlarni bog'lovchi qo'shimcha bor?
++ maktabga
+- maktabdosh
+- gulzor
+- ishchi
+
+? «Bilimdon» so'zining asosi qaysi?
++ bilim
+- bil
+- -don
+- bilimdon
+= bilim
+
+? «Tuzsiz» so'zidagi qo'shimcha nimani bildiradi?
++ Belgining yo'qligini
+- Ko'plikni
+- Shaxsni
+- O'rinni
+
+? «Mevali» so'zidagi «-li» qanday qo'shimcha?
++ So'z yasovchi (sifat yasovchi)
+- Kelishik qo'shimchasi
+- Egalik qo'shimchasi
+- Ko'plik qo'shimchasi
+
+? «Qishloqdan» so'zidagi «-dan» qanday qo'shimcha?
++ So'zlarni bog'lovchi (kelishik) qo'shimcha
+- So'z yasovchi qo'shimcha
+- Egalik qo'shimchasi
+- Fe'l yasovchi qo'shimcha
+
+? «Kitobim» so'zidagi «-im» qanday qo'shimcha?
++ Egalik qo'shimchasi
+- So'z yasovchi qo'shimcha
+- Kelishik qo'shimchasi
+- Ko'plik qo'shimchasi
+
+? Bir asosdan yasalgan so'zlar qanday ataladi?
++ Asosdosh so'zlar
+- Shakldosh so'zlar
+- Zid ma'noli so'zlar
+- Ma'nodosh so'zlar
+
+? Qaysi qatorda asosdosh so'zlar berilgan?
++ ish, ishchi, ishla, ishchan
+- ish, gul, tosh, suv
+- katta, kichik, uzun
+- keldi, ketdi, chiqdi
+
+? «Sinfdosh» so'zining tarkibi qanday?
++ sinf + -dosh
+- sin + -fdosh
+- sinfd + -osh
+- si + -nfdosh
+
+? «Ishchan» so'zidagi so'z yasovchi qo'shimcha qaysi?
++ -chan
+- -an
+- ish
+- -han
+= -chan | chan
+
+? «Ishla» so'zidagi so'z yasovchi qo'shimcha qaysi?
++ -la
+- ish
+- -a
+- -sh
+= -la | la
+
+? «Kitoblarimizdan» so'zida nechta qo'shimcha bor?
++ 3 ta (-lar, -imiz, -dan)
+- 1 ta
+- 2 ta
+- 4 ta
+
+? «Qalamlar» so'zidagi «-lar» qanday qo'shimcha?
++ Ko'plik qo'shimchasi
+- Egalik qo'shimchasi
+- So'z yasovchi qo'shimcha
+- Kelishik qo'shimchasi
+
+? Qo'shimchalar so'zga qanday tartibda qo'shiladi?
++ So'z yasovchi, ko'plik, egalik, kelishik
+- Kelishik, egalik, ko'plik, so'z yasovchi
+- Egalik, so'z yasovchi, kelishik
+- Tartib ahamiyatsiz
+
+? «Bog'bon» so'zining asosi qaysi?
++ bog'
+- bon
+- bog'bon
+- -bon
+= bog'
+
+? «Kulgili» so'zidagi so'z yasovchi qo'shimcha qaysi?
++ -li
+- kulgi
+- -gili
+- -i
+= -li | li
+
+? «Uyga» so'zining asosi qaysi?
++ uy
+- -ga
+- uyga
+- u
+= uy
+
+? So'z yasovchi qo'shimcha qo'shilganda so'zning ma'nosi qanday bo'ladi?
++ Yangi ma'no hosil bo'ladi
+- O'zgarmaydi
+- So'z yo'qoladi
+- So'z gapga aylanadi
+
+? «Ota-onamning» so'zida qanday qo'shimchalar bor?
++ Egalik (-m) va kelishik (-ning)
+- Faqat so'z yasovchi
+- Faqat ko'plik
+- Qo'shimcha yo'q
+
+? «Tinchlik» so'zining asosi va qo'shimchasini toping.
++ tinch + -lik
+- tin + -chlik
+- tinchl + -ik
+- ti + -nchlik
+
+? «Rangli» va «rangsiz» so'zlarining asosi qaysi?
++ rang
+- -li
+- -siz
+- ra
+= rang
+
+? Qaysi so'zda so'z yasovchi qo'shimcha yo'q?
++ kitob
+- kitobxon
+- kitobchi
+- kitobli
+
+? «Qushchalar» so'zining asosi qaysi?
++ qush
+- qushcha
+- -chalar
+- qu
+= qush
+
+? «Tilchi» so'zidagi so'z yasovchi qo'shimcha qaysi?
++ -chi
+- til
+- -lchi
+- -i
+= -chi | chi
+
+## Ot va egalik qo'shimchalari
+
+? Kim? Nima? Qayer? so'roqlariga javob bo'ladigan so'zlar nima deyiladi?
++ Ot
+- Sifat
+- Fe'l
+- Son
+= ot
+
+? Egalik qo'shimchalari nimani ko'rsatadi?
++ Shaxs va narsaning kimga qarashli ekanini
+- Yangi so'z yasashni
+- Narsaning rangini
+- Harakatning vaqtini
+
+? Tilda nechta shaxs bor?
++ 3 ta
+- 2 ta
+- 4 ta
+- 6 ta
+= 3
+
+? I shaxs kimni bildiradi?
++ So'zlovchini
+- Tinglovchini
+- O'zgani
+- Hech kimni
+= so'zlovchi | so'zlovchini
+
+? II shaxs kimni bildiradi?
++ Tinglovchini
+- So'zlovchini
+- O'zgani
+- Hayvonni
+= tinglovchi | tinglovchini
+
+? III shaxs kimni bildiradi?
++ O'zgani
+- So'zlovchini
+- Tinglovchini
+- Faqat hayvonlarni
+= o'zga | o'zgani
+
+? I shaxs birlik egalik qo'shimchalari qaysilar?
++ -m, -im
+- -ng, -ing
+- -i, -si
+- -miz, -imiz
+
+? II shaxs birlik egalik qo'shimchalari qaysilar?
++ -ng, -ing
+- -m, -im
+- -i, -si
+- -lari
+
+? III shaxs egalik qo'shimchalari qaysilar?
++ -i, -si
+- -m, -im
+- -ng, -ing
+- -ngiz, -ingiz
+
+? Ko'plik ma'nosini bildiruvchi egalik qo'shimchalari qaysilar?
++ -miz, -imiz, -ngiz, -ingiz, -lari
+- -m, -im, -ng, -ing
+- -ga, -da, -dan
+- -chi, -kor, -dosh
+
+? Unli bilan tugagan so'zga I shaxs birlik egalik qo'shimchasining qaysi shakli qo'shiladi?
++ -m (bola — bolam)
+- -im (bola — bolaim)
+- -ng
+- -si
+
+? Undosh bilan tugagan so'zga I shaxs birlik egalik qo'shimchasining qaysi shakli qo'shiladi?
++ -im (kitob — kitobim)
+- -m (kitob — kitobm)
+- -si
+- -ng
+
+? «Terak» so'ziga III shaxs egalik qo'shimchasi qo'shilsa, qanday yoziladi?
++ teragi
+- teraki
+- terakki
+- terakgi
+= teragi
+
+? «Qishloq» so'ziga III shaxs egalik qo'shimchasi qo'shilsa, qanday yoziladi?
++ qishlog'i
+- qishloqi
+- qishloqqi
+- qishlogi
+= qishlog'i
+
+? «Kurak» so'ziga I shaxs birlik egalik qo'shimchasi qo'shilsa, qanday yoziladi?
++ kuragim
+- kurakim
+- kurakkim
+- kurakm
+= kuragim
+
+? Qaysi so'zga egalik qo'shimchasi qo'shilganda asos o'zgarmaydi?
++ nok (noki)
+- terak (teragi)
+- qishloq (qishlog'i)
+- yurak (yuragi)
+
+? «Burun» so'ziga egalik qo'shimchasi qo'shilganda qanday hodisa ro'y beradi?
++ Tovush tushishi: burni
+- Tovush almashishi: buruni
+- Hech narsa o'zgarmaydi: buruni
+- Tovush orttirilishi: burunni
+
+? «Ona» so'ziga III shaxs egalik qo'shimchasi qo'shilsa qanday bo'ladi?
++ onasi
+- onai
+- onasii
+- onani
+= onasi
+
+? «Kitobingiz» so'zidagi egalik qo'shimchasi qaysi shaxsni bildiradi?
++ II shaxs ko'plik
+- I shaxs birlik
+- III shaxs
+- I shaxs ko'plik
+
+? «Uyimiz» so'zidagi egalik qo'shimchasi qaysi shaxs?
++ I shaxs ko'plik
+- II shaxs birlik
+- III shaxs birlik
+- II shaxs ko'plik
+
+? «Daftaring» so'zidagi egalik qo'shimchasi qaysi shaxs?
++ II shaxs birlik
+- I shaxs birlik
+- III shaxs
+- I shaxs ko'plik
+
+? Egalik qo'shimchalari so'z yasovchi qo'shimchalarmi?
++ Yo'q, ular yangi so'z yasamaydi
+- Ha, ular yangi so'z yasaydi
+- Faqat fe'llarda
+- Faqat sonlarda
+
+? Otlar ko'plikda qaysi qo'shimcha bilan keladi?
++ -lar
+- -miz
+- -ning
+- -chi
+= -lar | lar
+
+? Kishi ismlari va joy nomlari qanday yoziladi?
++ Bosh harf bilan
+- Kichik harf bilan
+- Chiziqcha bilan
+- Qo'shtirnoq ichida
+= bosh harf
+
+? Qaysi so'z ot?
++ quvonch
+- quvonmoq
+- quvnoq
+- quvonib
+
+? Qaysi so'z qaysi so'roqqa javob beradi: «maktabda»?
++ Qayerda?
+- Kimning?
+- Nimani?
+- Qanday?
+
+? «Bolalarimiz» so'zida qanday qo'shimchalar bor?
++ Ko'plik (-lar) va egalik (-imiz)
+- Faqat kelishik
+- So'z yasovchi va kelishik
+- Faqat egalik
+
+? «Yurak» so'ziga II shaxs birlik egalik qo'shimchasi qo'shilsa qanday bo'ladi?
++ yuraging
+- yurakning
+- yurakking
+- yurakim
+= yuraging
+
+? «Shahar» so'ziga III shaxs egalik qo'shimchasi qo'shilsa qanday bo'ladi?
++ shahri
+- shahari
+- shaharsi
+- shaharri
+= shahri
+
+? Egalik qo'shimchasi qo'shilganda qanday hodisalar ro'y berishi mumkin?
++ Tovush almashishi va tovush tushishi
+- Faqat bosh harf yozilishi
+- So'z ikkiga bo'linishi
+- Hech narsa
+
+## Otlarning kelishiklar bilan qo'llanishi
+
+? O'zbek tilida nechta kelishik bor?
++ 6 ta
+- 5 ta
+- 4 ta
+- 7 ta
+= 6
+
+? Qaysi qatorda kelishik qo'shimchalari berilgan?
++ -ning, -ni, -ga, -da, -dan
+- -lar, -chi, -dosh
+- -m, -ng, -si
+- -li, -siz, -dor
+
+? Qaysi kelishikning maxsus qo'shimchasi yo'q?
++ Bosh kelishik
+- Qaratqich kelishigi
+- Tushum kelishigi
+- Chiqish kelishigi
+= bosh kelishik | bosh
+
+? Bosh kelishik qaysi so'roqlarga javob bo'ladi?
++ Kim? Nima? Qayer?
+- Kimning? Nimaning?
+- Kimni? Nimani?
+- Kimga? Nimaga?
+
+? Qaratqich kelishigining qo'shimchasi qaysi?
++ -ning
+- -ni
+- -ga
+- -dan
+= -ning | ning
+
+? Qaratqich kelishigi qaysi so'roqlarga javob bo'ladi?
++ Kimning? Nimaning? Qayerning?
+- Kimni? Nimani?
+- Kimda? Nimada?
+- Kimdan? Nimadan?
+
+? Qaratqich kelishigi otni qaysi so'z turkumiga bog'laydi?
++ Otga
+- Fe'lga
+- Songa
+- Olmoshga emas, ravishga
+= otga | ot
+
+? Tushum kelishigining qo'shimchasi qaysi?
++ -ni
+- -ning
+- -ga
+- -da
+= -ni | ni
+
+? Tushum kelishigi qaysi so'roqlarga javob bo'ladi?
++ Kimni? Nimani? Qayerni?
+- Kimning? Nimaning?
+- Kimga? Nimaga?
+- Kimdan? Nimadan?
+
+? Tushum kelishigi otni qaysi so'z turkumiga bog'laydi?
++ Fe'lga
+- Otga
+- Sifatga
+- Songa
+= fe'lga | fe'l
+
+? Jo'nalish kelishigining qo'shimchalari qaysilar?
++ -ga, -ka, -qa
+- -da, -ta
+- -dan, -tan
+- -ning, -ni
+
+? Jo'nalish kelishigi qaysi so'roqlarga javob bo'ladi?
++ Kimga? Nimaga? Qayerga?
+- Kimda? Nimada?
+- Kimni? Nimani?
+- Kimning? Nimaning?
+
+? O'rin-payt kelishigining qo'shimchasi qaysi?
++ -da
+- -ga
+- -dan
+- -ni
+= -da | da
+
+? O'rin-payt kelishigi qaysi so'roqlarga javob bo'ladi?
++ Kimda? Nimada? Qayerda? Qachon?
+- Kimga? Nimaga?
+- Kimdan? Nimadan?
+- Kimning? Nimaning?
+
+? Chiqish kelishigining qo'shimchasi qaysi?
++ -dan
+- -da
+- -ga
+- -ning
+= -dan | dan
+
+? Chiqish kelishigi qaysi so'roqlarga javob bo'ladi?
++ Kimdan? Nimadan? Qayerdan?
+- Kimda? Nimada?
+- Kimga? Nimaga?
+- Kimni? Nimani?
+
+? «Qishloq» so'ziga jo'nalish kelishigi qo'shimchasi qo'shilsa qanday yoziladi?
++ qishloqqa
+- qishloqga
+- qishlog'ga
+- qishloqka
+= qishloqqa
+
+? «Tilak» so'ziga jo'nalish kelishigi qo'shimchasi qo'shilsa qanday yoziladi?
++ tilakka
+- tilakga
+- tilagga
+- tilakqa
+= tilakka
+
+? «Bog'» so'ziga jo'nalish kelishigi qo'shimchasi qo'shilsa qanday yoziladi?
++ bog'ga
+- boqqa
+- bog'qa
+- bokka
+= bog'ga
+
+? «Do'stimning kitobi» birikmasida «do'stimning» qaysi kelishikda?
++ Qaratqich kelishigida
+- Tushum kelishigida
+- Jo'nalish kelishigida
+- Bosh kelishikda
+
+? «Kitobni o'qidim» gapida «kitobni» qaysi kelishikda?
++ Tushum kelishigida
+- Qaratqich kelishigida
+- O'rin-payt kelishigida
+- Chiqish kelishigida
+
+? «Maktabdan qaytdim» gapida «maktabdan» qaysi kelishikda?
++ Chiqish kelishigida
+- O'rin-payt kelishigida
+- Jo'nalish kelishigida
+- Tushum kelishigida
+
+? «Bog'da gullar ochildi» gapida «bog'da» qaysi kelishikda?
++ O'rin-payt kelishigida
+- Chiqish kelishigida
+- Jo'nalish kelishigida
+- Bosh kelishikda
+
+? «Bolalar hovliga chiqdi» gapida «hovliga» qaysi kelishikda?
++ Jo'nalish kelishigida
+- O'rin-payt kelishigida
+- Chiqish kelishigida
+- Qaratqich kelishigida
+
+? «Qushlar sayraydi» gapida «qushlar» qaysi kelishikda?
++ Bosh kelishikda
+- Qaratqich kelishigida
+- Tushum kelishigida
+- Jo'nalish kelishigida
+
+? O'rin-payt kelishigidagi otlar asosan qaysi so'z turkumiga bog'lanadi?
++ Fe'lga
+- Otga
+- Sifatga
+- Songa
+
+? Ko'plik sonda qaratqich kelishigida kelgan otni toping.
++ otalarning
+- o'quvchining
+- davlatlarni
+- ko'llarga
+
+? Qaysi so'z chiqish kelishigida?
++ shahardan
+- shaharda
+- shaharga
+- shaharning
+
+? Qaysi so'z tushum kelishigida?
++ olmani
+- olmaning
+- olmada
+- olmaga
+
+? «Ot» so'ziga tushum kelishigi qo'shilganda qanday yoziladi?
++ otni
+- otti
+- otini
+- otni'
+
+## Sifat, son va ot yasovchi qo'shimchalar
+
+? Shaxs-narsa belgisini bildirgan so'z nima deyiladi?
++ Sifat
+- Ot
+- Son
+- Fe'l
+= sifat
+
+? Sifat qaysi so'roqlarga javob bo'ladi?
++ Qanday? Qanaqa?
+- Kim? Nima?
+- Nechta? Qancha?
+- Nima qildi?
+
+? Shaxs va narsaning sanog'ini bildirgan so'z nima deyiladi?
++ Son
+- Sifat
+- Ot
+- Olmosh
+= son
+
+? Tartib sonlar raqam bilan yozilganda qanday belgi bilan yoziladi?
++ Chiziqcha (-) bilan: 4-sinf
+- Nuqta bilan: 4.sinf
+- Vergul bilan: 4,sinf
+- Belgisiz: 4sinf
+
+? Belgini kuchaytirib ko'rsatuvchi sifatlar qanday yoziladi?
++ to'ppa-to'g'ri, sap-sariq
+- to'ppato'g'ri, sapsariq (har doim qo'shib)
+- to'ppa to'g'ri, sap sariq
+- to'g'ri-to'g'ri
+
+? Qaysi sifat qo'shib yoziladi?
++ oppoq
+- to'q qizil
+- och pushti
+- sap-sariq
+
+? Qaysi sifat ajratib yoziladi?
++ to'q qizil
+- oppoq
+- ko'kimtir
+- qip-qizil
+
+? Belgining ozligini bildiruvchi sifat qaysi?
++ ko'kimtir
+- ko'mko'k
+- yam-yashil
+- qop-qora
+
+? -chi, -kor qo'shimchalari qanday ma'noli ot yasaydi?
++ Shaxs ma'nosini
+- O'rin-joy ma'nosini
+- Belgi ma'nosini
+- Harakat ma'nosini
+
+? -zor, -loq qo'shimchalari qanday ma'noli ot yasaydi?
++ O'rin-joy ma'nosini
+- Shaxs ma'nosini
+- Rang ma'nosini
+- Son ma'nosini
+
+? «Sinfdosh» so'zidagi -dosh qo'shimchasi qanday ma'no beradi (darslikda)?
++ Birgalik, sherik shaxs (sinfdosh — bir sinfdagi)
+- Rang
+- Son
+- Harakat
+
+? «Olmazor» so'zi qanday yasalgan?
++ olma + -zor (o'rin-joy)
+- olma + -chi (shaxs)
+- ol + -mazor
+- olmaz + -or
+
+? Qaysi so'z ot yasovchi qo'shimcha bilan yasalgan?
++ suvchi
+- suvli
+- suvsiz
+- suvda
+
+? Qaysi so'z sifat?
++ chiroyli
+- chiroy
+- chiroylilik
+- chiroyini
+
+? Qaysi so'z son?
++ yettinchi
+- yetti marta yurdi (fe'l)
+- yetuk
+- yetim
+
+? Sanoq songa qaysi qo'shimcha qo'shilsa, tartib son hosil bo'ladi?
++ -inchi (-nchi)
+- -ta
+- -lar
+- -li
+= -inchi | -nchi
+
+? «Beshta», «beshinchi» so'zlari qaysi so'z turkumiga kiradi?
++ Son
+- Sifat
+- Ot
+- Fe'l
+= son
+
+? «Oq», «qora», «yashil» so'zlari nimani bildiradi?
++ Rang-tus belgisini
+- Maza belgisini
+- Hajm belgisini
+- Shakl belgisini
+
+? «Achchiq», «shirin», «nordon» so'zlari nimani bildiradi?
++ Maza-ta'm belgisini
+- Rang belgisini
+- Hajm belgisini
+- Harakatni
+
+? «Rassom» so'zi qaysi so'z turkumiga kiradi?
++ Ot
+- Sifat
+- Fe'l
+- Son
+= ot
+
+? «Bilimli» so'zi qaysi so'z turkumiga kiradi?
++ Sifat
+- Ot
+- Fe'l
+- Son
+= sifat
+
+? Sifat gapda odatda qaysi so'z turkumi oldida keladi?
++ Ot oldida
+- Fe'l oldida
+- Son oldida
+- Olmosh oldida
+
+? Qaysi qatorda faqat sifatlar berilgan?
++ baland, past, keng, tor
+- baland, balandlik, balandlash
+- tog', daryo, cho'l
+- yugurdi, chopdi, yurdi
+
+? «XXI asr» yozuvida son qanday ifodalangan?
++ Rim raqami bilan
+- Arab raqami bilan
+- Harf bilan
+- Belgi bilan
+
+? «Yuzinchi» so'zi qanday son?
++ Tartib son
+- Sanoq son
+- Kasr son
+- Sifat
+= tartib son | tartib
+
+? «Mehnatkash» so'zi qaysi so'z turkumiga kiradi?
++ Sifat (ot sifatida ham qo'llanadi)
+- Fe'l
+- Son
+- Olmosh
+
+? Yasama sifat qaysi?
++ kuchli
+- kuch
+- kuchaydi
+- kuchni
+
+? «Qip-qizil» so'zi qanday yoziladi?
++ Chiziqcha bilan
+- Qo'shib
+- Ajratib
+- Tutuq bilan
+
+? «Ko'kimtir» so'zi qanday yoziladi?
++ Qo'shib
+- Chiziqcha bilan
+- Ajratib
+- Katta harf bilan
+
+? «Kitobxon» so'zi qaysi qo'shimcha bilan yasalgan?
++ -xon
+- -on
+- -ob
+- -kitob
+= -xon | xon
+
+## Kishilik olmoshlari
+
+? Kishilik olmoshlari qaysilar?
++ men, sen, u, biz, siz, ular
+- bu, shu, o'sha
+- kim, nima, qayer
+- hamma, barcha, har kim
+
+? Kishilik olmoshlari nechta shaxsdan biriga ishora qiladi?
++ Uch shaxsdan biriga
+- Faqat birinchi shaxsga
+- Faqat narsalarga
+- Hech qaysiga
+
+? «Men» olmoshi qaysi shaxs va sonda?
++ I shaxs birlik
+- II shaxs birlik
+- III shaxs birlik
+- I shaxs ko'plik
+
+? «Biz» olmoshi qaysi shaxs va sonda?
++ I shaxs ko'plik
+- II shaxs ko'plik
+- III shaxs ko'plik
+- I shaxs birlik
+
+? «Sen» olmoshi qaysi shaxs va sonda?
++ II shaxs birlik
+- I shaxs birlik
+- III shaxs birlik
+- II shaxs ko'plik
+
+? «Siz» olmoshi qaysi shaxs va sonda?
++ II shaxs ko'plik (hurmat shakli)
+- I shaxs ko'plik
+- III shaxs ko'plik
+- II shaxs birlik
+
+? «U» olmoshi qaysi shaxs va sonda?
++ III shaxs birlik
+- I shaxs birlik
+- II shaxs birlik
+- III shaxs ko'plik
+
+? «Ular» olmoshi qaysi shaxs va sonda?
++ III shaxs ko'plik
+- III shaxs birlik
+- II shaxs ko'plik
+- I shaxs ko'plik
+
+? «Men» olmoshiga -ning qo'shilsa qanday yoziladi?
++ mening
+- menning
+- meneng
+- meninng
+= mening
+
+? «Sen» olmoshiga -ni qo'shilsa qanday yoziladi?
++ seni
+- senni
+- sennii
+- seniy
+= seni
+
+? «U» olmoshiga jo'nalish kelishigi qo'shimchasi qo'shilsa qanday yoziladi?
++ unga
+- uga
+- ung'a
+- unka
+= unga
+
+? «U» olmoshiga o'rin-payt kelishigi qo'shimchasi qo'shilsa qanday yoziladi?
++ unda
+- uda
+- unnda
+- utda
+= unda
+
+? «U» olmoshiga chiqish kelishigi qo'shimchasi qo'shilsa qanday yoziladi?
++ undan
+- udan
+- unndan
+- utdan
+= undan
+
+? «Men» olmoshiga -niki qo'shilsa qanday yoziladi?
++ meniki
+- menniki
+- meneki
+- menikki
+= meniki
+
+? Qaysi gapda kishilik olmoshi bor?
++ Biz maktabga bordik.
+- Bu kitob qiziq.
+- Kim keldi?
+- Hamma xursand.
+
+? «Ular bog'da o'ynashdi» gapida kishilik olmoshi qaysi?
++ ular
+- bog'da
+- o'ynashdi
+- Gapda olmosh yo'q
+= ular
+
+? Kishilik olmoshlari gapda qaysi so'z turkumi o'rnida qo'llanadi?
++ Ot o'rnida
+- Fe'l o'rnida
+- Sifat o'rnida
+- Son o'rnida
+
+? Qaysi so'z kishilik olmoshi emas?
++ bu
+- men
+- siz
+- ular
+
+? «Menga kitob ber» gapida «menga» qaysi kelishikda?
++ Jo'nalish kelishigida
+- O'rin-payt kelishigida
+- Tushum kelishigida
+- Bosh kelishikda
+
+? «Sizni kutyapmiz» gapida «sizni» qaysi kelishikda?
++ Tushum kelishigida
+- Qaratqich kelishigida
+- Jo'nalish kelishigida
+- Chiqish kelishigida
+
+? «Bizning sinf» birikmasida «bizning» qaysi kelishikda?
++ Qaratqich kelishigida
+- Tushum kelishigida
+- Bosh kelishikda
+- O'rin-payt kelishigida
+
+? «Sendan so'rayman» gapida «sendan» qaysi kelishikda?
++ Chiqish kelishigida
+- O'rin-payt kelishigida
+- Jo'nalish kelishigida
+- Tushum kelishigida
+
+? «Seni» olmoshining bosh kelishikdagi shakli qaysi?
++ sen
+- senga
+- sening
+- senda
+= sen
+
+? Kishilik olmoshlari qanday so'roqlarga javob bo'ladi?
++ Kim? Kimlar? (va kelishiklardagi so'roqlarga)
+- Qanday? Qanaqa?
+- Nechta? Qancha?
+- Nima qildi?
+
+? Qaysi qatorda faqat ko'plikdagi kishilik olmoshlari bor?
++ biz, siz, ular
+- men, sen, u
+- men, biz, u
+- sen, siz, men
+
+? «... kitob o'qiyapman» gapiga mos olmosh qaysi?
++ Men
+- Sen
+- U
+- Ular
+= men
+
+? «... maktabga bordingmi?» gapiga mos olmosh qaysi?
++ Sen
+- Men
+- Biz
+- Ular
+= sen
+
+? «... futbol o'ynashdi» gapiga mos olmosh qaysi?
++ Ular
+- Men
+- Sen
+- Biz
+= ular
+
+? Kishilik olmoshlari o'zi bog'langan fe'l bilan qo'shib yoziladimi?
++ Yo'q, alohida yoziladi
+- Ha, qo'shib yoziladi
+- Chiziqcha bilan yoziladi
+- Faqat she'rda qo'shib yoziladi
+
+? «Unda» so'zi qanday hosil bo'lgan?
++ u + -da (n orttiriladi)
+- un + -da
+- u + -nda
+- und + -a
+
+## Fe'l: ma'nolari, bo'lishli-bo'lishsiz, yasalishi va tuslanishi
+
+? Shaxs va narsaning harakatini bildiruvchi so'z nima deyiladi?
++ Fe'l
+- Ot
+- Sifat
+- Olmosh
+= fe'l
+
+? Fe'l qaysi so'roqlarga javob bo'ladi?
++ Nima qildi? Nima qilyapti? Nima qiladi?
+- Kim? Nima?
+- Qanday? Qanaqa?
+- Nechta? Qancha?
+
+? Harakatning bajarilmaganini bildiruvchi fe'l qanday ataladi?
++ Bo'lishsiz fe'l
+- Bo'lishli fe'l
+- Yasama fe'l
+- Tuslangan fe'l
+= bo'lishsiz
+
+? Bo'lishsiz fe'l qaysi qo'shimcha bilan hosil qilinadi?
++ -ma
+- -la
+- -gan
+- -dim
+= -ma | ma
+
+? «Bormiyman» deb talaffuz qilinadigan so'z qanday yoziladi?
++ bormayman
+- bormiyman
+- bormeyman
+- bormayma
+= bormayman
+
+? Qaysi fe'l bo'lishsiz?
++ o'qimadi
+- o'qidi
+- o'qiyapti
+- o'qiydi
+
+? Fe'l yasovchi qo'shimchalarni toping.
++ -la, -lan, -illa
+- -li, -siz, -dor
+- -chi, -kor, -zor
+- -ning, -ni, -dan
+
+? «Tuz» so'zidan -la qo'shimchasi bilan qanday fe'l yasaladi?
++ tuzla
+- tuzli
+- tuzsiz
+- tuzchi
+= tuzla
+
+? «Taq-taq» so'zidan qanday fe'l yasaladi?
++ taqilladi
+- taqli
+- taqchi
+- taqsiz
+= taqilladi | taqillamoq
+
+? Fe'llarning tuslovchi (shaxs-son) qo'shimchalar bilan qo'llanishi nima deyiladi?
++ Tuslanish
+- Kelishik
+- Egalik
+- Yasalish
+= tuslanish
+
+? «Kuldim» fe'li qaysi shaxs va sonda?
++ I shaxs birlik
+- II shaxs birlik
+- III shaxs birlik
+- I shaxs ko'plik
+
+? «Kuldik» fe'li qaysi shaxs va sonda?
++ I shaxs ko'plik
+- I shaxs birlik
+- II shaxs ko'plik
+- III shaxs ko'plik
+
+? «Kulding» fe'li qaysi shaxs va sonda?
++ II shaxs birlik
+- II shaxs ko'plik
+- I shaxs birlik
+- III shaxs birlik
+
+? «Kuldingiz» fe'li qaysi shaxs va sonda?
++ II shaxs ko'plik
+- II shaxs birlik
+- I shaxs ko'plik
+- III shaxs ko'plik
+
+? «Kuldilar» fe'li qaysi shaxs va sonda?
++ III shaxs ko'plik
+- III shaxs birlik
+- II shaxs ko'plik
+- I shaxs ko'plik
+
+? -gan, -kan, -qan qo'shimchalari nimani bildiradi?
++ Harakatning bajarilganini (o'tgan zamon)
+- Harakatning bajarilmaganini
+- Kelasi zamonni
+- Ko'plikni
+
+? «Ek» fe'liga o'tgan zamon qo'shimchasi qo'shilsa qanday yoziladi?
++ ekkan
+- ekgan
+- ekqan
+- ekan
+= ekkan
+
+? «Boq» fe'liga o'tgan zamon qo'shimchasi qo'shilsa qanday yoziladi?
++ boqqan
+- boqgan
+- boqkan
+- bog'gan
+= boqqan
+
+? «Bor» fe'liga o'tgan zamon qo'shimchasi qo'shilsa qanday yoziladi?
++ borgan
+- borkan
+- borqan
+- borran
+= borgan
+
+? «Kechik» fe'liga o'tgan zamon qo'shimchasi qo'shilsa qanday yoziladi?
++ kechikkan
+- kechikgan
+- kechikqan
+- kechiggan
+= kechikkan
+
+? Gapda fe'l odatda qaysi bo'lak bo'lib keladi?
++ Kesim
+- Ega
+- Aniqlovchi
+- Hech qaysi
+= kesim
+
+? Ifoda maqsadiga ko'ra gaplar necha turga bo'linadi?
++ 4 ta: darak, so'roq, buyruq, his-hayajon
+- 2 ta
+- 3 ta
+- 6 ta
+= 4
+
+? Darak gap oxiriga qaysi tinish belgisi qo'yiladi?
++ Nuqta
+- So'roq belgisi
+- Undov belgisi
+- Vergul
+
+? So'roq gap oxiriga qaysi tinish belgisi qo'yiladi?
++ So'roq belgisi
+- Nuqta
+- Vergul
+- Ikki nuqta
+
+? His-hayajon gap oxiriga qaysi tinish belgisi qo'yiladi?
++ Undov belgisi
+- Nuqta
+- So'roq belgisi
+- Vergul
+
+? Yaqin ma'noli fe'llar juftini toping.
++ gapirdi — so'zladi
+- keldi — ketdi
+- kuldi — yig'ladi
+- ochdi — yopdi
+
+? «Yugur» fe'lining bo'lishsiz shakli qaysi?
++ yugurma
+- yugurla
+- yugurgan
+- yugurdi
+= yugurma
+
+? Fe'l kelishik qo'shimchalari olgan qaysi so'z turkumi bilan bog'lanadi?
++ Ot (va olmosh) bilan
+- Faqat sifat bilan
+- Faqat son bilan
+- Hech qaysi bilan
+
+? «Ishladim» so'zidagi qo'shimchalarni toping.
++ -la (fe'l yasovchi), -di (o'tgan zamon), -m (shaxs)
+- -dim (egalik)
+- -im (kelishik)
+- Qo'shimcha yo'q
+
+? Qaysi so'z fe'l?
++ o'qidi
+- o'qish kitobi (ot)
+- o'quvchi
+- o'qimishli
