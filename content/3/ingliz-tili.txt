@@ -1,0 +1,2226 @@
+fan: ingliz-tili
+kitob: English, Grade 3 (Guess What! 3, Student's Book). S. Reed, K. Bentley. Cambridge University Press, Uzbekistan edition
+
+## Welcome: questions, months, birthdays
+
+? «yanvar» ingliz tilida qanday aytiladi?
++ January
+- November
+- April
+- May
+= january
+
+? What does «January» mean? (o'zbekcha)
++ yanvar
+- iyun
+- sentabr
+- oktabr
+
+? «fevral» ingliz tilida qanday aytiladi?
++ February
+- October
+- April
+- December
+= february
+
+? What does «February» mean? (o'zbekcha)
++ fevral
+- iyul
+- oktabr
+- sentabr
+
+? «mart» ingliz tilida qanday aytiladi?
++ March
+- September
+- June
+- February
+= march
+
+? What does «March» mean? (o'zbekcha)
++ mart
+- iyun
+- avgust
+- dekabr
+
+? «aprel» ingliz tilida qanday aytiladi?
++ April
+- October
+- September
+- January
+= april
+
+? What does «April» mean? (o'zbekcha)
++ aprel
+- noyabr
+- avgust
+- iyun
+
+? «may» ingliz tilida qanday aytiladi?
++ May
+- July
+- October
+- April
+= may
+
+? What does «May» mean? (o'zbekcha)
++ may
+- fevral
+- yanvar
+- iyul
+
+? «iyun» ingliz tilida qanday aytiladi?
++ June
+- May
+- April
+- February
+= june
+
+? What does «June» mean? (o'zbekcha)
++ iyun
+- iyul
+- fevral
+- dekabr
+
+? «iyul» ingliz tilida qanday aytiladi?
++ July
+- April
+- October
+- May
+= july
+
+? What does «July» mean? (o'zbekcha)
++ iyul
+- iyun
+- yanvar
+- dekabr
+
+? «avgust» ingliz tilida qanday aytiladi?
++ August
+- October
+- May
+- December
+= august
+
+? What does «August» mean? (o'zbekcha)
++ avgust
+- iyul
+- dekabr
+- mart
+
+? «sentabr» ingliz tilida qanday aytiladi?
++ September
+- December
+- February
+- January
+= september
+
+? What does «September» mean? (o'zbekcha)
++ sentabr
+- iyun
+- oktabr
+- fevral
+
+? «oktabr» ingliz tilida qanday aytiladi?
++ October
+- February
+- March
+- December
+= october
+
+? What does «October» mean? (o'zbekcha)
++ oktabr
+- fevral
+- iyun
+- yanvar
+
+? «noyabr» ingliz tilida qanday aytiladi?
++ November
+- January
+- July
+- May
+= november
+
+? What does «November» mean? (o'zbekcha)
++ noyabr
+- iyun
+- aprel
+- oktabr
+
+? «dekabr» ingliz tilida qanday aytiladi?
++ December
+- November
+- July
+- August
+= december
+
+? What does «December» mean? (o'zbekcha)
++ dekabr
+- oktabr
+- avgust
+- iyun
+
+? Which month comes after January?
++ February
+- December
+- November
+- October
+= february
+
+? Which month comes after February?
++ March
+- July
+- October
+- April
+= march
+
+? Which month comes after March?
++ April
+- January
+- October
+- September
+= april
+
+? Which month comes after April?
++ May
+- September
+- August
+- February
+= may
+
+? Which month comes after May?
++ June
+- April
+- January
+- October
+= june
+
+? Which month comes after June?
++ July
+- August
+- March
+- October
+= july
+
+? Which month comes after July?
++ August
+- December
+- October
+- January
+= august
+
+? Which month comes after August?
++ September
+- February
+- May
+- October
+= september
+
+? Which month comes after September?
++ October
+- May
+- July
+- November
+= october
+
+? Which month comes after October?
++ November
+- May
+- August
+- September
+= november
+
+? Which month comes after November?
++ December
+- July
+- January
+- October
+= december
+
+? Which month comes after December?
++ January
+- July
+- November
+- April
+= january
+
+? «When's your birthday?» — choose the correct answer.
++ It's in June.
+- It's June the cake.
+- I'm ten.
+- Yes, I do.
+
+? «What's your name?» — choose the answer.
++ My name's Lily.
+- I'm ten years old.
+- Yes, I can.
+- It's yellow.
+
+? «How old are you?» — choose the answer.
++ I'm ten years old.
+- My name's Lily.
+- Yes, I do.
+- It's in May.
+
+? «What's your favorite color?» — choose the answer.
++ My favorite color is yellow.
+- Yes, I do. I have a dog.
+- I'm ten.
+- It's in March.
+
+? «Do you have a pet?» — choose the answer.
++ Yes, I do. I have a dog.
+- Yes, I can.
+- My name's Juan.
+- It's blue.
+
+? «Can you draw a picture of me?» — choose the answer.
++ Yes, I can. I like art.
+- Yes, I do.
+- I'm nine.
+- It's in April.
+
+? How many months are there in a year?
++ 12
+- 10
+- 7
+- 24
+= twelve
+
+? Juan's e-mail: How old is Juan?
++ Ten
+- Nine
+- Eleven
+- Twelve
+= 10
+
+? Juan's e-mail: When is Juan's birthday?
++ In March
+- In May
+- In June
+- In December
+= march
+
+? Juan's e-mail: What is Juan's favorite sport?
++ Baseball
+- Tennis
+- Field hockey
+- Swimming
+= baseball
+
+? Juan's e-mail: How many sisters does Juan have?
++ Two
+- One
+- Three
+- None
+= 2
+
+? Complete: «Can I ___ outside, please?» — «Yes, of course.»
++ play
+- plays
+- playing
+- played
+
+? The story value in the Welcome unit is…
++ Work together
+- Exercise
+- Try new things
+- Show forgiveness
+
+? Choose the correct question: (ruxsat so'rash)
++ Can we go to the sports center, please?
+- We go sports center can?
+- Go we can sports center?
+- Can go we to sports?
+
+? What can you see in a landscape painting?
++ Mountains, forests and the ocean
+- Only people
+- Only cars
+- Only numbers
+
+## Unit 1. In the yard
+
+? «daraxt» ingliz tilida qanday aytiladi?
++ tree
+- caterpillar
+- rabbit
+- grass
+= tree
+
+? What does «tree» mean? (o'zbekcha)
++ daraxt
+- o't, maysa
+- gul
+- dengiz cho'chqachasi
+
+? «barg» ingliz tilida qanday aytiladi?
++ leaf
+- rabbit
+- grass
+- turtle
+= leaf
+
+? What does «leaf» mean? (o'zbekcha)
++ barg
+- toshbaqa
+- shilliqqurt
+- dengiz cho'chqachasi
+
+? «qurt (kapalak qurti)» ingliz tilida qanday aytiladi?
++ caterpillar
+- grass
+- snail
+- turtle
+= caterpillar
+
+? What does «caterpillar» mean? (o'zbekcha)
++ qurt (kapalak qurti)
+- shilliqqurt
+- daraxt
+- toshbaqa
+
+? «quyon» ingliz tilida qanday aytiladi?
++ rabbit
+- tree
+- butterfly
+- guinea pig
+= rabbit
+
+? What does «rabbit» mean? (o'zbekcha)
++ quyon
+- barg
+- gul
+- toshbaqa
+
+? «kapalak» ingliz tilida qanday aytiladi?
++ butterfly
+- leaf
+- snail
+- guinea pig
+= butterfly
+
+? What does «butterfly» mean? (o'zbekcha)
++ kapalak
+- quyon
+- shilliqqurt
+- gul
+
+? «gul» ingliz tilida qanday aytiladi?
++ flower
+- leaf
+- snail
+- grass
+= flower
+
+? What does «flower» mean? (o'zbekcha)
++ gul
+- daraxt
+- toshbaqa
+- kapalak
+
+? «o't, maysa» ingliz tilida qanday aytiladi?
++ grass
+- flower
+- tree
+- turtle
+= grass
+
+? What does «grass» mean? (o'zbekcha)
++ o't, maysa
+- qurt (kapalak qurti)
+- toshbaqa
+- daraxt
+
+? «toshbaqa» ingliz tilida qanday aytiladi?
++ turtle
+- leaf
+- caterpillar
+- rabbit
+= turtle
+
+? What does «turtle» mean? (o'zbekcha)
++ toshbaqa
+- daraxt
+- shilliqqurt
+- kapalak
+
+? «dengiz cho'chqachasi» ingliz tilida qanday aytiladi?
++ guinea pig
+- rabbit
+- snail
+- flower
+= guinea pig
+
+? What does «guinea pig» mean? (o'zbekcha)
++ dengiz cho'chqachasi
+- barg
+- gul
+- qurt (kapalak qurti)
+
+? «shilliqqurt» ingliz tilida qanday aytiladi?
++ snail
+- leaf
+- turtle
+- grass
+= snail
+
+? What does «snail» mean? (o'zbekcha)
++ shilliqqurt
+- kapalak
+- daraxt
+- o't, maysa
+
+? What is the plural of «leaf»?
++ leaves
+- leafs
+- leafes
+- leaf
+= leaves
+
+? What is the plural of «butterfly»?
++ butterflies
+- butterflys
+- butterflyes
+- butterfly
+= butterflies
+
+? Complete: «What's ___?» — «It's a snail.»
++ that
+- those
+- they
+- these are
+
+? Complete: «What are ___?» — «They're butterflies.»
++ those
+- that
+- it
+- this is
+
+? Complete: «What are those?» — «___ leaves.»
++ They're
+- It's
+- He's
+- She's
+
+? Complete: «What's that?» — «___ a snake.»
++ It's
+- They're
+- We're
+- Those
+
+? Choose the correct sentence.
++ Our pets aren't big.
+- Our pets isn't big.
+- Our pet aren't big.
+- Ours pets not big.
+
+? Lily has a pet. ___ pet is white.
++ Her
+- His
+- Their
+- Our
+
+? Tom has a pet. ___ pet is gray.
++ His
+- Her
+- Their
+- My
+
+? Anna and Max have pets. ___ pets are small.
++ Their
+- His
+- Her
+- Our
+
+? We have a pet. ___ pet is orange.
++ Our
+- Their
+- His
+- Her
+
+? You have a pet. ___ pet is big.
++ Your
+- My
+- Our
+- Their
+
+? The value of the story in Unit 1 is…
++ Respect and listen to others
+- Keep your environment clean
+- Exercise
+- Reuse old things
+
+? Choose the polite question (asking to borrow).
++ Can I borrow your camera, please?
+- Give me your camera.
+- Your camera, now!
+- I take your camera.
+
+? «Chimpanzees eat and sleep in ___.»
++ trees
+- water
+- houses
+- deserts
+= trees
+
+? Which habitat is very cold?
++ Tundra
+- Rain forest
+- Grassland
+- Desert near the sea
+= tundra
+
+? Which animal lives in a desert?
++ Camel
+- Monkey
+- Turtle
+- Guinea pig
+= camel
+
+? Antarctica is a…
++ desert
+- rain forest
+- grassland
+- village
+= desert
+
+? Deserts can be…
++ hot and cold
+- only hot
+- only wet
+- only green
+
+? Which one is a plant?
++ grass
+- rabbit
+- snail
+- turtle
+
+## Unit 2. At school
+
+? «qabulxona» ingliz tilida qanday aytiladi?
++ reception
+- cafeteria
+- sports field
+- science lab
+= reception
+
+? What does «reception» mean? (o'zbekcha)
++ qabulxona
+- sport zali
+- tasviriy san'at xonasi
+- sinfxona
+
+? «oshxona (kafeteriy)» ingliz tilida qanday aytiladi?
++ cafeteria
+- sports field
+- classroom
+- art room
+= cafeteria
+
+? What does «cafeteria» mean? (o'zbekcha)
++ oshxona (kafeteriy)
+- tasviriy san'at xonasi
+- kutubxona
+- sinfxona
+
+? «kutubxona» ingliz tilida qanday aytiladi?
++ library
+- music room
+- playground
+- sports field
+= library
+
+? What does «library» mean? (o'zbekcha)
++ kutubxona
+- o'yin maydonchasi
+- sport zali
+- oshxona (kafeteriy)
+
+? «sinfxona» ingliz tilida qanday aytiladi?
++ classroom
+- cafeteria
+- science lab
+- music room
+= classroom
+
+? What does «classroom» mean? (o'zbekcha)
++ sinfxona
+- kutubxona
+- sport zali
+- qabulxona
+
+? «tabiiy fanlar laboratoriyasi» ingliz tilida qanday aytiladi?
++ science lab
+- library
+- music room
+- gym
+= science lab
+
+? What does «science lab» mean? (o'zbekcha)
++ tabiiy fanlar laboratoriyasi
+- kutubxona
+- sport maydoni
+- musiqa xonasi
+
+? «sport zali» ingliz tilida qanday aytiladi?
++ gym
+- playground
+- sports field
+- classroom
+= gym
+
+? What does «gym» mean? (o'zbekcha)
++ sport zali
+- tasviriy san'at xonasi
+- sinfxona
+- qabulxona
+
+? «tasviriy san'at xonasi» ingliz tilida qanday aytiladi?
++ art room
+- reception
+- sports field
+- playground
+= art room
+
+? What does «art room» mean? (o'zbekcha)
++ tasviriy san'at xonasi
+- kutubxona
+- sport zali
+- oshxona (kafeteriy)
+
+? «musiqa xonasi» ingliz tilida qanday aytiladi?
++ music room
+- gym
+- science lab
+- cafeteria
+= music room
+
+? What does «music room» mean? (o'zbekcha)
++ musiqa xonasi
+- tabiiy fanlar laboratoriyasi
+- qabulxona
+- sinfxona
+
+? «o'yin maydonchasi» ingliz tilida qanday aytiladi?
++ playground
+- music room
+- art room
+- science lab
+= playground
+
+? What does «playground» mean? (o'zbekcha)
++ o'yin maydonchasi
+- tabiiy fanlar laboratoriyasi
+- sport maydoni
+- oshxona (kafeteriy)
+
+? «sport maydoni» ingliz tilida qanday aytiladi?
++ sports field
+- reception
+- science lab
+- cafeteria
+= sports field
+
+? What does «sports field» mean? (o'zbekcha)
++ sport maydoni
+- tasviriy san'at xonasi
+- qabulxona
+- kutubxona
+
+? Complete: «Where are Dave and Daisy?» — «They're ___ the cafeteria.»
++ in
+- on
+- at the
+- under
+
+? Complete: «They're ___ the sports field.»
++ on
+- in
+- under
+- at in
+
+? Complete: «Where ___ you?» — «We're in the music room.»
++ are
+- is
+- am
+- be
+
+? Complete: «What are they doing?» — «They're ___ baseball.»
++ playing
+- play
+- plays
+- played
+
+? Complete: «What are you doing?» — «___ playing tennis.»
++ We're
+- They is
+- It's
+- He're
+
+? Choose the correct sentence.
++ They're playing basketball.
+- They playing basketball.
+- They's playing basketball.
+- They're play basketball.
+
+? Lisa's school: Is Lisa's school big or small?
++ Big
+- Small
+- Very small
+- We don't know
+= big
+
+? Lisa's school: What is Lisa's favorite sport?
++ Tennis
+- Basketball
+- Baseball
+- Soccer
+= tennis
+
+? Lisa's school: What is Lisa's favorite class?
++ Art
+- Math
+- Music
+- Science
+= art
+
+? Lisa's school: What is Lisa's favorite room?
++ The school library
+- The gym
+- The cafeteria
+- The music room
+
+? The value of the story in Unit 2 is…
++ Keep your environment clean
+- Work together
+- Try new things
+- Exercise
+
+? Offering help: choose the correct question.
++ Can I help you?
+- Help me you?
+- You help can?
+- Can you me help?
+
+? Which one can we recycle?
++ Paper, cans and bottles
+- Food
+- Water
+- Air
+
+? Where do we put things for recycling?
++ In a recycling bin
+- In the ocean
+- In the classroom
+- In the garden
+
+? Where can you read books at school?
++ In the library
+- In the gym
+- On the playground
+- In the cafeteria
+
+? Where can you eat lunch at school?
++ In the cafeteria
+- In the library
+- In the science lab
+- In the art room
+
+? Where do you do sports inside the school?
++ In the gym
+- In the library
+- In reception
+- In the classroom
+
+? Lily's favorite room is the…
++ music room
+- art room
+- gym
+- library
+
+? «Snakes make trails with their ___.» (Say it! in the Welcome unit)
++ tails
+- teeth
+- eyes
+- legs
+= tails
+
+? What is the plural of «library»?
++ libraries
+- librarys
+- libraryes
+- library
+= libraries
+
+## Unit 3. School days
+
+? «dushanba» ingliz tilida qanday aytiladi?
++ Monday
+- Tuesday
+- Sunday
+- Wednesday
+= monday
+
+? What does «Monday» mean? (o'zbekcha)
++ dushanba
+- yakshanba
+- juma
+- payshanba
+
+? «seshanba» ingliz tilida qanday aytiladi?
++ Tuesday
+- Wednesday
+- Friday
+- Monday
+= tuesday
+
+? What does «Tuesday» mean? (o'zbekcha)
++ seshanba
+- chorshanba
+- yakshanba
+- shanba
+
+? «chorshanba» ingliz tilida qanday aytiladi?
++ Wednesday
+- Friday
+- Saturday
+- Monday
+= wednesday
+
+? What does «Wednesday» mean? (o'zbekcha)
++ chorshanba
+- shanba
+- juma
+- seshanba
+
+? «payshanba» ingliz tilida qanday aytiladi?
++ Thursday
+- Tuesday
+- Friday
+- Wednesday
+= thursday
+
+? What does «Thursday» mean? (o'zbekcha)
++ payshanba
+- chorshanba
+- juma
+- yakshanba
+
+? «juma» ingliz tilida qanday aytiladi?
++ Friday
+- Sunday
+- Thursday
+- Tuesday
+= friday
+
+? What does «Friday» mean? (o'zbekcha)
++ juma
+- shanba
+- payshanba
+- yakshanba
+
+? «shanba» ingliz tilida qanday aytiladi?
++ Saturday
+- Thursday
+- Sunday
+- Monday
+= saturday
+
+? What does «Saturday» mean? (o'zbekcha)
++ shanba
+- chorshanba
+- payshanba
+- seshanba
+
+? «yakshanba» ingliz tilida qanday aytiladi?
++ Sunday
+- Wednesday
+- Tuesday
+- Monday
+= sunday
+
+? What does «Sunday» mean? (o'zbekcha)
++ yakshanba
+- dushanba
+- seshanba
+- juma
+
+? Which day comes after Monday?
++ Tuesday
+- Saturday
+- Friday
+- Thursday
+= tuesday
+
+? Which day comes after Tuesday?
++ Wednesday
+- Thursday
+- Saturday
+- Monday
+= wednesday
+
+? Which day comes after Wednesday?
++ Thursday
+- Tuesday
+- Monday
+- Saturday
+= thursday
+
+? Which day comes after Thursday?
++ Friday
+- Sunday
+- Saturday
+- Monday
+= friday
+
+? Which day comes after Friday?
++ Saturday
+- Sunday
+- Monday
+- Tuesday
+= saturday
+
+? Which day comes after Saturday?
++ Sunday
+- Monday
+- Thursday
+- Tuesday
+= sunday
+
+? Which day comes after Sunday?
++ Monday
+- Tuesday
+- Saturday
+- Wednesday
+= monday
+
+? How many days are there in a week?
++ Seven
+- Five
+- Six
+- Twelve
+= 7 | seven
+
+? Complete: «Do we have math on Monday?» — «Yes, we ___.»
++ do
+- does
+- are
+- have
+
+? Complete: «Do we have English on Friday?» — «No, we ___.»
++ don't
+- doesn't
+- aren't
+- isn't
+
+? Complete: «What club does she have after school?» — «She ___ swimming club.»
++ has
+- have
+- having
+- is have
+
+? Complete: «What class does she have after lunch?» — «She has ___ after lunch.»
++ art
+- arts the
+- an art
+- a arts
+
+? Choose the correct sentence.
++ We don't have math on Tuesday.
+- We doesn't have math on Tuesday.
+- We not have math on Tuesday.
+- We haven't math in Tuesday.
+
+? Days of the week begin with…
++ a capital letter
+- a small letter
+- a number
+- a dot
+
+? The value of the story in Unit 3 is…
++ Be resourceful
+- Show forgiveness
+- Exercise
+- Work together
+
+? Asking if places are open: choose the correct question.
++ Is the library open on Mondays?
+- Is open the library Monday?
+- The library is open Mondays?
+- Open library Mondays is?
+
+? «Is the movie theater open on Sundays?» — «No, it isn't. It's ___.»
++ closed
+- open
+- close
+- closing
+
+? Animals that are active at night are…
++ nocturnal
+- tired
+- domestic
+- wild
+= nocturnal
+
+? Which animal from the lesson is nocturnal?
++ Koala
+- Cow
+- Hen
+- Butterfly
+= koala
+
+? «Goats need warm coats in the ___.» (Say it!)
++ snow
+- sun
+- sand
+- sea
+= snow
+
+## Unit 4. My day
+
+? «uyg'onib turmoq» ingliz tilida qanday aytiladi?
++ get up
+- take a shower
+- go to school
+- have lunch
+= get up
+
+? What does «get up» mean? (o'zbekcha)
++ uyg'onib turmoq
+- tushlik qilmoq
+- tishlarimni tozalamoq
+- uxlashga yotmoq
+
+? «kiyinmoq» ingliz tilida qanday aytiladi?
++ get dressed
+- go to bed
+- have dinner
+- brush my teeth
+= get dressed
+
+? What does «get dressed» mean? (o'zbekcha)
++ kiyinmoq
+- dush qabul qilmoq
+- maktabga bormoq
+- uxlashga yotmoq
+
+? «nonushta qilmoq» ingliz tilida qanday aytiladi?
++ have breakfast
+- have lunch
+- get up
+- brush my teeth
+= have breakfast
+
+? What does «have breakfast» mean? (o'zbekcha)
++ nonushta qilmoq
+- tishlarimni tozalamoq
+- dush qabul qilmoq
+- uxlashga yotmoq
+
+? «tishlarimni tozalamoq» ingliz tilida qanday aytiladi?
++ brush my teeth
+- get up
+- have lunch
+- have breakfast
+= brush my teeth
+
+? What does «brush my teeth» mean? (o'zbekcha)
++ tishlarimni tozalamoq
+- maktabga bormoq
+- tushlik qilmoq
+- uxlashga yotmoq
+
+? «maktabga bormoq» ingliz tilida qanday aytiladi?
++ go to school
+- get up
+- brush my teeth
+- have breakfast
+= go to school
+
+? What does «go to school» mean? (o'zbekcha)
++ maktabga bormoq
+- kechki ovqatlanmoq
+- uyga bormoq
+- nonushta qilmoq
+
+? «tushlik qilmoq» ingliz tilida qanday aytiladi?
++ have lunch
+- get dressed
+- brush my teeth
+- get up
+= have lunch
+
+? What does «have lunch» mean? (o'zbekcha)
++ tushlik qilmoq
+- kechki ovqatlanmoq
+- uyga bormoq
+- kiyinmoq
+
+? «uyga bormoq» ingliz tilida qanday aytiladi?
++ go home
+- go to bed
+- go to school
+- have lunch
+= go home
+
+? What does «go home» mean? (o'zbekcha)
++ uyga bormoq
+- tushlik qilmoq
+- maktabga bormoq
+- nonushta qilmoq
+
+? «kechki ovqatlanmoq» ingliz tilida qanday aytiladi?
++ have dinner
+- get up
+- go to school
+- go home
+= have dinner
+
+? What does «have dinner» mean? (o'zbekcha)
++ kechki ovqatlanmoq
+- kiyinmoq
+- nonushta qilmoq
+- uyga bormoq
+
+? «dush qabul qilmoq» ingliz tilida qanday aytiladi?
++ take a shower
+- go to bed
+- brush my teeth
+- get up
+= take a shower
+
+? What does «take a shower» mean? (o'zbekcha)
++ dush qabul qilmoq
+- maktabga bormoq
+- uyg'onib turmoq
+- uyga bormoq
+
+? «uxlashga yotmoq» ingliz tilida qanday aytiladi?
++ go to bed
+- go home
+- have lunch
+- have breakfast
+= go to bed
+
+? What does «go to bed» mean? (o'zbekcha)
++ uxlashga yotmoq
+- kiyinmoq
+- uyga bormoq
+- kechki ovqatlanmoq
+
+? Complete: «What time ___ you get up?» — «I get up at seven o'clock.»
++ do
+- does
+- are
+- is
+
+? Complete: «I have breakfast ___ eight o'clock.»
++ at
+- in
+- on
+- to
+
+? «I go to school at nine o'clock.» Your friend does the same. He says:
++ So do I.
+- I don't.
+- Yes, I am.
+- No, I can't.
+
+? «I go to bed at nine o'clock.» Your friend goes to bed at ten. She says:
++ I don't.
+- So do I.
+- Yes, I do.
+- Me too.
+
+? How do we say 7:30?
++ seven thirty
+- seven three
+- thirty seven
+- seven o'clock
+= seven thirty
+
+? How do we say 8:00?
++ eight o'clock
+- eight thirty
+- o'clock eight
+- eight zero
+= eight o'clock
+
+? How do we say 12:30?
++ twelve thirty
+- twelve o'clock
+- thirty twelve
+- two thirty
+= twelve thirty
+
+? Choose the polite question (asking the time).
++ Excuse me, what time is it, please?
+- Time what is it?
+- What time it is you?
+- Give me the time.
+
+? Which is a healthy habit?
++ Brush your teeth in the morning and in the evening.
+- Go to bed very late.
+- Never have breakfast.
+- Never play outside.
+
+? In the story, what is the first prize in the swimming race?
++ A watch
+- A camera
+- A guitar
+- A radio
+= watch
+
+? Who is the winner of the swimming race?
++ Lucas
+- Tom
+- Max
+- Anna
+= lucas
+
+? The value of the story in Unit 4 is…
++ Exercise
+- Reuse old things
+- Show forgiveness
+- Keep your environment clean
+
+? «Blue whales don't ___ their food.» (Say it!)
++ chew
+- cook
+- eat
+- find
+= chew
+
+? How many time zones does Brazil have?
++ Three
+- One
+- Two
+- Ten
+= 3 | three
+
+## Unit 5. Home time
+
+? «sharbat ichmoq» ingliz tilida qanday aytiladi?
++ drink juice
+- wash the car
+- do homework
+- listen to music
+= drink juice
+
+? What does «drink juice» mean? (o'zbekcha)
++ sharbat ichmoq
+- televizor ko'rmoq
+- uy vazifasini bajarmoq
+- idish yuvmoq
+
+? «sendvich yemoq» ingliz tilida qanday aytiladi?
++ eat a sandwich
+- drink juice
+- wash the car
+- watch TV
+= eat a sandwich
+
+? What does «eat a sandwich» mean? (o'zbekcha)
++ sendvich yemoq
+- mashina yuvmoq
+- tort pishirmoq
+- uy vazifasini bajarmoq
+
+? «idish yuvmoq» ingliz tilida qanday aytiladi?
++ do the dishes
+- eat a sandwich
+- watch TV
+- read a book
+= do the dishes
+
+? What does «do the dishes» mean? (o'zbekcha)
++ idish yuvmoq
+- televizor ko'rmoq
+- sendvich yemoq
+- kompyuterda o'ynamoq
+
+? «kompyuterda o'ynamoq» ingliz tilida qanday aytiladi?
++ play on the computer
+- listen to music
+- do homework
+- make a cake
+= play on the computer
+
+? What does «play on the computer» mean? (o'zbekcha)
++ kompyuterda o'ynamoq
+- idish yuvmoq
+- musiqa tinglamoq
+- sendvich yemoq
+
+? «kitob o'qimoq» ingliz tilida qanday aytiladi?
++ read a book
+- watch TV
+- do the dishes
+- do homework
+= read a book
+
+? What does «read a book» mean? (o'zbekcha)
++ kitob o'qimoq
+- idish yuvmoq
+- tort pishirmoq
+- musiqa tinglamoq
+
+? «televizor ko'rmoq» ingliz tilida qanday aytiladi?
++ watch TV
+- do homework
+- wash the car
+- do the dishes
+= watch tv
+
+? What does «watch TV» mean? (o'zbekcha)
++ televizor ko'rmoq
+- kitob o'qimoq
+- mashina yuvmoq
+- idish yuvmoq
+
+? «uy vazifasini bajarmoq» ingliz tilida qanday aytiladi?
++ do homework
+- drink juice
+- read a book
+- eat a sandwich
+= do homework
+
+? What does «do homework» mean? (o'zbekcha)
++ uy vazifasini bajarmoq
+- sendvich yemoq
+- musiqa tinglamoq
+- kitob o'qimoq
+
+? «musiqa tinglamoq» ingliz tilida qanday aytiladi?
++ listen to music
+- watch TV
+- do the dishes
+- do homework
+= listen to music
+
+? What does «listen to music» mean? (o'zbekcha)
++ musiqa tinglamoq
+- idish yuvmoq
+- tort pishirmoq
+- televizor ko'rmoq
+
+? «tort pishirmoq» ingliz tilida qanday aytiladi?
++ make a cake
+- do the dishes
+- do homework
+- eat a sandwich
+= make a cake
+
+? What does «make a cake» mean? (o'zbekcha)
++ tort pishirmoq
+- idish yuvmoq
+- kitob o'qimoq
+- musiqa tinglamoq
+
+? «mashina yuvmoq» ingliz tilida qanday aytiladi?
++ wash the car
+- do the dishes
+- do homework
+- read a book
+= wash the car
+
+? What does «wash the car» mean? (o'zbekcha)
++ mashina yuvmoq
+- kompyuterda o'ynamoq
+- musiqa tinglamoq
+- uy vazifasini bajarmoq
+
+? Complete: «He doesn't like ___ books.»
++ reading
+- read
+- reads
+- to reading
+
+? Complete: «My sister enjoys ___ TV.»
++ watching
+- watch
+- watches
+- watched
+
+? Complete: «My mom loves ___ cakes.»
++ making
+- make
+- makes
+- maked
+
+? Complete: «___ he like playing on the computer?» — «Yes, he does.»
++ Does
+- Do
+- Is
+- Are
+
+? Complete: «Does she enjoy washing the car?» — «No, she ___.»
++ doesn't
+- don't
+- isn't
+- not
+
+? Choose the correct sentence.
++ She doesn't like watching TV.
+- She don't like watching TV.
+- She doesn't likes watching TV.
+- She not like watch TV.
+
+? Choose the correct sentence.
++ He enjoys listening to music.
+- He enjoy listening to music.
+- He enjoys listen to music.
+- He enjoying listens music.
+
+? In the story, who likes making cakes?
++ Aunt Pat
+- Lily
+- Tom's dad
+- Anna
+
+? In the story, who eats the chocolate cake?
++ Anna
+- Lucas
+- Aunt Pat
+- Lily
+= anna
+
+? The value of the story in Unit 5 is…
++ Show forgiveness
+- Try new things
+- Exercise
+- Work together
+
+? «Let's make a carrot cake.» — «What do we need?» — choose the answer.
++ Eggs, milk, carrots…
+- A guitar
+- A towel
+- A camera
+
+? «Panthers learn to hunt ___ months after birth.» (Say it!)
++ three
+- two
+- ten
+- six
+= 3 | three
+
+? Where do people live? Choose the three places from the lesson.
++ countryside, village, town
+- ocean, sand, shell
+- gym, library, lab
+- lemon, lime, pear
+
+? Fun fact from the lesson: there are more ___ in the world than people.
++ chickens
+- cats
+- fish
+- books
+= chickens
+
+## Unit 6. Hobbies
+
+? «pianino chalmoq» ingliz tilida qanday aytiladi?
++ play the piano
+- play the recorder
+- play the guitar
+- do karate
+= play the piano
+
+? What does «play the piano» mean? (o'zbekcha)
++ pianino chalmoq
+- film suratga olmoq
+- modellar yasamoq
+- badminton o'ynamoq
+
+? «gitara chalmoq» ingliz tilida qanday aytiladi?
++ play the guitar
+- play volleyball
+- do karate
+- play badminton
+= play the guitar
+
+? What does «play the guitar» mean? (o'zbekcha)
++ gitara chalmoq
+- gimnastika bilan shug'ullanmoq
+- badminton o'ynamoq
+- stol tennisi o'ynamoq
+
+? «blokfleyta chalmoq» ingliz tilida qanday aytiladi?
++ play the recorder
+- do gymnastics
+- make models
+- play badminton
+= play the recorder
+
+? What does «play the recorder» mean? (o'zbekcha)
++ blokfleyta chalmoq
+- modellar yasamoq
+- gitara chalmoq
+- pianino chalmoq
+
+? «modellar yasamoq» ingliz tilida qanday aytiladi?
++ make models
+- play volleyball
+- play the guitar
+- do gymnastics
+= make models
+
+? What does «make models» mean? (o'zbekcha)
++ modellar yasamoq
+- pianino chalmoq
+- blokfleyta chalmoq
+- stol tennisi o'ynamoq
+
+? «film suratga olmoq» ingliz tilida qanday aytiladi?
++ make movies
+- play the recorder
+- play Ping-Pong
+- do karate
+= make movies
+
+? What does «make movies» mean? (o'zbekcha)
++ film suratga olmoq
+- gitara chalmoq
+- badminton o'ynamoq
+- karate bilan shug'ullanmoq
+
+? «karate bilan shug'ullanmoq» ingliz tilida qanday aytiladi?
++ do karate
+- make models
+- play the piano
+- do gymnastics
+= do karate
+
+? What does «do karate» mean? (o'zbekcha)
++ karate bilan shug'ullanmoq
+- voleybol o'ynamoq
+- stol tennisi o'ynamoq
+- modellar yasamoq
+
+? «gimnastika bilan shug'ullanmoq» ingliz tilida qanday aytiladi?
++ do gymnastics
+- play the piano
+- do karate
+- play volleyball
+= do gymnastics
+
+? What does «do gymnastics» mean? (o'zbekcha)
++ gimnastika bilan shug'ullanmoq
+- badminton o'ynamoq
+- gitara chalmoq
+- voleybol o'ynamoq
+
+? «stol tennisi o'ynamoq» ingliz tilida qanday aytiladi?
++ play Ping-Pong
+- play the recorder
+- play volleyball
+- make models
+= play ping-pong
+
+? What does «play Ping-Pong» mean? (o'zbekcha)
++ stol tennisi o'ynamoq
+- film suratga olmoq
+- karate bilan shug'ullanmoq
+- gimnastika bilan shug'ullanmoq
+
+? «badminton o'ynamoq» ingliz tilida qanday aytiladi?
++ play badminton
+- do karate
+- make models
+- make movies
+= play badminton
+
+? What does «play badminton» mean? (o'zbekcha)
++ badminton o'ynamoq
+- blokfleyta chalmoq
+- modellar yasamoq
+- film suratga olmoq
+
+? «voleybol o'ynamoq» ingliz tilida qanday aytiladi?
++ play volleyball
+- play the recorder
+- make models
+- play the piano
+= play volleyball
+
+? What does «play volleyball» mean? (o'zbekcha)
++ voleybol o'ynamoq
+- karate bilan shug'ullanmoq
+- modellar yasamoq
+- gimnastika bilan shug'ullanmoq
+
+? Complete: «She ___ karate on Sundays.»
++ does
+- do
+- doing
+- make
+
+? Complete: «He ___ badminton on Saturdays.»
++ plays
+- play
+- playing
+- does
+
+? Complete: «___ she do gymnastics in the evening?» — «No, she doesn't.»
++ Does
+- Do
+- Is
+- Are
+
+? Complete: «Does he play tennis on Tuesdays?» — «Yes, he ___.»
++ does
+- do
+- is
+- plays
+
+? Choose the correct sentence.
++ She doesn't watch TV after school.
+- She don't watch TV after school.
+- She doesn't watches TV after school.
+- She not watch TV after school.
+
+? We say «play the guitar», but «___ karate».
++ do
+- play
+- make
+- go
+
+? We say «___ models».
++ make
+- do
+- play
+- go
+
+? Song «Lizzie»: What does Lizzie do on Saturdays?
++ She plays badminton.
+- She does karate.
+- She makes movies.
+- She watches TV.
+
+? Song «Lizzie»: What does Lizzie do on Sundays?
++ She does karate.
+- She plays badminton.
+- She makes models.
+- She plays the piano.
+
+? Josh: What does Josh want to be?
++ A soccer player
+- A singer
+- A doctor
+- A teacher
+
+? Josh: What is Josh's favorite drink?
++ A banana milkshake
+- Orange juice
+- Water
+- Tea
+
+? In the story, who plays in a band?
++ Kim (a cousin)
+- Lucas
+- Tom
+- Anna
+= kim
+
+? The value of the story in Unit 6 is…
++ Try new things
+- Show forgiveness
+- Reuse old things
+- Be resourceful
+
+? «Sharks are fish with sharp ___.» (Say it!)
++ teeth
+- tails
+- eyes
+- fins
+= teeth
+
+? A drum is a ___ instrument.
++ percussion
+- string
+- woodwind
+- brass
+= percussion
+
+? A guitar is a ___ instrument.
++ string
+- percussion
+- brass
+- woodwind
+= string
+
+? A tuba is a ___ instrument.
++ brass
+- string
+- percussion
+- woodwind
+= brass
+
+? A recorder is a ___ instrument.
++ woodwind
+- string
+- brass
+- percussion
+= woodwind
+
+## Unit 7. At the market
+
+? «limonlar» ingliz tilida qanday aytiladi?
++ lemons
+- coconuts
+- limes
+- tomatoes
+= lemons
+
+? What does «lemons» mean? (o'zbekcha)
++ limonlar
+- uzum
+- piyozlar
+- mangolar
+
+? «laymlar» ingliz tilida qanday aytiladi?
++ limes
+- pears
+- tomatoes
+- grapes
+= limes
+
+? What does «limes» mean? (o'zbekcha)
++ laymlar
+- tarvuzlar
+- ananaslar
+- kokos yong'oqlari
+
+? «tarvuzlar» ingliz tilida qanday aytiladi?
++ watermelons
+- pears
+- pineapples
+- mangoes
+= watermelons
+
+? What does «watermelons» mean? (o'zbekcha)
++ tarvuzlar
+- piyozlar
+- limonlar
+- pomidorlar
+
+? «kokos yong'oqlari» ingliz tilida qanday aytiladi?
++ coconuts
+- grapes
+- pineapples
+- limes
+= coconuts
+
+? What does «coconuts» mean? (o'zbekcha)
++ kokos yong'oqlari
+- mangolar
+- uzum
+- noklar
+
+? «uzum» ingliz tilida qanday aytiladi?
++ grapes
+- coconuts
+- limes
+- lemons
+= grapes
+
+? What does «grapes» mean? (o'zbekcha)
++ uzum
+- ananaslar
+- noklar
+- laymlar
+
+? «mangolar» ingliz tilida qanday aytiladi?
++ mangoes
+- onions
+- lemons
+- pears
+= mangoes
+
+? What does «mangoes» mean? (o'zbekcha)
++ mangolar
+- piyozlar
+- laymlar
+- limonlar
+
+? «ananaslar» ingliz tilida qanday aytiladi?
++ pineapples
+- pears
+- onions
+- watermelons
+= pineapples
+
+? What does «pineapples» mean? (o'zbekcha)
++ ananaslar
+- uzum
+- mangolar
+- kokos yong'oqlari
+
+? «noklar» ingliz tilida qanday aytiladi?
++ pears
+- mangoes
+- coconuts
+- grapes
+= pears
+
+? What does «pears» mean? (o'zbekcha)
++ noklar
+- laymlar
+- mangolar
+- kokos yong'oqlari
+
+? «pomidorlar» ingliz tilida qanday aytiladi?
++ tomatoes
+- watermelons
+- limes
+- lemons
+= tomatoes
+
+? What does «tomatoes» mean? (o'zbekcha)
++ pomidorlar
+- uzum
+- piyozlar
+- limonlar
+
+? «piyozlar» ingliz tilida qanday aytiladi?
++ onions
+- tomatoes
+- watermelons
+- grapes
+= onions
+
+? What does «onions» mean? (o'zbekcha)
++ piyozlar
+- noklar
+- ananaslar
+- pomidorlar
+
+? Complete: «There are ___ pineapples.» (juda ko'p)
++ lots of
+- any
+- a
+- an
+
+? Complete: «There aren't ___ limes.»
++ any
+- some
+- lots
+- a
+
+? Complete: «Are there any pears?» — «Yes, there ___.»
++ are
+- is
+- aren't
+- do
+
+? Complete: «Are there any coconuts?» — «No, there ___.»
++ aren't
+- isn't
+- are
+- don't
+
+? Complete: «___ there any onions?»
++ Are
+- Is
+- Do
+- Does
+
+? Choose the correct sentence.
++ There are some tomatoes.
+- There is some tomatoes.
+- There are any tomatoes.
+- There some tomatoes are.
+
+? What is the plural of «mango»?
++ mangoes
+- mangos's
+- mangoies
+- mangoss
+= mangoes | mangos
+
+? What is the plural of «tomato»?
++ tomatoes
+- tomatos's
+- tomatoies
+- tomatoss
+= tomatoes
+
+? These fruits are small and yellow. They are…
++ lemons
+- watermelons
+- grapes
+- coconuts
+= lemons
+
+? Which one is a vegetable?
++ onion
+- mango
+- pear
+- pineapple
+= onion
+
+? The value of the story in Unit 7 is…
++ Reuse old things
+- Try new things
+- Exercise
+- Work together
+
+? Making choices: «Which watch do you want?» — choose the answer.
++ The brown one, please.
+- Yes, I do.
+- It's mine.
+- On Monday.
+
+? «Chipmunks have big cheek ___.» (Say it!)
++ pouches
+- teeth
+- tails
+- ears
+= pouches
+
+? Which parts of plants can we eat? (from the lesson)
++ roots, stems, leaves, fruit, seeds
+- only stones
+- only sand
+- only shells
+
+? A carrot is a plant's…
++ root
+- leaf
+- seed
+- flower
+= root
+
+## Unit 8. At the beach
+
+? «quyosh» ingliz tilida qanday aytiladi?
++ sun
+- ocean
+- shell
+- sunglasses
+= sun
+
+? What does «sun» mean? (o'zbekcha)
++ quyosh
+- okean
+- kartoshka fri
+- qum
+
+? «burger» ingliz tilida qanday aytiladi?
++ burger
+- shell
+- sand
+- swimsuit
+= burger
+
+? What does «burger» mean? (o'zbekcha)
++ burger
+- quyosh ko'zoynagi
+- sochiq
+- chig'anoq
+
+? «kartoshka fri» ingliz tilida qanday aytiladi?
++ fries
+- sun
+- sunglasses
+- shell
+= fries
+
+? What does «fries» mean? (o'zbekcha)
++ kartoshka fri
+- qum
+- sochiq
+- quyosh ko'zoynagi
+
+? «quyosh ko'zoynagi» ingliz tilida qanday aytiladi?
++ sunglasses
+- shell
+- towel
+- shorts
+= sunglasses
+
+? What does «sunglasses» mean? (o'zbekcha)
++ quyosh ko'zoynagi
+- shortik
+- burger
+- kartoshka fri
+
+? «suzish kiyimi» ingliz tilida qanday aytiladi?
++ swimsuit
+- shorts
+- towel
+- fries
+= swimsuit
+
+? What does «swimsuit» mean? (o'zbekcha)
++ suzish kiyimi
+- quyosh ko'zoynagi
+- kartoshka fri
+- chig'anoq
+
+? «shortik» ingliz tilida qanday aytiladi?
++ shorts
+- swimsuit
+- sun
+- sunglasses
+= shorts
+
+? What does «shorts» mean? (o'zbekcha)
++ shortik
+- qum
+- quyosh ko'zoynagi
+- burger
+
+? «sochiq» ingliz tilida qanday aytiladi?
++ towel
+- sand
+- burger
+- shell
+= towel
+
+? What does «towel» mean? (o'zbekcha)
++ sochiq
+- quyosh ko'zoynagi
+- kartoshka fri
+- chig'anoq
+
+? «chig'anoq» ingliz tilida qanday aytiladi?
++ shell
+- sand
+- swimsuit
+- shorts
+= shell
+
+? What does «shell» mean? (o'zbekcha)
++ chig'anoq
+- suzish kiyimi
+- quyosh ko'zoynagi
+- sochiq
+
+? «okean» ingliz tilida qanday aytiladi?
++ ocean
+- fries
+- sun
+- towel
+= ocean
+
+? What does «ocean» mean? (o'zbekcha)
++ okean
+- sochiq
+- shortik
+- quyosh ko'zoynagi
+
+? «qum» ingliz tilida qanday aytiladi?
++ sand
+- fries
+- towel
+- shell
+= sand
+
+? What does «sand» mean? (o'zbekcha)
++ qum
+- shortik
+- quyosh
+- okean
+
+? Complete: «Which hat is yours?» — «The red one's ___.» (meniki)
++ mine
+- my
+- me
+- I
+
+? Complete: «Which sock is ___?» — «The green one's hers.»
++ hers
+- her
+- she
+- his
+
+? Complete: «Which towel is ours?» — «The pink one's ___.»
++ ours
+- our
+- we
+- us
+
+? Complete: «Which towel is ___?» — «The purple one.» (ularniki)
++ theirs
+- their
+- they
+- them
+
+? Complete: «Which sock is his?» — «The yellow ___.»
++ one
+- ones
+- it
+- is
+
+? Complete: «___ jacket is this?» — «It's mine.»
++ Whose
+- Who
+- Which's
+- What
+
+? Complete: «Whose backpack is this?» — «It's ___.» (Markniki)
++ Mark's
+- Mark
+- Marks
+- of Mark
+
+? Complete: «Whose shoes are these?» — «___ Sally's.»
++ They're
+- It's
+- She's
+- Is
+
+? Choose the correct sentence.
++ This towel is mine.
+- This towel is my.
+- This towel is me.
+- This is towel mine my.
+
+? «meniki» ingliz tilida qanday aytiladi?
++ mine
+- my
+- me
+- I
+= mine
+
+? «seniki» ingliz tilida qanday aytiladi?
++ yours
+- your
+- you
+- yous
+= yours
+
+? «uniki (qiz bola)» ingliz tilida qanday aytiladi?
++ hers
+- her
+- she
+- his
+= hers
+
+? Postcard: Where do they go in the evening?
++ To the cafe on the beach
+- To the library
+- To school
+- To the gym
+
+? Postcard: What do they make with shells?
++ Pictures
+- Cakes
+- Sandwiches
+- Kites
+= pictures
+
+? The value of the story in Unit 8 is…
++ Appreciate your family and friends
+- Exercise
+- Reuse old things
+- Be resourceful
+
+? Deciding how to travel: which word is a way to travel?
++ by bus
+- by towel
+- by shell
+- by sand
