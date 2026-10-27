@@ -76,6 +76,16 @@
     hist.unshift(entry);
     store.set('history', hist.slice(0, 60));
   }
+  const hasResults = (g, s, results = getResults()) => Object.keys(results).some((k) => k.startsWith(`${g}/${s}/`));
+  // Fan bo'yicha barcha natijalarni (umumiy test, mavzular va tarix) o'chiradi.
+  function resetSubject(g, s, name) {
+    if (!confirm(`${g}-sinf «${name}» fanidan barcha natijalar o'chirilsinmi? Fan «hali ishlanmagan» holatiga qaytadi.`)) return false;
+    const all = getResults();
+    Object.keys(all).forEach((k) => { if (k.startsWith(`${g}/${s}/`)) delete all[k]; });
+    store.set('results', all);
+    store.set('history', store.get('history', []).filter((h) => !(String(h.g) === String(g) && h.s === s)));
+    return true;
+  }
   function scoreBadge(r) {
     if (!r) return '<span class="badge new">Yangi</span>';
     const cls = r.best >= 86 ? 'ok' : r.best >= 56 ? 'mid' : 'bad';
@@ -153,20 +163,26 @@
     const cards = subs.map((s) => {
       const r = results[resultKey(g, s.id, 'umumiy')];
       const best = r ? r.best : 0;
-      return `<a class="card subject-card" href="#/sinf/${g}/${s.id}" style="--c:${s.color}">
+      const touched = hasResults(g, s.id, results);
+      return `<div class="card subject-card" style="--c:${s.color}">
         <div class="subject-top">
           <div class="s-icon">${s.icon}</div>
-          <div><h3>${esc(s.name)}</h3><div class="meta">${s.topics.length} mavzu · ${s.total} savol</div></div>
+          <div><h3><a class="stretch" href="#/sinf/${g}/${s.id}">${esc(s.name)}</a></h3><div class="meta">${s.topics.length} mavzu · ${s.total} savol</div></div>
         </div>
-        <div><div class="progress-line"><span>Umumiy test</span><span>${r ? 'eng yaxshi: ' + best + '%' : 'hali ishlanmagan'}</span></div>
+        <div><div class="progress-line"><span>Umumiy test</span><span>${r ? 'eng yaxshi: ' + best + '%' : touched ? 'mavzular ishlangan' : 'hali ishlanmagan'}</span></div>
         <div class="bar"><i style="width:${best}%"></i></div></div>
-      </a>`;
+        ${touched ? `<button type="button" class="reset-btn" data-reset="${s.id}" title="Natijalarni o'chirib, fanni ishlanmagan holatga qaytarish">↺ Natijani tozalash</button>` : ''}
+      </div>`;
     }).join('');
     setView(`
       ${crumbs([{ t: 'Bosh sahifa', href: '#/' }, { t: `${g}-sinf` }])}
       <h1 class="h1">${g}-sinf</h1>
       <p class="lead">Qaysi fandan bilimingizni sinamoqchisiz?</p>
       <div class="subject-grid">${cards}</div>`, `${g}-sinf`);
+    app.querySelectorAll('[data-reset]').forEach((b) => b.addEventListener('click', () => {
+      const meta = findSubjectMeta(g, b.dataset.reset);
+      if (resetSubject(g, b.dataset.reset, meta ? meta.name : '')) viewGrade(g);
+    }));
   }
 
   async function viewSubject(g, s) {
@@ -204,7 +220,10 @@
         </div>
       </div>
       <h2 class="h2">Mavzular bo'yicha mustahkamlash</h2>
-      <div class="topic-list" style="--c:${meta.color}">${topics}</div>`, `${meta.name} — ${g}-sinf`);
+      <div class="topic-list" style="--c:${meta.color}">${topics}</div>
+      ${hasResults(g, s, results) ? `<div class="reset-row"><button type="button" class="reset-btn" id="resetSubject">↺ Bu fan natijalarini tozalash</button></div>` : ''}`, `${meta.name} — ${g}-sinf`);
+    const rs = document.getElementById('resetSubject');
+    if (rs) rs.addEventListener('click', () => { if (resetSubject(g, s, meta.name)) viewSubject(g, s); });
     app.querySelectorAll('[data-mode]').forEach((b) => b.addEventListener('click', () => {
       store.set('mode', b.dataset.mode);
       viewSubject(g, s);

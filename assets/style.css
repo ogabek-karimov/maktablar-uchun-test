@@ -224,6 +224,16 @@ main { flex: 1; padding-top: 20px; padding-bottom: 48px; outline: none; }
   display: flex; flex-direction: column; gap: 14px; padding: 18px; color: var(--text);
   transition: transform .18s ease, box-shadow .18s ease, border-color .18s;
 }
+.subject-card { position: relative; }
+.subject-card h3 a { color: inherit; }
+.stretch::after { content: ""; position: absolute; inset: 0; border-radius: inherit; }
+.reset-btn {
+  position: relative; z-index: 1; align-self: flex-start; border: 1px solid var(--border); background: var(--surface-2);
+  color: var(--muted); font-size: 12.5px; font-weight: 700; padding: 6px 12px; border-radius: 99px; cursor: pointer;
+  transition: color .15s, border-color .15s, background .15s;
+}
+.reset-btn:hover { color: var(--bad); border-color: color-mix(in srgb, var(--bad) 45%, var(--border)); background: var(--bad-soft); }
+.reset-row { display: flex; justify-content: flex-end; margin-top: 14px; }
 .subject-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); border-color: color-mix(in srgb, var(--c) 45%, var(--border)); }
 .subject-top { display: flex; align-items: center; gap: 14px; }
 .s-icon {
