@@ -1,0 +1,2454 @@
+fan: matematika
+kitob: Matematika, 4-sinf (I–IV qismlar). «Novda Edutainment»
+
+## Takrorlash: ko'p xonali sonlar, amallar, formulalar
+
+? Qo'shishda qatnashadigan sonlar qanday ataladi?
++ Qo'shiluvchilar
+- Ko'paytuvchilar
+- Bo'luvchilar
+- Kamayuvchilar
+= qo'shiluvchi
+
+? Ayirishda birinchi son qanday ataladi?
++ Kamayuvchi
+- Ayriluvchi
+- Ayirma
+- Bo'linuvchi
+= kamayuvchi
+
+? Ayirish natijasi qanday ataladi?
++ Ayirma
+- Yig'indi
+- Ko'paytma
+- Bo'linma
+= ayirma
+
+? Masofa, tezlik va vaqt orasidagi formula qaysi?
++ s = v · t
+- s = v + t
+- v = s · t
+- t = v · s
+
+? To'g'ri to'rtburchak perimetrining formulasi qaysi?
++ P = (a + b) · 2
+- P = a · b
+- P = a + b
+- P = a · 4
+
+? To'g'ri to'rtburchak yuzining formulasi qaysi?
++ S = a · b
+- S = (a + b) · 2
+- S = a + b
+- S = 4 · a
+
+? Ish hajmi, unumdorlik va vaqt orasidagi formula qaysi?
++ A = w · t
+- A = w + t
+- w = A · t
+- t = A · w
+
+? 1 asr necha yilga teng?
++ 100 yil
+- 10 yil
+- 1 000 yil
+- 50 yil
+= 100
+
+? 1 sutka necha minutga teng?
++ 1 440 minut
+- 1 000 minut
+- 240 minut
+- 720 minut
+= 1440
+
+? Ifodada qavs bo'lsa, birinchi qaysi amal bajariladi?
++ Qavs ichidagi amal
+- Qo'shish
+- Ayirish
+- Chapdan birinchi amal
+
+? Qavssiz ifodada (+, −, ·, :) avval qaysi amallar bajariladi?
++ Ko'paytirish va bo'lish
+- Qo'shish va ayirish
+- Faqat qo'shish
+- Faqat ayirish
+
+? Hisoblang: 430 · 25
++ 10 750
+- 11 750
+- 10 748
+- 10 740
+= 10750
+
+? Hisoblang: 32 198 : 34
++ 947
+- 937
+- 957
+- 847
+
+? To'g'ri to'rtburchakning tomonlari 37 m va 10 m. Perimetrini toping.
++ 94 m
+- 370 m
+- 92 m
+- 104 m
+= 94
+
+? Hisoblang: 344 554 + 49 991
++ 394 545
+- 404 545
+- 394 543
+- 394 445
+= 394545
+
+? Hisoblang: 770 · 92
++ 70 840
+- 70 940
+- 69 840
+- 70 849
+= 70840
+
+? Ifodaning qiymatini toping: (31 + 7) · 6
++ 228
+- 73
+- 238
+- 230
+
+? Ifodaning qiymatini toping: (28 + 21) · 5
++ 245
+- 133
+- 235
+- 248
+
+? Hisoblang: 17 000 : 85
++ 200
+- 197
+- 209
+- 202
+
+? Poyezd soat 11:15 da jo'nab, 152 minut yo'l yurdi. U soat nechada yetib keldi?
++ 13:47
+- 12:47
+- 14:47
+- 13:57
+
+? Hisoblang: 49 152 : 64
++ 768
+- 788
+- 778
+- 770
+
+? Hisoblang: 630 · 36
++ 22 680
+- 23 680
+- 22 580
+- 21 680
+= 22680
+
+? Ifodaning qiymatini toping: (46 + 14) · 2
++ 120
+- 74
+- 125
+- 130
+
+? Hisoblang: 27 610 : 55
++ 502
+- 205
+- 492
+- 482
+
+? Poyezd soat 12:30 da jo'nab, 169 minut yo'l yurdi. U soat nechada yetib keldi?
++ 15:19
+- 15:09
+- 14:19
+- 15:49
+
+? Hisoblang: 113 747 − 89 955
++ 23 792
+- 21 792
+- 23 692
+- 22 792
+= 23792
+
+? Poyezd soat 7:00 da jo'nab, 78 minut yo'l yurdi. U soat nechada yetib keldi?
++ 8:18
+- 9:18
+- 7:18
+- 8:08
+
+? Hisoblang: 79 477 : 89
++ 893
+- 398
+- 993
+- 793
+
+? Hisoblang: 20 740 : 61
++ 340
+- 320
+- 350
+- 342
+
+? Hisoblang: 38 909 : 73
++ 533
+- 335
+- 534
+- 633
+
+? Hisoblang: 105 832 + 94 948
++ 200 780
+- 210 780
+- 200 781
+- 200 770
+= 200780
+
+? Hisoblang: 757 143 − 10 221
++ 746 922
+- 746 924
+- 746 921
+- 746 923
+= 746922
+
+? Tenglamani yeching: 7 · x − 13 = 645
++ 94
+- 84
+- 95
+- 92
+
+? Ifodaning qiymatini toping: (35 + 22) · 4
++ 228
+- 123
+- 225
+- 230
+
+? Ifodaning qiymatini toping: (58 + 5) · 4
++ 252
+- 78
+- 251
+- 257
+
+? Hisoblang: 883 · 53
++ 46 799
+- 44 799
+- 46 809
+- 46 798
+= 46799
+
+## Bo'luvchilar, karralilar va bo'linish alomatlari
+
+? Qaysi sonlar 10 ga bo'linadi?
++ Oxirgi raqami 0 bo'lgan sonlar
+- Oxirgi raqami 5 bo'lgan sonlar
+- Raqamlari yig'indisi 10 bo'lgan sonlar
+- Barcha juft sonlar
+
+? Qaysi sonlar 5 ga bo'linadi?
++ Oxirgi raqami 0 yoki 5 bo'lgan sonlar
+- Faqat oxirgi raqami 5 bo'lgan sonlar
+- Raqamlari yig'indisi 5 ga bo'linadigan sonlar
+- Barcha toq sonlar
+
+? Qaysi sonlar 2 ga bo'linadi?
++ Oxirgi raqami juft (0, 2, 4, 6, 8) bo'lgan sonlar
+- Oxirgi raqami toq bo'lgan sonlar
+- Raqamlari yig'indisi 2 bo'lgan sonlar
+- Faqat 0 bilan tugaydigan sonlar
+
+? Qaysi sonlar 3 ga bo'linadi?
++ Raqamlari yig'indisi 3 ga bo'linadigan sonlar
+- Oxirgi raqami 3 bo'lgan sonlar
+- Oxirgi raqami juft bo'lgan sonlar
+- Oxirgi ikki raqami 3 bo'lgan sonlar
+
+? Qaysi sonlar 9 ga bo'linadi?
++ Raqamlari yig'indisi 9 ga bo'linadigan sonlar
+- Oxirgi raqami 9 bo'lgan sonlar
+- Raqamlari yig'indisi 3 ga teng sonlar
+- Barcha toq sonlar
+
+? Qaysi sonlar 4 ga bo'linadi?
++ Oxirgi ikki raqamidan tuzilgan son 4 ga bo'linadigan sonlar
+- Oxirgi raqami 4 bo'lgan sonlar
+- Raqamlari yig'indisi 4 bo'lgan sonlar
+- Barcha juft sonlar
+
+? Sonning o'ziga va 1 ga bo'linishi haqida qaysi gap to'g'ri?
++ Har qanday natural son 1 ga va o'ziga bo'linadi
+- Faqat juft sonlar o'ziga bo'linadi
+- Hech bir son 1 ga bo'linmaydi
+- Faqat 10 o'ziga bo'linadi
+
+? Agar son 9 ga bo'linsa, u albatta qaysi songa ham bo'linadi?
++ 3 ga
+- 2 ga
+- 5 ga
+- 4 ga
+
+? Agar son 10 ga bo'linsa, u albatta qaysi sonlarga ham bo'linadi?
++ 2 ga va 5 ga
+- 3 ga va 9 ga
+- 4 ga va 9 ga
+- Faqat 3 ga
+
+? 11 sonining dastlabki 7 ta karralisini yozing.
++ 11, 22, 33, 44, 55, 66, 77
+- 12, 23, 34, 45, 56, 67, 78
+- 12, 13, 14, 15, 16, 17, 18
+- 22, 33, 44, 55, 66, 77, 88
+
+? Qaysi son 10 ga qoldiqsiz bo'linadi?
++ 6720
+- 6721
+- 6718
+- 6727
+= 6720
+
+? Qaysi son 3 ga qoldiqsiz bo'linadi?
++ 4323
+- 4321
+- 4322
+- 4327
+= 4323
+
+? Qaysi son 4 ga qoldiqsiz bo'linadi?
++ 4004
+- 4074
+- 4005
+- 4006
+= 4004
+
+? 60 sonining nechta bo'luvchisi bor?
++ 12
+- 11
+- 10
+- 7
+
+? Qaysi son 3 ga qoldiqsiz bo'linadi?
++ 4533
+- 4553
+- 4573
+- 4543
+= 4533
+
+? Qaysi son 4 ga qoldiqsiz bo'linadi?
++ 6896
+- 6898
+- 6894
+- 6895
+= 6896
+
+? Qaysi son 9 ga bo'linmaydi?
++ 8416
+- 2853
+- 1206
+- 6255
+= 8416
+
+? Qaysi son 4 ga qoldiqsiz bo'linadi?
++ 4292
+- 4290
+- 4291
+- 4295
+= 4292
+
+? Qaysi son 3 ga bo'linmaydi?
++ 559
+- 411
+- 4662
+- 5079
+= 559
+
+? Qaysi son 4 ga qoldiqsiz bo'linadi?
++ 1504
+- 1506
+- 1574
+- 1511
+= 1504
+
+? Qaysi son 5 ga qoldiqsiz bo'linadi?
++ 3885
+- 3889
+- 3883
+- 3892
+= 3885
+
+? Qaysi son 10 ga qoldiqsiz bo'linadi?
++ 2920
+- 2921
+- 2918
+- 2927
+= 2920
+
+? 96 841 sonining raqamlari yig'indisini toping.
++ 28
+- 29
+- 30
+- 25
+
+? 24 sonining nechta bo'luvchisi bor?
++ 8
+- 18
+- 11
+- 9
+
+? 30 sonining nechta bo'luvchisi bor?
++ 8
+- 3
+- 9
+- 6
+
+? 3 sonining dastlabki 3 ta karralisini yozing.
++ 3, 6, 9
+- 4, 7, 10
+- 4, 5, 6
+- 6, 9, 12
+
+? Qaysi son 9 ga bo'linmaydi?
++ 2473
+- 4176
+- 5994
+- 3591
+= 2473
+
+? 8 sonining dastlabki 5 ta karralisini yozing.
++ 8, 16, 24, 32, 40
+- 9, 17, 25, 33, 41
+- 9, 10, 11, 12, 13
+- 16, 24, 32, 40, 48
+
+? Qaysi son 2 ga qoldiqsiz bo'linadi?
++ 2932
+- 2939
+- 2931
+- 2933
+= 2932
+
+? Qaysi son 3 ga bo'linmaydi?
++ 4621
+- 6768
+- 6810
+- 5526
+= 4621
+
+? Qaysi son 10 ga qoldiqsiz bo'linadi?
++ 3540
+- 3538
+- 3541
+- 3543
+= 3540
+
+? Qaysi son 9 ga qoldiqsiz bo'linadi?
++ 4797
+- 4817
+- 4804
+- 4837
+= 4797
+
+? Qaysi son 3 ga qoldiqsiz bo'linadi?
++ 2817
+- 2837
+- 2821
+- 2815
+= 2817
+
+? Qaysi son 9 ga bo'linmaydi?
++ 1968
+- 7560
+- 225
+- 5670
+= 1968
+
+? 26 803 sonining raqamlari yig'indisini toping.
++ 19
+- 24
+- 20
+- 91
+
+? 36 sonining nechta bo'luvchisi bor?
++ 9
+- 8
+- 7
+- 10
+
+? Qaysi son 5 ga qoldiqsiz bo'linadi?
++ 910
+- 914
+- 917
+- 911
+= 910
+
+? 71 685 sonining raqamlari yig'indisini toping.
++ 27
+- 37
+- 72
+- 25
+
+## Ma'lumotlar: o'rta arifmetik, chastota, diagrammalar, Venn diagrammasi
+
+? Bir nechta sonning o'rta arifmetigi qanday topiladi?
++ Sonlar yig'indisi ularning soniga bo'linadi
+- Eng katta son eng kichigiga bo'linadi
+- Sonlar ko'paytiriladi
+- Eng katta son olinadi
+
+? Biror qiymatning nechta marta takrorlanishi nima deyiladi?
++ Chastota
+- O'rta arifmetik
+- Diagramma
+- Koordinata
+= chastota
+
+? Ma'lumotlarni ustunlar ko'rinishida tasvirlovchi diagramma qanday ataladi?
++ Ustunli diagramma
+- Chiziqli diagramma
+- Venn diagrammasi
+- Doiraviy jadval
+
+? Kattalikning vaqt bo'yicha o'zgarishini ko'rsatish uchun qaysi diagramma qulay?
++ Chiziqli diagramma
+- Venn diagrammasi
+- Rasm
+- Jadvalsiz matn
+
+? To'plamlarning kesishmasi va birlashmasini tasvirlash uchun nima ishlatiladi?
++ Venn diagrammasi
+- Ustunli diagramma
+- Koordinata nuri
+- Transportir
+
+? Ma'lumotlarni taqdim etish usullarini toping.
++ Jadval, diagramma, grafik
+- Faqat og'zaki
+- Faqat rasm
+- Faqat raqamsiz matn
+
+? Baholar ro'yxati: 2, 5, 3, 4, 3, 5, 1, 2, 2, 3, 2, 5, 2, 1. «2» bahosining chastotasi nechaga teng?
++ 5
+- 6
+- 2
+- 3
+
+? A = {1, 3, 8, 12, 15, 18, 19}, B = {4, 7, 11, 14}. A ∪ B to'plamda nechta element bor?
++ 11
+- 21
+- 16
+- 13
+
+? 1 < x < 9 hamda 5 < x < 11 tengsizliklarning natural yechimlari to'plamlarining kesishmasini toping.
++ {6, 7, 8}
+- {2, 3, 4, 5, 6, 7, 8}
+- {6, 7, 8, 9, 10}
+- {2, 3, 4, 5, 6, 7, 8, 9, 10}
+
+? A = {2, 4, 5, 6, 10}, B = {6, 11, 12, 16, 17, 18, 19}. A ∪ B to'plamda nechta element bor?
++ 11
+- 12
+- 1
+- 13
+
+? Sonlarning o'rta arifmetigini toping: 86, 97, 87
++ 90
+- 270
+- 87
+- 92
+
+? Sardor 5 kun davomida har kuni mos ravishda 7, 9, 5, 6, 8 ta masala yechdi. U bir kunda o'rtacha nechta masala yechgan?
++ 7
+- 9
+- 2
+- 17
+
+? Ali 5 kun davomida har kuni mos ravishda 4, 4, 3, 3, 11 ta masala yechdi. U bir kunda o'rtacha nechta masala yechgan?
++ 5
+- 3
+- 4
+- 7
+
+? A = {2, 3, 5, 14}, B = {4, 11, 16, 17, 18}. A ∪ B to'plamda nechta element bor?
++ 9
+- 19
+- 4
+- 11
+
+? Zarina 5 kun davomida har kuni mos ravishda 8, 7, 5, 8, 2 ta masala yechdi. U bir kunda o'rtacha nechta masala yechgan?
++ 6
+- 7
+- 3
+- 5
+
+? Baholar ro'yxati: 3, 3, 3, 2, 5, 4, 5, 3, 3, 3, 2. «4» bahosining chastotasi nechaga teng?
++ 1
+- 11
+- 2
+- 3
+
+? Baholar ro'yxati: 4, 2, 4, 4, 3, 5, 1, 3, 1, 1, 2, 1, 4. «4» bahosining chastotasi nechaga teng?
++ 4
+- 3
+- 2
+- 14
+
+? Sonlarning o'rta arifmetigini toping: 50, 65, 50, 59
++ 56
+- 224
+- 54
+- 58
+
+? Bekzod 3 kun davomida har kuni mos ravishda 8, 7, 6 ta masala yechdi. U bir kunda o'rtacha nechta masala yechgan?
++ 7
+- 6
+- 9
+- 5
+
+? Madina 5 kun davomida har kuni mos ravishda 7, 9, 8, 6, 10 ta masala yechdi. U bir kunda o'rtacha nechta masala yechgan?
++ 8
+- 13
+- 9
+- 6
+
+? A = {1, 12, 14, 16}, B = {3, 5, 6, 7, 9, 11, 17}. A ∪ B to'plamda nechta element bor?
++ 11
+- 12
+- 9
+- 6
+
+? 2 < x < 10 hamda 4 < x < 11 tengsizliklarning natural yechimlari to'plamlarining kesishmasini toping.
++ {5, 6, 7, 8, 9}
+- {3, 4, 5, 6, 7, 8, 9}
+- {5, 6, 7, 8, 9, 10}
+- {3, 4, 5, 6, 7, 8, 9, 10}
+
+? A = {1, 3, 5, 10, 11, 14}, B = {1, 3, 4, 6, 12, 14}. A ∩ B ni toping.
++ {1, 3, 14}
+- {1, 3, 4, 5, 6, 10, 11, 12, 14}
+- {5, 10, 11}
+- {4, 6, 12}
+
+? Baholar ro'yxati: 5, 2, 3, 1, 1, 1, 4, 1, 2, 2, 4, 5, 1. «2» bahosining chastotasi nechaga teng?
++ 3
+- 0
+- 4
+- 2
+
+? Baholar ro'yxati: 4, 5, 2, 3, 1, 5, 3, 3, 1, 1, 3, 1, 4, 1. «3» bahosining chastotasi nechaga teng?
++ 4
+- 14
+- 9
+- 6
+
+? 4 < x < 10 hamda 8 < x < 11 tengsizliklarning natural yechimlari to'plamlarining kesishmasini toping.
++ {9}
+- {5, 6, 7, 8, 9}
+- {9, 10}
+- {5, 6, 7, 8, 9, 10}
+
+? Aziz 3 kun davomida har kuni mos ravishda 3, 5, 4 ta masala yechdi. U bir kunda o'rtacha nechta masala yechgan?
++ 4
+- 3
+- 5
+- 7
+
+? Baholar ro'yxati: 5, 3, 3, 1, 2, 5, 2, 2, 4, 5, 2, 2, 5. «5» bahosining chastotasi nechaga teng?
++ 4
+- 2
+- 6
+- 5
+
+? Baholar ro'yxati: 2, 2, 1, 3, 5, 4, 3, 5, 3, 1, 1, 4. «4» bahosining chastotasi nechaga teng?
++ 2
+- 4
+- 3
+- 12
+
+? 1 < x < 7 hamda 3 < x < 12 tengsizliklarning natural yechimlari to'plamlarining kesishmasini toping.
++ {4, 5, 6}
+- {2, 3, 4, 5, 6}
+- {4, 5, 6, 7, 8, 9, 10, 11}
+- {2, 3, 4, 5, 6, 7, 8, 9, 10, 11}
+
+? A = {3, 6, 9, 10, 13, 14}, B = {6, 7, 8, 9, 10, 12}. A ∩ B ni toping.
++ {6, 9, 10}
+- {3, 6, 7, 8, 9, 10, 12, 13, 14}
+- {3, 13, 14}
+- {7, 8, 12}
+
+? Baholar ro'yxati: 4, 4, 3, 3, 2, 1, 3, 4, 5, 5. «4» bahosining chastotasi nechaga teng?
++ 3
+- 1
+- 8
+- 4
+
+? A = {2, 6, 13, 16, 17}, B = {6, 7, 8, 13, 19}. A ∪ B to'plamda nechta element bor?
++ 8
+- 10
+- 5
+- 7
+
+? Baholar ro'yxati: 2, 3, 1, 4, 4, 3, 2, 3, 4, 3. «2» bahosining chastotasi nechaga teng?
++ 2
+- 12
+- 7
+- 4
+
+? Sevara 3 kun davomida har kuni mos ravishda 8, 8, 2 ta masala yechdi. U bir kunda o'rtacha nechta masala yechgan?
++ 6
+- 4
+- 1
+- 7
+
+? Baholar ro'yxati: 2, 1, 1, 2, 4, 3, 5, 4, 1, 3, 3, 5, 4. «1» bahosining chastotasi nechaga teng?
++ 3
+- 5
+- 1
+- 2
+
+## Koordinata nuri va harakatga doir masalalar
+
+? Koordinata nurida ikki qo'shni shtrix oralig'i nima deb ataladi?
++ Bo'linma (birlik kesma)
+- Koordinata
+- Tezlik
+- Burchak
+
+? Hisob boshidan A nuqtagacha bo'lgan bo'linmalar soni nima deyiladi?
++ A nuqtaning koordinatasi
+- A nuqtaning tezligi
+- Birlik kesma
+- Shkala
+
+? Ikki jism bir-biriga qarab harakatlanganda ularning tezliklari yig'indisi nima deyiladi?
++ Yaqinlashish tezligi
+- Uzoqlashish tezligi
+- Quvlama tezlik
+- O'rtacha tezlik
+
+? Ikki jism qarama-qarshi tomonga harakatlanib uzoqlashsa, tezliklar yig'indisi nima deyiladi?
++ Uzoqlashish tezligi
+- Yaqinlashish tezligi
+- Kechikish tezligi
+- Burchak tezligi
+
+? Biri ikkinchisining ortidan quvib yetishga harakat qilgan harakat qanday ataladi?
++ Quvlama harakat
+- Qarama-qarshi harakat
+- Kechikishli harakat
+- Aylanma harakat
+
+? Jismlardan biri ikkinchisidan keyinroq yo'lga chiqqan harakat qanday ataladi?
++ Kechikishli harakat
+- Quvlama harakat
+- Qarama-qarshi harakat
+- Tinch holat
+
+? Quvlama harakatda yaqinlashish tezligi qanday topiladi?
++ Katta tezlikdan kichik tezlik ayiriladi
+- Tezliklar qo'shiladi
+- Tezliklar ko'paytiriladi
+- Tezliklar bo'linadi
+
+? Bir joydan qarama-qarshi tomonlarga 9 km/h va 18 km/h tezlik bilan ikki sayyoh yo'lga chiqdi. 6 soatdan keyin ular orasidagi masofa qancha bo'ladi?
++ 162 km
+- 54 km
+- 159 km
+- 161 km
+= 162
+
+? Velosipedchi 21 km/h tezlik bilan oldinda 30 km masofada 11 km/h tezlikda ketayotgan piyodani quvlamoqda. Necha soatdan keyin unga yetib oladi?
++ 3 soat
+- 1 soat
+- 5 soat
+- 2 soat
+= 3
+
+? Avtobus 73 km/h tezlik bilan yo'lga chiqishi kerak edi, lekin 1 soat kechikib jo'nadi va 4 soat yurdi. U qancha masofani bosib o'tdi?
++ 292 km
+- 365 km
+- 219 km
+- 297 km
+= 292
+
+? Avtobus 68 km/h tezlik bilan yo'lga chiqishi kerak edi, lekin 2 soat kechikib jo'nadi va 4 soat yurdi. U qancha masofani bosib o'tdi?
++ 272 km
+- 408 km
+- 136 km
+- 282 km
+= 272
+
+? Koordinata nurida A(31) va B(41) nuqtalar orasidagi masofani toping.
++ 10
+- 72
+- 15
+- 12
+
+? Ikki velosipedchi orasidagi masofa 273 km. Ular bir-biriga qarab 26 km/h va 13 km/h tezlik bilan yo'lga chiqdi. Necha soatdan keyin uchrashadi?
++ 7 soat
+- 6 soat
+- 9 soat
+- 8 soat
+= 7
+
+? Velosipedchi 21 km/h tezlik bilan oldinda 35 km masofada 14 km/h tezlikda ketayotgan piyodani quvlamoqda. Necha soatdan keyin unga yetib oladi?
++ 5 soat
+- 1 soat
+- 7 soat
+- 3 soat
+= 5
+
+? Nuqta koordinata nurida 37 dan o'ngga 2 birlik siljidi. U qaysi nuqtaga keldi?
++ 39
+- 35
+- 37
+- 40
+
+? Nuqta koordinata nurida 31 dan chapga 3 birlik siljidi. U qaysi nuqtaga keldi?
++ 28
+- 34
+- 33
+- 25
+
+? Ikki shahardan bir vaqtda bir-biriga qarab 37 km/h va 62 km/h tezlik bilan ikki avtomobil yo'lga chiqdi. Ular 5 soatdan keyin uchrashdi. Shaharlar orasidagi masofani toping.
++ 495 km
+- 2294 km
+- 125 km
+- 395 km
+= 495
+
+? Koordinata nurida A(16) va B(45) nuqtalar orasidagi masofani toping.
++ 29
+- 61
+- 28
+- 31
+
+? Bir joydan qarama-qarshi tomonlarga 16 km/h va 46 km/h tezlik bilan ikki sayyoh yo'lga chiqdi. 6 soatdan keyin ular orasidagi masofa qancha bo'ladi?
++ 372 km
+- 180 km
+- 371 km
+- 362 km
+= 372
+
+? Nuqta koordinata nurida 29 dan chapga 6 birlik siljidi. U qaysi nuqtaga keldi?
++ 23
+- 35
+- 13
+- 22
+
+? Velosipedchi 10 km/h tezlik bilan oldinda 8 km masofada 6 km/h tezlikda ketayotgan piyodani quvlamoqda. Necha soatdan keyin unga yetib oladi?
++ 2 soat
+- 4 soat
+- 12 soat
+- 7 soat
+= 2
+
+? Avtobus 58 km/h tezlik bilan yo'lga chiqishi kerak edi, lekin 1 soat kechikib jo'nadi va 5 soat yurdi. U qancha masofani bosib o'tdi?
++ 290 km
+- 348 km
+- 232 km
+- 270 km
+= 290
+
+? Avtobus 71 km/h tezlik bilan yo'lga chiqishi kerak edi, lekin 2 soat kechikib jo'nadi va 4 soat yurdi. U qancha masofani bosib o'tdi?
++ 284 km
+- 426 km
+- 142 km
+- 304 km
+= 284
+
+? Ikki velosipedchi orasidagi masofa 485 km. Ular bir-biriga qarab 45 km/h va 52 km/h tezlik bilan yo'lga chiqdi. Necha soatdan keyin uchrashadi?
++ 5 soat
+- 8 soat
+- 4 soat
+- 6 soat
+= 5
+
+? Koordinata nurida A(30) va B(51) nuqtalar orasidagi masofani toping.
++ 21
+- 81
+- 19
+- 22
+
+? Ikki shahardan bir vaqtda bir-biriga qarab 20 km/h va 57 km/h tezlik bilan ikki avtomobil yo'lga chiqdi. Ular 3 soatdan keyin uchrashdi. Shaharlar orasidagi masofani toping.
++ 231 km
+- 1140 km
+- 111 km
+- 221 km
+= 231
+
+? Avtobus 58 km/h tezlik bilan yo'lga chiqishi kerak edi, lekin 2 soat kechikib jo'nadi va 5 soat yurdi. U qancha masofani bosib o'tdi?
++ 290 km
+- 406 km
+- 174 km
+- 291 km
+= 290
+
+? Velosipedchi 11 km/h tezlik bilan oldinda 9 km masofada 8 km/h tezlikda ketayotgan piyodani quvlamoqda. Necha soatdan keyin unga yetib oladi?
++ 3 soat
+- 5 soat
+- 8 soat
+- 2 soat
+= 3
+
+? Velosipedchi 19 km/h tezlik bilan oldinda 12 km masofada 15 km/h tezlikda ketayotgan piyodani quvlamoqda. Necha soatdan keyin unga yetib oladi?
++ 3 soat
+- 5 soat
+- 0 soat
+- 6 soat
+= 3
+
+? Ikki velosipedchi orasidagi masofa 426 km. Ular bir-biriga qarab 14 km/h va 57 km/h tezlik bilan yo'lga chiqdi. Necha soatdan keyin uchrashadi?
++ 6 soat
+- 5 soat
+- 4 soat
+- 16 soat
+= 6
+
+? Koordinata nurida A(3) va B(50) nuqtalar orasidagi masofani toping.
++ 47
+- 53
+- 48
+- 44
+
+? Avtobus 57 km/h tezlik bilan yo'lga chiqishi kerak edi, lekin 1 soat kechikib jo'nadi va 2 soat yurdi. U qancha masofani bosib o'tdi?
++ 114 km
+- 171 km
+- 57 km
+- 115 km
+= 114
+
+? Avtobus 72 km/h tezlik bilan yo'lga chiqishi kerak edi, lekin 2 soat kechikib jo'nadi va 4 soat yurdi. U qancha masofani bosib o'tdi?
++ 288 km
+- 432 km
+- 144 km
+- 278 km
+= 288
+
+? Koordinata nurida A(29) va B(32) nuqtalar orasidagi masofani toping.
++ 3
+- 61
+- 8
+- 4
+
+? Bir joydan qarama-qarshi tomonlarga 12 km/h va 53 km/h tezlik bilan ikki sayyoh yo'lga chiqdi. 2 soatdan keyin ular orasidagi masofa qancha bo'ladi?
++ 130 km
+- 82 km
+- 125 km
+- 110 km
+= 130
+
+? Ikki velosipedchi orasidagi masofa 207 km. Ular bir-biriga qarab 38 km/h va 31 km/h tezlik bilan yo'lga chiqdi. Necha soatdan keyin uchrashadi?
++ 3 soat
+- 5 soat
+- 6 soat
+- 4 soat
+= 3
+
+? Ikki shahardan bir vaqtda bir-biriga qarab 30 km/h va 79 km/h tezlik bilan ikki avtomobil yo'lga chiqdi. Ular 2 soatdan keyin uchrashdi. Shaharlar orasidagi masofani toping.
++ 218 km
+- 2370 km
+- 98 km
+- 812 km
+= 218
+
+? Ikki velosipedchi orasidagi masofa 280 km. Ular bir-biriga qarab 24 km/h va 46 km/h tezlik bilan yo'lga chiqdi. Necha soatdan keyin uchrashadi?
++ 4 soat
+- 2 soat
+- 5 soat
+- 6 soat
+= 4
+
+## Aniq va taqribiy qiymatlar, yaxlitlash, chamalash
+
+? Aniq o'lchash bilan mos kelmaydigan qiymat nima deb ataladi?
++ Taqribiy qiymat
+- Aniq qiymat
+- O'rta arifmetik
+- Chastota
+
+? Taqribiy tenglik qaysi belgi bilan yoziladi?
++ ≈
+- =
+- <
+- >
+
+? 5 raqami bilan tugaydigan son o'nliklargacha yaxlitlanganda qanday yaxlitlanadi?
++ Katta songacha (35 ≈ 40)
+- Kichik songacha (35 ≈ 30)
+- O'zgarmaydi
+- 0 ga aylanadi
+
+? Agar yaxlitlashda son o'zidan katta songa almashsa, bu qanday yaxlitlash?
++ Ortig'i bilan yaxlitlash
+- Kami bilan yaxlitlash
+- Aniq yaxlitlash
+- Yaxlitlash emas
+
+? Agar yaxlitlashda son o'zidan kichik songa almashsa, bu qanday yaxlitlash?
++ Kami bilan yaxlitlash
+- Ortig'i bilan yaxlitlash
+- Aniq hisoblash
+- Bo'lish
+
+? Sonni o'nliklargacha yaxlitlash nimani anglatadi?
++ Sonni bitta nol bilan tugaydigan eng yaqin songa almashtirish
+- Sonni 10 ga ko'paytirish
+- Sonni 10 ga bo'lish
+- Sondan 10 ni ayirish
+
+? 929 sonini o'nliklargacha ortig‘i bilan yaxlitlang.
++ 930
+- 920
+- 940
+- 950
+= 930
+
+? 853 sonini o'nliklargacha aniqlikda yaxlitlang.
++ 850
+- 840
+- 900
+- 860
+= 850
+
+? Qulay usulda hisoblang: 50 · 40 · 2
++ 4000
+- 4100
+- 4009
+- 4010
+
+? 6790 sonini yuzliklargacha aniqlikda yaxlitlang.
++ 6800
+- 7000
+- 6900
+- 6700
+= 6800
+
+? 5439 sonini yuzliklargacha aniqlikda yaxlitlang.
++ 5400
+- 5500
+- 5300
+- 5000
+= 5400
+
+? 218 sonini o'nliklargacha aniqlikda yaxlitlang.
++ 220
+- 200
+- 210
+- 230
+= 220
+
+? Ko'paytmani chamalang: sonlarni o'nliklargacha yaxlitlab hisoblang — 22 · 61 ≈ ?
++ 1200
+- 1342
+- 1209
+- 1202
+
+? Ko'paytmani chamalang: sonlarni o'nliklargacha yaxlitlab hisoblang — 30 · 87 ≈ ?
++ 2700
+- 2610
+- 2600
+- 2698
+
+? Ko'paytmani chamalang: sonlarni o'nliklargacha yaxlitlab hisoblang — 44 · 87 ≈ ?
++ 3600
+- 3828
+- 2600
+- 3602
+
+? Qulay usulda hisoblang: 125 · 30 · 8
++ 30 000
+- 29 990
+- 31 000
+- 32 000
+= 30000
+
+? Yig'indini chamalang: sonlarni yuzliklargacha yaxlitlab qo'shing — 3441 + 2942 ≈ ?
++ 6300
+- 6383
+- 6310
+- 6200
+
+? 181 sonini o'nliklargacha ortig‘i bilan yaxlitlang.
++ 190
+- 180
+- 200
+- 210
+= 190
+
+? Yig'indini chamalang: sonlarni yuzliklargacha yaxlitlab qo'shing — 8776 + 1800 ≈ ?
++ 10 600
+- 10 576
+- 10 602
+- 10 610
+= 10600
+
+? Ko'paytmani chamalang: sonlarni o'nliklargacha yaxlitlab hisoblang — 36 · 49 ≈ ?
++ 2000
+- 1764
+- 1995
+- 2002
+
+? 3432 sonini mingliklargacha aniqlikda yaxlitlang.
++ 3000
+- 2000
+- 5000
+- 4000
+= 3000
+
+? 2424 sonini yuzliklargacha aniqlikda yaxlitlang.
++ 2400
+- 2600
+- 2500
+- 2300
+= 2400
+
+? Qulay usulda hisoblang: 50 · 65 · 2
++ 6500
+- 6499
+- 6400
+- 7500
+
+? Yig'indini chamalang: sonlarni yuzliklargacha yaxlitlab qo'shing — 4511 + 6336 ≈ ?
++ 10 800
+- 10 847
+- 11 800
+- 10 801
+= 10800
+
+? Qulay usulda hisoblang: 125 · 44 · 8
++ 44 000
+- 43 999
+- 45 000
+- 44 100
+= 44000
+
+? Qulay usulda hisoblang: 25 · 10 · 4
++ 1000
+- 998
+- 1005
+- 1200
+
+? 3951 sonini yuzliklargacha aniqlikda yaxlitlang.
++ 4000
+- 3800
+- 3900
+- 4100
+= 4000
+
+? Yig'indini chamalang: sonlarni yuzliklargacha yaxlitlab qo'shing — 1014 + 5422 ≈ ?
++ 6400
+- 6436
+- 7400
+- 5400
+
+? Qulay usulda hisoblang: 25 · 74 · 4
++ 7400
+- 8400
+- 7300
+- 7398
+
+? Yig'indini chamalang: sonlarni yuzliklargacha yaxlitlab qo'shing — 5830 + 5860 ≈ ?
++ 11 700
+- 11 690
+- 11 698
+- 11 800
+= 11700
+
+? Qulay usulda hisoblang: 50 · 33 · 2
++ 3300
+- 3400
+- 3100
+- 3200
+
+? Yig'indini chamalang: sonlarni yuzliklargacha yaxlitlab qo'shing — 6837 + 9090 ≈ ?
++ 15 900
+- 15 927
+- 15 898
+- 15 902
+= 15900
+
+? 154 sonini o'nliklargacha ortig‘i bilan yaxlitlang.
++ 160
+- 150
+- 170
+- 180
+= 160
+
+? Yig'indini chamalang: sonlarni yuzliklargacha yaxlitlab qo'shing — 9311 + 7591 ≈ ?
++ 16 900
+- 16 902
+- 16 901
+- 17 900
+= 16900
+
+? 924 sonini o'nliklargacha aniqlikda yaxlitlang.
++ 920
+- 900
+- 930
+- 940
+= 920
+
+? Yig'indini chamalang: sonlarni yuzliklargacha yaxlitlab qo'shing — 3037 + 4297 ≈ ?
++ 7300
+- 7334
+- 7309
+- 7299
+
+? Ko'paytmani chamalang: sonlarni o'nliklargacha yaxlitlab hisoblang — 39 · 89 ≈ ?
++ 3600
+- 3471
+- 3590
+- 3500
+
+? 164 388 sonini o'n mingliklargacha aniqlikda yaxlitlang.
++ 160 000
+- 150 000
+- 170 000
+- 180 000
+= 160000
+
+## Ulush va kasrlar: to'g'ri, noto'g'ri va aralash kasrlar
+
+? Kasr chizig'ining ustidagi son nima deyiladi?
++ Surat
+- Maxraj
+- Butun qism
+- Ulush
+= surat
+
+? Kasr chizig'ining ostidagi son nima deyiladi?
++ Maxraj
+- Surat
+- Butun qism
+- Bo'linma
+= maxraj
+
+? Maxraj nimani ko'rsatadi?
++ Butun nechta teng bo'lakka bo'linganini
+- Nechta bo'lak olinganini
+- Butun qismni
+- Kasrning qiymatini
+
+? Surat nimani ko'rsatadi?
++ Nechta teng bo'lak olinganini
+- Butun necha bo'lakka bo'linganini
+- Maxrajni
+- Kasr chizig'ini
+
+? Surati maxrajidan kichik bo'lgan kasr qanday kasr?
++ To'g'ri kasr
+- Noto'g'ri kasr
+- Aralash kasr
+- O'nli kasr
+= to'g'ri
+
+? Surati maxrajiga teng yoki undan katta bo'lgan kasr qanday kasr?
++ Noto'g'ri kasr
+- To'g'ri kasr
+- Aralash kasr
+- Butun son emas
+= noto'g'ri
+
+? Butun qism va kasr qismdan iborat son qanday ataladi?
++ Aralash kasr
+- To'g'ri kasr
+- Noto'g'ri kasr
+- Natural son
+= aralash kasr | aralash
+
+? To'g'ri kasr 1 dan qanday?
++ Kichik
+- Katta
+- Teng
+- Ikki marta katta
+= kichik
+
+? Maxrajlari bir xil kasrlardan qaysi biri katta?
++ Surati katta bo'lgani
+- Surati kichik bo'lgani
+- Ular har doim teng
+- Maxraji katta bo'lgani
+
+? Suratlari bir xil kasrlardan qaysi biri katta?
++ Maxraji kichik bo'lgani
+- Maxraji katta bo'lgani
+- Ular har doim teng
+- Surati katta bo'lgani
+
+? 5 2/3 aralash kasrni noto'g'ri kasrga aylantiring.
++ 17/3
+- 13/3
+- 7/3
+- 20/3
+
+? Kasrlardan eng kichigini toping: 2/5, 4/5, 3/5, 1/5
++ 1/5
+- 2/5
+- 4/5
+- 3/5
+
+? Qaysi kasr to'g'ri kasr?
++ 2/10
+- 10/10
+- 11/10
+- 19/10
+
+? 11/2 noto'g'ri kasrni aralash kasrga aylantiring.
++ 5 1/2
+- 6 1/2
+- 5 2/3
+- 3 5/6
+= 11/2 | 5,5
+
+? 1 soatning 1/2 qismi necha minut?
++ 30 minut
+- 31 minut
+- 28 minut
+- 25 minut
+= 30
+
+? 39 ning 1/3 qismini toping.
++ 13
+- 14
+- 8
+- 18
+
+? Kasrlardan eng kichigini toping: 1/4, 1/9, 1/7, 1/2
++ 1/9
+- 1/4
+- 1/7
+- 1/2
+
+? 1 metrning 1/2 qismi necha cm?
++ 50 cm
+- 52 cm
+- 49 cm
+- 45 cm
+= 50
+
+? 4 1/2 aralash kasrni noto'g'ri kasrga aylantiring.
++ 9/2
+- 6/2
+- 5/2
+- 7/2
+
+? 1 kilogrammning 1/2 qismi necha g?
++ 500 g
+- 490 g
+- 509 g
+- 510 g
+= 500
+
+? Kasrlardan eng kichigini toping: 1/11, 1/6, 1/10, 1/12
++ 1/12
+- 1/11
+- 1/6
+- 1/10
+
+? 1 soatning 3/10 qismi necha minut?
++ 18 minut
+- 17 minut
+- 21 minut
+- 19 minut
+= 18
+
+? Kasrlardan eng kichigini toping: 1/2, 1/6, 1/5, 1/8
++ 1/8
+- 1/2
+- 1/6
+- 1/5
+
+? Kasrlardan eng kattasini toping: 8/11, 5/11, 2/11, 9/11
++ 9/11
+- 8/11
+- 5/11
+- 2/11
+
+? Kasrlardan eng kichigini toping: 5/12, 5/9, 5/8, 5/16
++ 5/16
+- 5/12
+- 5/9
+- 5/8
+
+? 9/4 noto'g'ri kasrni aralash kasrga aylantiring.
++ 2 1/4
+- 3 1/4
+- 2 1/2
+- 1 1/2
+= 9/4 | 2,25
+
+? 26 ning 1/2 qismini toping.
++ 13
+- 14
+- 8
+- 23
+
+? Kasrlardan eng kattasini toping: 6/12, 2/12, 1/12, 9/12
++ 9/12
+- 6/12
+- 2/12
+- 1/12
+
+? Kasrlardan eng kichigini toping: 1/10, 1/2, 1/9, 1/12
++ 1/12
+- 1/10
+- 1/2
+- 1/9
+
+? Kasrlardan eng kattasini toping: 5/11, 10/11, 3/11, 1/11
++ 10/11
+- 5/11
+- 3/11
+- 1/11
+
+? Qaysi kasr to'g'ri kasr?
++ 4/7
+- 7/7
+- 8/7
+- 13/7
+
+? 80 ning 5/8 qismini toping.
++ 50
+- 10
+- 55
+- 49
+
+? 13/3 noto'g'ri kasrni aralash kasrga aylantiring.
++ 4 1/3
+- 5 1/3
+- 4 2/3
+- 6 1/3
+= 13/3
+
+? 1 kilogrammning 2/10 qismi necha g?
++ 200 g
+- 209 g
+- 199 g
+- 197 g
+= 200
+
+? 130 ning 5/10 qismini toping.
++ 65
+- 13
+- 70
+- 56
+
+? 1 5/7 aralash kasrni noto'g'ri kasrga aylantiring.
++ 12/7
+- 6/7
+- 2/7
+- 15/7
+
+? 1 soatning 3/4 qismi necha minut?
++ 45 minut
+- 54 minut
+- 43 minut
+- 47 minut
+= 45
+
+? Kasrlardan eng kichigini toping: 7/8, 3/8, 1/8, 4/8
++ 1/8
+- 7/8
+- 3/8
+- 4/8
+
+? 5/4 noto'g'ri kasrni aralash kasrga aylantiring.
++ 1 1/4
+- 2 1/4
+- 1 3/8
+- 2 1/8
+= 1,25 | 5/4
+
+? Kasrlardan eng kattasini toping: 4/9, 1/9, 6/9, 5/9
++ 6/9
+- 4/9
+- 1/9
+- 5/9
+
+## Kasrlarni qo'shish, ayirish va natural songa ko'paytirish
+
+? Bir xil maxrajli kasrlar qanday qo'shiladi?
++ Suratlari qo'shiladi, maxraj o'zgarmaydi
+- Suratlar va maxrajlar qo'shiladi
+- Maxrajlar qo'shiladi, surat o'zgarmaydi
+- Suratlar ko'paytiriladi
+
+? Bir xil maxrajli kasrlar qanday ayiriladi?
++ Suratlari ayiriladi, maxraj o'zgarmaydi
+- Maxrajlar ayiriladi
+- Suratlar va maxrajlar ayiriladi
+- Suratlar bo'linadi
+
+? Oddiy kasr natural songa qanday ko'paytiriladi?
++ Surat shu songa ko'paytiriladi, maxraj o'zgarmaydi
+- Maxraj shu songa ko'paytiriladi
+- Surat va maxraj ko'paytiriladi
+- Surat shu songa bo'linadi
+
+? 1 ni kasr ko'rinishida qanday yozish mumkin?
++ Surati va maxraji teng kasr ko'rinishida (masalan, 5/5)
+- 0/1 ko'rinishida
+- 1/10 ko'rinishida
+- Kasr ko'rinishida yozib bo'lmaydi
+
+? Hisoblang: 1 − 2/11
++ 9/11
+- 2/11
+- 10/11
+- 1/11
+
+? Hisoblang: 1 − 1/6
++ 5/6
+- 1/6
+- 1
+- 7/6
+
+? Hisoblang: 1 − 3/9
++ 2/3
+- 1/3
+- 7/9
+- 1/9
+
+? Zarina birinchi kuni kitobning 6/8 qismini, ikkinchi kuni 1/8 qismini o'qidi. Ikki kunda kitobning qanday qismini o'qidi?
++ 7/8
+- 7/16
+- 1/8
+- 3/4
+
+? Hisoblang: 6 − 5/6
++ 5 1/6
+- 6 1/6
+- 6 5/6
+- 5
+= 31/6
+
+? Hisoblang: 2/10 · 2
++ 2/5
+- 1/10
+- 1/5
+- 3/5
+= 0,4
+
+? Bog'ning 4/8 qismiga olma, 1/8 qismiga nok ekildi. Bog'ning qanday qismi bo'sh qoldi?
++ 3/8
+- 5/8
+- 1/2
+- 7/8
+
+? Hisoblang: 1/10 · 4
++ 2/5
+- 1/40
+- 1/2
+- 1/10
+= 0,4
+
+? Zarina birinchi kuni kitobning 3/6 qismini, ikkinchi kuni 1/6 qismini o'qidi. Ikki kunda kitobning qanday qismini o'qidi?
++ 2/3
+- 1/3
+- 1/2
+- 1
+
+? Hisoblang: 2 − 1 1/3
++ 2/3
+- 1 2/3
+- 1 1/3
+- 1/3
+
+? Hisoblang: 6/10 + 3/10
++ 9/10
+- 9/20
+- 9/5
+- 1
+= 0,9
+
+? Hisoblang: 1 − 2/8
++ 3/4
+- 1/4
+- 7/8
+- 1/8
+= 0,75
+
+? Hisoblang: 1 − 7/9
++ 2/9
+- 7/9
+- 1/3
+- 1/9
+
+? Hisoblang: 1 − 1/9
++ 8/9
+- 1/9
+- 1
+- 10/9
+
+? Hisoblang: 11/13 − 4/13
++ 7/13
+- 15/13
+- 8/13
+- 7/26
+
+? Hisoblang: 1/6 + 2/6
++ 1/2
+- 1/4
+- 1/3
+- 2/3
+= 0,5
+
+? Hisoblang: 3/11 + 7/11
++ 10/11
+- 5/11
+- 21/11
+- 1
+
+? Bog'ning 4/8 qismiga olma, 2/8 qismiga nok ekildi. Bog'ning qanday qismi bo'sh qoldi?
++ 1/4
+- 3/4
+- 1/2
+- 1
+= 0,25
+
+? Hisoblang: 1/7 · 6
++ 6/7
+- 1/42
+- 1
+- 1/7
+
+? Otabek birinchi kuni kitobning 2/4 qismini, ikkinchi kuni 1/4 qismini o'qidi. Ikki kunda kitobning qanday qismini o'qidi?
++ 3/4
+- 3/8
+- 1/4
+- 1/2
+= 0,75
+
+? Zarina birinchi kuni kitobning 2/4 qismini, ikkinchi kuni 1/4 qismini o'qidi. Ikki kunda kitobning qanday qismini o'qidi?
++ 3/4
+- 3/8
+- 1/4
+- 1/2
+= 0,75
+
+? Bog'ning 2/6 qismiga olma, 1/6 qismiga nok ekildi. Bog'ning qanday qismi bo'sh qoldi?
++ 1/2
+- 2/3
+- 5/6
+- 1
+= 0,5
+
+? Hisoblang: 2 2/4 + 3 3/4
++ 6 1/4
+- 7 1/4
+- 5 1/4
+- 5 5/8
+= 6,25 | 25/4
+
+? Hisoblang: 10/12 · 3
++ 5/2
+- 5/18
+- 13/12
+- 5/6
+= 2,5 | 2 1/2
+
+? Hisoblang: 1/10 + 7/10
++ 4/5
+- 2/5
+- 7/10
+- 9/10
+= 0,8
+
+? Aziz birinchi kuni kitobning 1/4 qismini, ikkinchi kuni 2/4 qismini o'qidi. Ikki kunda kitobning qanday qismini o'qidi?
++ 3/4
+- 3/8
+- 1/4
+- 1/2
+= 0,75
+
+? Hisoblang: 1 − 8/11
++ 3/11
+- 8/11
+- 4/11
+- 1/11
+
+? Hisoblang: 4/7 − 2/7
++ 2/7
+- 6/7
+- 3/7
+- 1/7
+
+? Hisoblang: 1 − 3/8
++ 5/8
+- 3/8
+- 3/4
+- 1/8
+
+? Hisoblang: 2/12 · 3
++ 1/2
+- 1/18
+- 5/12
+- 1/6
+= 0,5
+
+? Bog'ning 6/8 qismiga olma, 1/8 qismiga nok ekildi. Bog'ning qanday qismi bo'sh qoldi?
++ 1/8
+- 7/8
+- 1/4
+- 3/8
+
+? Hisoblang: 3 − 1 1/3
++ 1 2/3
+- 2 2/3
+- 2 1/3
+- 1 1/3
+= 5/3
+
+? Hisoblang: 4 7/9 + 3 5/9
++ 8 1/3
+- 9 1/3
+- 7 1/3
+- 7 2/3
+= 25/3
+
+? Hisoblang: 9/11 − 6/11
++ 3/11
+- 15/11
+- 4/11
+- 3/22
+
+## O'nli kasrlar va foiz
+
+? Maxraji 10, 100, 1000 bo'lgan kasrlarni yozishning qulay usuli qanday ataladi?
++ O'nli kasr
+- Aralash kasr
+- Noto'g'ri kasr
+- Foiz emas, ulush
+= o'nli kasr
+
+? O'nli kasrda butun qism kasr qismdan qanday belgi bilan ajratiladi?
++ Vergul
+- Chiziqcha
+- Nuqta-vergul
+- Qavs
+= vergul
+
+? Verguldan keyingi birinchi xona qanday ataladi?
++ O'ndan birlar
+- Yuzdan birlar
+- Mingdan birlar
+- O'nlar
+= o'ndan birlar
+
+? Verguldan keyingi ikkinchi xona qanday ataladi?
++ Yuzdan birlar
+- O'ndan birlar
+- Mingdan birlar
+- Yuzlar
+= yuzdan birlar
+
+? Verguldan keyingi uchinchi xona qanday ataladi?
++ Mingdan birlar
+- Yuzdan birlar
+- O'ndan birlar
+- Minglar
+= mingdan birlar
+
+? Sonning yuzdan bir qismi nima deyiladi?
++ Foiz
+- Promille
+- Ulush emas
+- Chastota
+= foiz
+
+? 1% qaysi kasrga teng?
++ 1/100
+- 1/10
+- 1/1000
+- 1/2
+
+? 50% sonning qanday qismi?
++ Yarmi (1/2)
+- Choragi (1/4)
+- O'ndan biri
+- Butuni
+
+? 25% sonning qanday qismi?
++ Choragi (1/4)
+- Yarmi (1/2)
+- Beshdan biri
+- Butuni
+
+? 100% nimani bildiradi?
++ Butun sonni
+- Yarmini
+- Hech narsani
+- Ikki baravarini
+
+? 1 dm metrning qanday qismi (o'nli kasrda)?
++ 0,1 m
+- 0,01 m
+- 1,0 m
+- 0,001 m
+= 0,1 | 0.1
+
+? 1 cm metrning qanday qismi (o'nli kasrda)?
++ 0,01 m
+- 0,1 m
+- 0,001 m
+- 1 m
+= 0,01 | 0.01
+
+? 1 g kilogrammning qanday qismi (o'nli kasrda)?
++ 0,001 kg
+- 0,01 kg
+- 0,1 kg
+- 1 kg
+= 0,001 | 0.001
+
+? 100 ning 20% ini toping.
++ 20
+- 200
+- 22
+- 18
+
+? 5 m 41 cm ni metrlarda o'nli kasr bilan yozing.
++ 5,41 m
+- 9,1 m
+- 5,041 m
+- 50,41 m
+= 5,41 | 5.41
+
+? 9 m 58 cm ni metrlarda o'nli kasr bilan yozing.
++ 9,58 m
+- 14,8 m
+- 9,058 m
+- 90,58 m
+= 9,58 | 9.58
+
+? O'nli kasrlardan eng kattasini toping: 6,45, 7,11, 2,71, 6,8
++ 7,11
+- 6,45
+- 2,71
+- 6,8
+= 7.11
+
+? 5 kg 663 g ni kilogrammlarda o'nli kasr bilan yozing.
++ 5,663 kg
+- 6,663 kg
+- 11,63 kg
+- 5,0663 kg
+= 5,663 | 5.663
+
+? 500 ning 20% ini toping.
++ 100
+- 1000
+- 109
+- 97
+
+? Sinfda 200 ta kitob bor. Ularning 10% i — ertak kitoblari. Nechta ertak kitobi bor?
++ 20 ta
+- 29 ta
+- 25 ta
+- 10 ta
+= 20
+
+? Sinfda 80 ta kitob bor. Ularning 20% i — ertak kitoblari. Nechta ertak kitobi bor?
++ 16 ta
+- 17 ta
+- 15 ta
+- 13 ta
+= 16
+
+? 20 ning 50% ini toping.
++ 10
+- 100
+- 5
+- 9
+
+? 8 m 67 cm ni metrlarda o'nli kasr bilan yozing.
++ 8,67 m
+- 14,7 m
+- 8,067 m
+- 80,67 m
+= 8,67 | 8.67
+
+? 198/100 kasrni o'nli kasr ko'rinishida yozing.
++ 1,98
+- 0,198
+- 19,8
+- 2,98
+= 1.98
+
+? 77,286 sonida 8 raqami qaysi xonada turibdi?
++ yuzdan birlar xonasida
+- o'ndan birlar xonasida
+- mingdan birlar xonasida
+- birlar xonasida
+= yuzdan birlar
+
+? 40 ning 75% ini toping.
++ 30
+- 300
+- 31
+- 40
+
+? Sinfda 80 ta kitob bor. Ularning 10% i — ertak kitoblari. Nechta ertak kitobi bor?
++ 8 ta
+- 6 ta
+- 7 ta
+- 3 ta
+= 8
+
+? 75,987 sonida 9 raqami qaysi xonada turibdi?
++ o'ndan birlar xonasida
+- yuzdan birlar xonasida
+- mingdan birlar xonasida
+- birlar xonasida
+= o'ndan birlar
+
+? 100 ning 75% ini toping.
++ 75
+- 750
+- 80
+- 74
+
+? 500 ning 5% ini toping.
++ 25
+- 250
+- 28
+- 24
+
+? O'nli kasrlardan eng kattasini toping: 4,29, 1,58, 0,19, 8,58
++ 8,58
+- 4,29
+- 1,58
+- 0,19
+= 8.58
+
+? O'nli kasrlardan eng kattasini toping: 3,97, 8,43, 9,14, 3,53
++ 9,14
+- 3,97
+- 8,43
+- 3,53
+= 9.14
+
+? 578/1000 kasrni o'nli kasr ko'rinishida yozing.
++ 0,578
+- 1,578
+- 5,78
+- 0,0578
+= 0.578
+
+? 9 m 80 cm ni metrlarda o'nli kasr bilan yozing.
++ 9,8 m
+- 17 m
+- 9,08 m
+- 90,8 m
+= 9,8 | 9.8
+
+? 400 ning 20% ini toping.
++ 80
+- 800
+- 82
+- 77
+
+? 400 ning 75% ini toping.
++ 300
+- 3000
+- 295
+- 301
+
+? 5 kg 276 g ni kilogrammlarda o'nli kasr bilan yozing.
++ 5,276 kg
+- 5,0276 kg
+- 6,276 kg
+- 7,76 kg
+= 5,276 | 5.276
+
+? Sinfda 100 ta kitob bor. Ularning 20% i — ertak kitoblari. Nechta ertak kitobi bor?
++ 20 ta
+- 19 ta
+- 22 ta
+- 29 ta
+= 20
+
+## Simmetriya va fazoviy jismlar
+
+? Shaklni ikkita bir xil bo'lakka bo'luvchi chiziq nima deb ataladi?
++ Simmetriya o'qi
+- Diametr
+- Radius
+- Koordinata nuri
+= simmetriya o'qi
+
+? To'g'ri chiziqqa nisbatan simmetriya ko'pincha qanday ataladi?
++ Aks simmetriya
+- Markaziy simmetriya
+- Burilish
+- Parallel ko'chirish
+= aks simmetriya
+
+? Chapdan o'ngga ham, o'ngdan chapga ham bir xil o'qiladigan so'z yoki son nima deyiladi?
++ Palindrom
+- Rapport
+- Ornament
+- Simmetriya
+= palindrom
+
+? Ornamentdagi rasmning takrorlanuvchi qismi nima deyiladi?
++ Rapport
+- Palindrom
+- Yoyilma
+- Prizma
+= rapport
+
+? Qaysi son palindrom?
++ 12321
+- 12345
+- 12312
+- 54312
+
+? Qaysi so'z palindrom?
++ kiyik
+- kitob
+- maktab
+- daftar
+
+? Fazoviy shaklning tekislikdagi xomaki nusxasi nima deyiladi?
++ Yoyilma
+- Simmetriya
+- Proyeksiya emas, rapport
+- Diagramma
+= yoyilma
+
+? Ikki qarama-qarshi yog'i ko'pburchak, qolgan yoqlari to'g'ri to'rtburchak bo'lgan jism nima deyiladi?
++ Prizma
+- Piramida
+- Konus
+- Silindr
+= prizma
+
+? Asosi ko'pburchak, yon yoqlari uchburchak bo'lib, bir uchda tutashgan jism nima deyiladi?
++ Piramida
+- Prizma
+- Silindr
+- Kub
+= piramida
+
+? Asoslari ikkita teng doiradan iborat jism nima deyiladi?
++ Silindr
+- Konus
+- Shar
+- Piramida
+= silindr
+
+? Asosi doira bo'lib, bitta uchga ega jism nima deyiladi?
++ Konus
+- Silindr
+- Shar
+- Prizma
+= konus
+
+? Yumaloq, hech qanday qirrasi va uchi bo'lmagan jism nima deyiladi?
++ Shar
+- Konus
+- Silindr
+- Kub
+= shar
+
+? Kuboid (to'g'ri burchakli parallelepiped)ning nechta yog'i bor?
++ 6 ta
+- 4 ta
+- 8 ta
+- 12 ta
+= 6
+
+? Uchburchakli prizmaning nechta yog'i bor?
++ 5 ta
+- 6 ta
+- 3 ta
+- 4 ta
+= 5
+
+? Uchburchakli piramidaning nechta yog'i bor?
++ 4 ta
+- 3 ta
+- 5 ta
+- 6 ta
+= 4
+
+? To'rtburchakli piramidaning nechta yog'i bor?
++ 5 ta
+- 4 ta
+- 6 ta
+- 8 ta
+= 5
+
+? To'rtburchakli piramidaning nechta uchi bor?
++ 5 ta
+- 4 ta
+- 6 ta
+- 8 ta
+= 5
+
+? Uchburchakli prizmaning nechta uchi bor?
++ 6 ta
+- 5 ta
+- 3 ta
+- 9 ta
+= 6
+
+? Uchburchakli prizmaning nechta qirrasi bor?
++ 9 ta
+- 6 ta
+- 12 ta
+- 5 ta
+= 9
+
+? Silindr yoyilmasining yon sirti qanday shaklda bo'ladi?
++ To'g'ri to'rtburchak
+- Uchburchak
+- Doira
+- Beshburchak
+
+? Kuboid yoyilmasi nechta to'g'ri to'rtburchakdan iborat?
++ 6 ta
+- 4 ta
+- 8 ta
+- 5 ta
+= 6
+
+? Qaysi harf simmetriya o'qiga ega emas?
++ R
+- H
+- T
+- Y
+
+? Qaysi narsa shar shakliga ega?
++ Futbol to'pi
+- Qalam
+- Kitob
+- Muzqaymoq vafli
+
+? Qaysi narsa konus shakliga ega?
++ Muzqaymoq vaflisi
+- Futbol to'pi
+- Konserva bankasi
+- Kitob
+
+? Qaysi narsa silindr shakliga ega?
++ Konserva bankasi
+- Futbol to'pi
+- Piramida
+- Kub
+
+? Markaziy simmetriyada simmetriya markazi O, nuqta A va unga simmetrik A' nuqta qanday joylashadi?
++ Bir to'g'ri chiziqda, O — AA' ning o'rtasida
+- Doim bir nuqtada ustma-ust
+- Aylana ustida
+- Har xil chiziqlarda tasodifiy
+
+? Kubning qirrasi 6 cm. Yoyilmasining yuzini (to'la sirtini) toping.
++ 216 cm²
+- 144 cm²
+- 218 cm²
+- 221 cm²
+= 216
+
+? Kuboidning o'lchamlari 5 cm, 9 cm va 7 cm. Uning hajmini toping.
++ 315 cm³
+- 21 cm³
+- 286 cm³
+- 316 cm³
+= 315
+
+? Kuboidning o'lchamlari 4 cm, 5 cm va 5 cm. Uning hajmini toping.
++ 100 cm³
+- 14 cm³
+- 130 cm³
+- 98 cm³
+= 100
+
+? Kuboidning o'lchamlari 7 cm, 4 cm va 7 cm. Uning hajmini toping.
++ 196 cm³
+- 18 cm³
+- 210 cm³
+- 197 cm³
+= 196
+
+? Asosi 3 burchakli piramidaning nechta yog'i bor?
++ 4 ta
+- 5 ta
+- 2 ta
+- 6 ta
+= 4
+
+? Kubning qirrasi 5 cm. Yoyilmasining yuzini (to'la sirtini) toping.
++ 150 cm²
+- 125 cm²
+- 100 cm²
+- 145 cm²
+= 150
+
+? Asosi 5 burchakli piramidaning nechta yog'i bor?
++ 6 ta
+- 9 ta
+- 3 ta
+- 1 ta
+= 6
+
+? Asosi 5 burchakli piramidaning nechta uchi bor?
++ 6 ta
+- 7 ta
+- 3 ta
+- 11 ta
+= 6
+
+? Asosi 6 burchakli piramidaning nechta qirrasi bor?
++ 12 ta
+- 21 ta
+- 15 ta
+- 2 ta
+= 12
+
+? Asosi 3 burchakli piramidaning nechta qirrasi bor?
++ 6 ta
+- 11 ta
+- 16 ta
+- 5 ta
+= 6
+
+## Burchaklar va ularni o'lchash
+
+? Burchaklar qanday asbob bilan o'lchanadi?
++ Transportir
+- Sirkul
+- Chizg'ich
+- Termometr
+= transportir
+
+? Burchakning o'lchov birligi nima?
++ Gradus
+- Santimetr
+- Kilogramm
+- Litr
+= gradus
+
+? To'g'ri burchak necha gradus?
++ 90°
+- 180°
+- 45°
+- 60°
+= 90
+
+? Yoyiq burchak necha gradus?
++ 180°
+- 90°
+- 360°
+- 100°
+= 180
+
+? 90° dan kichik burchak qanday ataladi?
++ O'tkir burchak
+- O'tmas burchak
+- To'g'ri burchak
+- Yoyiq burchak
+= o'tkir
+
+? 90° dan katta, lekin 180° dan kichik burchak qanday ataladi?
++ O'tmas burchak
+- O'tkir burchak
+- To'g'ri burchak
+- Yoyiq burchak
+= o'tmas
+
+? To'liq aylana necha gradus?
++ 360°
+- 180°
+- 90°
+- 100°
+= 360
+
+? Burchakni hosil qiluvchi nurlar nima deb ataladi?
++ Burchak tomonlari
+- Burchak uchlari
+- Diagonallar
+- Radiuslar
+
+? Burchak tomonlari chiqadigan nuqta nima deyiladi?
++ Burchak uchi
+- Burchak tomoni
+- Markaz
+- Diametr
+= uchi | burchak uchi
+
+? Soat 3:00 da soat millari qanday burchak hosil qiladi?
++ To'g'ri burchak (90°)
+- O'tkir burchak
+- Yoyiq burchak
+- O'tmas burchak
+
+? Soat 6:00 da soat millari qanday burchak hosil qiladi?
++ Yoyiq burchak (180°)
+- To'g'ri burchak
+- O'tkir burchak
+- O'tmas burchak
+
+? To'g'ri to'rtburchakning har bir burchagi necha gradus?
++ 90°
+- 60°
+- 180°
+- 45°
+= 90
+
+? Yoyiq burchak ikki qismga bo'lindi. Bir qismi 138°. Ikkinchi qismi necha gradus?
++ 42°
+- 222°
+- 45°
+- 32°
+= 42
+
+? 64° li burchak qanday burchak?
++ O'tkir burchak
+- O'tmas burchak
+- To'g'ri burchak
+- Yoyiq burchak
+
+? Yoyiq burchak ikki qismga bo'lindi. Bir qismi 66°. Ikkinchi qismi necha gradus?
++ 114°
+- 24°
+- 115°
+- 104°
+= 114
+
+? Soat 5:00 da soat millari orasidagi burchak necha gradus?
++ 150°
+- 75°
+- 300°
+- 145°
+= 150
+
+? 6° li burchak qanday burchak?
++ O'tkir burchak
+- O'tmas burchak
+- To'g'ri burchak
+- Yoyiq burchak
+
+? 137° li burchak qanday burchak?
++ O'tmas burchak
+- O'tkir burchak
+- To'g'ri burchak
+- Yoyiq burchak
+
+? Soat 1:00 da soat millari orasidagi burchak necha gradus?
++ 30°
+- 15°
+- 60°
+- 31°
+= 30
+
+? Yoyiq burchak ikki qismga bo'lindi. Bir qismi 151°. Ikkinchi qismi necha gradus?
++ 29°
+- 209°
+- 24°
+- 32°
+= 29
+
+? 42° li burchak qanday burchak?
++ O'tkir burchak
+- O'tmas burchak
+- To'g'ri burchak
+- Yoyiq burchak
+
+? To'g'ri burchak ikki qismga bo'lindi. Bir qismi 15°. Ikkinchi qismi necha gradus?
++ 75°
+- 165°
+- 76°
+- 73°
+= 75
+
+? Yoyiq burchak ikki qismga bo'lindi. Bir qismi 17°. Ikkinchi qismi necha gradus?
++ 163°
+- 73°
+- 183°
+- 162°
+= 163
+
+? Yoyiq burchak ikki qismga bo'lindi. Bir qismi 76°. Ikkinchi qismi necha gradus?
++ 104°
+- 14°
+- 114°
+- 124°
+= 104
+
+? To'g'ri burchak ikki qismga bo'lindi. Bir qismi 79°. Ikkinchi qismi necha gradus?
++ 11°
+- 101°
+- 21°
+- 16°
+= 11
+
+? 49° li burchak qanday burchak?
++ O'tkir burchak
+- O'tmas burchak
+- To'g'ri burchak
+- Yoyiq burchak
+
+? Yoyiq burchak ikki qismga bo'lindi. Bir qismi 13°. Ikkinchi qismi necha gradus?
++ 167°
+- 77°
+- 187°
+- 761°
+= 167
+
+? To'g'ri burchak ikki qismga bo'lindi. Bir qismi 70°. Ikkinchi qismi necha gradus?
++ 20°
+- 110°
+- 29°
+- 22°
+= 20
+
+? To'g'ri burchak ikki qismga bo'lindi. Bir qismi 47°. Ikkinchi qismi necha gradus?
++ 43°
+- 133°
+- 53°
+- 46°
+= 43
+
+? To'g'ri burchak ikki qismga bo'lindi. Bir qismi 62°. Ikkinchi qismi necha gradus?
++ 28°
+- 118°
+- 29°
+- 18°
+= 28
+
+? 160° li burchak qanday burchak?
++ O'tmas burchak
+- O'tkir burchak
+- To'g'ri burchak
+- Yoyiq burchak
+
+? To'g'ri burchak ikki qismga bo'lindi. Bir qismi 39°. Ikkinchi qismi necha gradus?
++ 51°
+- 141°
+- 53°
+- 52°
+= 51
+
+? 46° li burchak qanday burchak?
++ O'tkir burchak
+- O'tmas burchak
+- To'g'ri burchak
+- Yoyiq burchak
+
+? Soat 2:00 da soat millari orasidagi burchak necha gradus?
++ 60°
+- 30°
+- 120°
+- 61°
+= 60
+
+? Yoyiq burchak ikki qismga bo'lindi. Bir qismi 32°. Ikkinchi qismi necha gradus?
++ 148°
+- 58°
+- 158°
+- 146°
+= 148
+
+? 15° li burchak qanday burchak?
++ O'tkir burchak
+- O'tmas burchak
+- To'g'ri burchak
+- Yoyiq burchak
