@@ -1,0 +1,2812 @@
+fan: matematika
+kitob: Matematika, 3-sinf (I–IV qismlar). I.V. Repyova. «Novda Edutainment»
+
+## Takrorlash: sonlar, ko'paytirish va uning xossalari
+
+? Har qanday sonni 1 ga ko'paytirsak, qanday son hosil bo'ladi?
++ Shu sonning o'zi
+- 1
+- 0
+- Shu sondan 1 ta ortiq son
+
+? Har qanday sonni 0 ga ko'paytirsak, natija nechaga teng bo'ladi?
++ 0
+- 1
+- Shu sonning o'zi
+- 10
+
+? Ko'paytuvchilarning o'rinlari almashtirilsa, ko'paytma qanday o'zgaradi?
++ O'zgarmaydi
+- 2 marta ortadi
+- Kamayadi
+- 0 ga teng bo'ladi
+= o'zgarmaydi
+
+? Taqsimot xossasi to'g'ri yozilgan qatorni toping.
++ (a + b) · c = a · c + b · c
+- (a + b) · c = a + b · c
+- (a + b) · c = a · b + c
+- (a + b) · c = a · c · b · c
+
+? Nol bilan tugaydigan sonni 10 ga ko'paytirganda nima qilinadi?
++ Sonning o'ng tomoniga bitta nol yoziladi
+- Sonning chap tomoniga nol yoziladi
+- Sondan bitta nol o'chiriladi
+- Son o'zgarmaydi
+
+? To'g'ri to'rtburchakning nechta burchagi to'g'ri burchak?
++ 4 ta
+- 2 ta
+- 3 ta
+- 1 ta
+= 4
+
+? To'g'ri to'rtburchakning qarama-qarshi tomonlari qanday bo'ladi?
++ Teng bo'ladi
+- Har xil bo'ladi
+- Biri ikkinchisidan 2 marta uzun
+- Perpendikular bo'ladi
+= teng
+
+? Barcha tomonlari teng bo'lgan to'g'ri to'rtburchak nima deyiladi?
++ Kvadrat
+- Uchburchak
+- Beshburchak
+- Doira
+= kvadrat
+
+? 1 soat necha minutga teng?
++ 60 minut
+- 100 minut
+- 30 minut
+- 24 minut
+= 60
+
+? 1 m necha santimetrga teng?
++ 100 cm
+- 10 cm
+- 1000 cm
+- 60 cm
+= 100
+
+? 1 dm necha santimetrga teng?
++ 10 cm
+- 100 cm
+- 1 cm
+- 1000 cm
+= 10
+
+? Eng katta uch xonali son qaysi?
++ 999
+- 900
+- 1000
+- 998
+
+? Eng kichik uch xonali son qaysi?
++ 100
+- 101
+- 99
+- 111
+
+? Hisoblang: 363 − 185
++ 178
+- 198
+- 176
+- 188
+
+? Ko'paytirish jadvalini eslang: 7 · 9 = ?
++ 63
+- 70
+- 54
+- 61
+
+? Hisoblang: 45 : 5
++ 9
+- 10
+- 5
+- 4
+
+? Hisoblang: 16 · 10
++ 160
+- 1600
+- 16
+- 158
+
+? Taqsimot xossasidan foydalanib hisoblang: (70 + 2) · 9
++ 648
+- 632
+- 643
+- 658
+
+? 8 ta yuzlik, 7 ta o'nlik va 1 ta birlikdan iborat sonni toping.
++ 871
+- 817
+- 873
+- 178
+
+? 6 m 69 cm necha santimetrga teng?
++ 669 cm
+- 129 cm
+- 6069 cm
+- 649 cm
+= 669
+
+? Hisoblang: 467 + 150
++ 617
+- 717
+- 618
+- 607
+
+? Ko'paytirish jadvalini eslang: 5 · 6 = ?
++ 30
+- 35
+- 24
+- 29
+
+? Hisoblang: 30 : 6
++ 5
+- 6
+- 7
+- 8
+
+? Hisoblang: 34 · 100
++ 3400
+- 34 000
+- 340
+- 4400
+
+? Taqsimot xossasidan foydalanib hisoblang: (60 + 5) · 5
++ 325
+- 305
+- 315
+- 323
+
+? 8 ta yuzlik, 4 ta o'nlik va 3 ta birlikdan iborat sonni toping.
++ 843
+- 834
+- 844
+- 848
+
+? 8 m 42 cm necha santimetrga teng?
++ 842 cm
+- 122 cm
+- 8042 cm
+- 837 cm
+= 842
+
+? Hisoblang: 692 − 228
++ 464
+- 474
+- 462
+- 469
+
+? Ko'paytirish jadvalini eslang: 3 · 3 = ?
++ 9
+- 12
+- 6
+- 8
+
+? Hisoblang: 21 : 3
++ 7
+- 8
+- 3
+- 17
+
+? Hisoblang: 47 · 10
++ 470
+- 4700
+- 47
+- 480
+
+? Taqsimot xossasidan foydalanib hisoblang: (20 + 3) · 3
++ 69
+- 63
+- 67
+- 66
+
+? 5 ta yuzlik, 5 ta o'nlik va 4 ta birlikdan iborat sonni toping.
++ 554
+- 545
+- 534
+- 556
+
+? 2 m 84 cm necha santimetrga teng?
++ 284 cm
+- 104 cm
+- 2084 cm
+- 286 cm
+= 284
+
+## Ko'p xonali sonlar: o'qilishi, yozilishi, taqqoslash
+
+? Ko'p xonali sonlar sinflarga ajratilganda har bir sinfda nechta raqam bo'ladi (o'ngdan boshlab)?
++ 3 ta
+- 2 ta
+- 4 ta
+- 10 ta
+= 3 | uchta
+
+? Ko'p xonali sonning eng kichik sinfi qanday ataladi?
++ Birlar sinfi
+- Minglar sinfi
+- Yuzlar sinfi
+- O'nlar sinfi
+= birlar
+
+? Birlar sinfidan keyingi sinf qanday ataladi?
++ Minglar sinfi
+- Yuzlar sinfi
+- Millionlar sinfi
+- O'n minglar sinfi
+= minglar
+
+? Sonni yozishda raqam egallagan o'rin nima deb ataladi?
++ Xona
+- Sinf
+- Qator
+- Ustun
+= xona
+
+? Raqamning qiymati uning sondagi o'rniga bog'liq bo'lgan sanoq sistemasi qanday ataladi?
++ Pozitsion sanoq sistemasi
+- Rim sanoq sistemasi
+- Ikkilik sanoq sistemasi
+- Qadimgi sanoq sistemasi
+= pozitsion
+
+? Sonlarni yozish uchun nechta raqamdan foydalanamiz?
++ 10 ta
+- 9 ta
+- 100 ta
+- 12 ta
+= 10 | o'nta
+
+? Biz ishlatadigan «arab raqamlari» qaysi mamlakatda kashf qilingan?
++ Hindistonda
+- Arabistonda
+- Xitoyda
+- Rimda
+= hindiston
+
+? Eng katta besh xonali son qaysi?
++ 99 999
+- 10 000
+- 90 000
+- 99 990
+= 99999
+
+? Eng kichik olti xonali son qaysi?
++ 100 000
+- 999 999
+- 111 111
+- 10 000
+= 100000
+
+? Eng kichik to'rt xonali son qaysi?
++ 1 000
+- 999
+- 1 111
+- 1 001
+= 1000
+
+? 99 999 sonidan keyin keladigan son qaysi?
++ 100 000
+- 99 998
+- 1 000 000
+- 999 999
+= 100000
+
+? Rim raqamlarida yozilgan XXV sonini arab raqamlarida yozing (I = 1, V = 5, X = 10, L = 50, C = 100).
++ 25
+- 24
+- 22
+- 52
+
+? Rim raqamlarida yozilgan LXXII sonini arab raqamlarida yozing (I = 1, V = 5, X = 10, L = 50, C = 100).
++ 72
+- 71
+- 74
+- 27
+
+? Rim raqamlarida yozilgan XII sonini arab raqamlarida yozing (I = 1, V = 5, X = 10, L = 50, C = 100).
++ 12
+- 11
+- 22
+- 10
+
+? Rim raqamlarida yozilgan XXXIII sonini arab raqamlarida yozing (I = 1, V = 5, X = 10, L = 50, C = 100).
++ 33
+- 31
+- 35
+- 34
+
+? Rim raqamlarida yozilgan LV sonini arab raqamlarida yozing (I = 1, V = 5, X = 10, L = 50, C = 100).
++ 55
+- 60
+- 65
+- 52
+
+? Rim raqamlarida yozilgan CL sonini arab raqamlarida yozing (I = 1, V = 5, X = 10, L = 50, C = 100).
++ 150
+- 153
+- 151
+- 152
+
+? 824 396 sonida 9 raqami qaysi xonada turibdi?
++ o'nlar xonasida
+- yuz minglar xonasida
+- o'n minglar xonasida
+- birlar xonasida
+= o'nlar
+
+? Sonlardan eng kichigini toping: 72 557, 72 666, 72 566, 72 567
++ 72 557
+- 72 666
+- 72 566
+- 72 567
+= 72557
+
+? 724 138 sonida 3 raqami qaysi xonada turibdi?
++ o'nlar xonasida
+- yuz minglar xonasida
+- minglar xonasida
+- birlar xonasida
+= o'nlar
+
+? 124 248 sonining minglar sinfida qaysi son turibdi?
++ 124
+- 248
+- 421
+- 12
+
+? 51 367 sonida nechta to'liq o'nlik bor?
++ 5136
+- 6
+- 513
+- 4136
+
+? 53 663 sonida nechta to'liq minglik bor?
++ 53
+- 3
+- 5
+- 54
+
+? 277 953 sonining birlar sinfida qaysi son turibdi?
++ 953
+- 277
+- 359
+- 779
+
+? 292 169 sonining minglar sinfida qaysi son turibdi?
++ 292
+- 169
+- 293
+- 29
+
+? Sonlardan eng kattasini toping: 30 362, 31 172, 31 262, 32 162
++ 32 162
+- 30 362
+- 31 172
+- 31 262
+= 32162
+
+? 224 965 sonining birlar sinfida qaysi son turibdi?
++ 965
+- 224
+- 569
+- 249
+
+? «olti yuz to'qson sakkiz ming yetti yuz yetti» sonini raqamlar bilan yozing.
++ 698 707
+- 698 770
+- 699 707
+- 698 709
+= 698707
+
+? Sonlardan eng kattasini toping: 84 724, 84 733, 84 732, 84 734
++ 84 734
+- 84 724
+- 84 733
+- 84 732
+= 84734
+
+? 489 937 soni qanday o'qiladi?
++ to'rt yuz sakson to'qqiz ming to'qqiz yuz o'ttiz yetti
+- to'rt yuz to'qson ming to'qqiz yuz o'ttiz yetti
+- to'rt yuz sakson to'qqiz ming to'qqiz yuz o'ttiz sakkiz
+- to'rt yuz sakson to'qqiz ming to'qqiz yuz qirq yetti
+
+? 24 318 sonida nechta to'liq minglik bor?
++ 24
+- 4
+- 2
+- 26
+
+? «besh yuz ikki ming to'qqiz yuz ellik ikki» sonini raqamlar bilan yozing.
++ 502 952
+- 502 925
+- 522 952
+- 502 950
+= 502952
+
+? Sonlardan eng kattasini toping: 34 869, 34 778, 34 669, 34 768
++ 34 869
+- 34 778
+- 34 669
+- 34 768
+= 34869
+
+? 33 987 sonida nechta to'liq yuzlik bor?
++ 339
+- 9
+- 33
+- 334
+
+? «olti yuz o'ttiz bir ming besh yuz qirq» sonini raqamlar bilan yozing.
++ 631 540
+- 631 504
+- 621 540
+- 631 640
+= 631540
+
+? «besh yuz to'qson to'rt ming to'rt yuz qirq» sonini raqamlar bilan yozing.
++ 594 440
+- 594 404
+- 593 440
+- 594 442
+= 594440
+
+? 438 813 sonining minglar sinfida qaysi son turibdi?
++ 438
+- 813
+- 834
+- 43
+
+? 828 403 sonining birlar sinfida qaysi son turibdi?
++ 403
+- 828
+- 304
+- 284
+
+? «to'qqiz yuz ming to'qqiz yuz sakson uch» sonini raqamlar bilan yozing.
++ 900 983
+- 900 938
+- 910 983
+- 900 981
+= 900983
+
+? Sonlardan eng kichigini toping: 40 979, 41 070, 40 179, 41 169
++ 40 179
+- 40 979
+- 41 070
+- 41 169
+= 40179
+
+## Ko'p xonali sonlarni qo'shish va ayirish
+
+? Ayirishning to'g'riligini qaysi amal yordamida tekshirish mumkin?
++ Qo'shish
+- Ko'paytirish
+- Bo'lish
+- Yana ayirish
+= qo'shish
+
+? Qo'shishda qo'shiluvchilarning o'rinlari almashtirilsa, yig'indi qanday bo'ladi?
++ O'zgarmaydi
+- Ortadi
+- Kamayadi
+- 2 marta ortadi
+= o'zgarmaydi
+
+? Ko'p xonali sonlarni ustun shaklida qo'shganda qaysi xonadan boshlanadi?
++ Birlar xonasidan
+- Eng katta xonadan
+- Minglar xonasidan
+- O'nlar xonasidan
+= birlar
+
+? Noma'lum qo'shiluvchini topish uchun nima qilinadi?
++ Yig'indidan ma'lum qo'shiluvchi ayiriladi
+- Yig'indiga qo'shiluvchi qo'shiladi
+- Qo'shiluvchilar ko'paytiriladi
+- Yig'indi 2 ga bo'linadi
+
+? Noma'lum kamayuvchini topish uchun nima qilinadi?
++ Ayirmaga ayriluvchi qo'shiladi
+- Ayirmadan ayriluvchi ayiriladi
+- Ayriluvchidan ayirma ayiriladi
+- Ayirma ayriluvchiga ko'paytiriladi
+
+? Noma'lum ayriluvchini topish uchun nima qilinadi?
++ Kamayuvchidan ayirma ayiriladi
+- Kamayuvchiga ayirma qo'shiladi
+- Ayirmaga kamayuvchi qo'shiladi
+- Kamayuvchi ayirmaga bo'linadi
+
+? Kitobda 46 690 ta so'z bor. Bekzod 4961 ta so'zni o'qidi. Yana nechta so'z o'qishi kerak?
++ 41 729 ta so'z
+- 41 629 ta so'z
+- 43 729 ta so'z
+- 40 729 ta so'z
+= 41729 | 41 729
+
+? Qaysi songa 4307 ni qo'shsak, 9432 hosil bo'ladi?
++ 5125
+- 5135
+- 5215
+- 5225
+
+? Kitobda 14 152 ta so'z bor. Ali 7762 ta so'zni o'qidi. Yana nechta so'z o'qishi kerak?
++ 6390 ta so'z
+- 6392 ta so'z
+- 6400 ta so'z
+- 6290 ta so'z
+= 6390
+
+? Qaysi songa 1951 ni qo'shsak, 5788 hosil bo'ladi?
++ 3837
+- 3937
+- 3827
+- 2837
+
+? Ifodaning qiymatini toping: 2412 + 2298 − 1383
++ 3327
+- 3227
+- 3329
+- 3325
+
+? Kitobda 15 535 ta so'z bor. Aziz 3549 ta so'zni o'qidi. Yana nechta so'z o'qishi kerak?
++ 11 986 ta so'z
+- 13 986 ta so'z
+- 11 985 ta so'z
+- 9986 ta so'z
+= 11986 | 11 986
+
+? Hisoblang: 30 000 − 18 932
++ 11 068
+- 12 068
+- 11 058
+- 86 011
+= 11068
+
+? Kutubxonada 9414 ta kitob bor edi. Yana 7725 ta kitob keltirildi. Kutubxonada nechta kitob bo'ldi?
++ 17 139 ta kitob
+- 17 239 ta kitob
+- 16 139 ta kitob
+- 17 149 ta kitob
+= 17139 | 17 139
+
+? Stadionda 8885 nafar qiz va 5920 nafar o'g'il bola bor edi. Stadionda jami necha nafar bola bor?
++ 14 805 nafar
+- 14 815 nafar
+- 14 807 nafar
+- 16 805 nafar
+= 14805 | 14 805
+
+? Hisoblang: 39 512 + 3650
++ 43 162
+- 42 162
+- 43 172
+- 44 162
+= 43162
+
+? 15 830 dan qaysi sonni ayirsak, 7399 hosil bo'ladi?
++ 8431
+- 7431
+- 8231
+- 8331
+
+? Fermer birinchi kuni 6405 kg, ikkinchi kuni 1893 kg paxta terdi. Ikki kunda jami necha kilogramm paxta terildi?
++ 8298 kg
+- 8198 kg
+- 8300 kg
+- 9298 kg
+= 8298
+
+? Kitobda 25 499 ta so'z bor. Ali 2957 ta so'zni o'qidi. Yana nechta so'z o'qishi kerak?
++ 22 542 ta so'z
+- 23 542 ta so'z
+- 24 542 ta so'z
+- 22 544 ta so'z
+= 22542 | 22 542
+
+? Qaysi songa 5249 ni qo'shsak, 8003 hosil bo'ladi?
++ 2754
+- 2854
+- 2759
+- 2764
+
+? Ifodaning qiymatini toping: 1895 + 4582 − 4586
++ 1891
+- 1893
+- 1892
+- 1890
+
+? Kutubxonada 5296 ta kitob bor edi. Yana 2512 ta kitob keltirildi. Kutubxonada nechta kitob bo'ldi?
++ 7808 ta kitob
+- 7908 ta kitob
+- 7806 ta kitob
+- 6808 ta kitob
+= 7808
+
+? Hisoblang: 32 596 + 16 341
++ 48 937
+- 47 937
+- 48 947
+- 50 937
+= 48937
+
+? Hisoblang: 50 000 − 32 070
++ 17 930
+- 18 930
+- 17 920
+- 15 930
+= 17930
+
+? Ifodaning qiymatini toping: 3174 + 1610 − 3194
++ 1590
+- 1690
+- 1585
+- 1390
+
+? Fermer birinchi kuni 12 083 kg, ikkinchi kuni 8409 kg paxta terdi. Ikki kunda jami necha kilogramm paxta terildi?
++ 20 492 kg
+- 29 402 kg
+- 21 492 kg
+- 20 494 kg
+= 20492 | 20 492
+
+? Fermer birinchi kuni 5721 kg, ikkinchi kuni 1240 kg paxta terdi. Ikki kunda jami necha kilogramm paxta terildi?
++ 6961 kg
+- 6951 kg
+- 1696 kg
+- 7961 kg
+= 6961
+
+? Hisoblang: 30 000 − 22 072
++ 7928
+- 8928
+- 7918
+- 7927
+
+? Shaharda 35 062 tup daraxt bor edi. Shundan 5638 tupi terak. Qolgan daraxtlar nechta?
++ 29 424 tup
+- 42 492 tup
+- 29 423 tup
+- 29 524 tup
+= 29424 | 29 424
+
+? Qaysi songa 6017 ni qo'shsak, 9256 hosil bo'ladi?
++ 3239
+- 4239
+- 3237
+- 3339
+
+? Fermer birinchi kuni 5551 kg, ikkinchi kuni 5217 kg paxta terdi. Ikki kunda jami necha kilogramm paxta terildi?
++ 10 768 kg
+- 8768 kg
+- 10 767 kg
+- 10 769 kg
+= 10768 | 10 768
+
+? Hisoblang: 50 000 − 41 014
++ 8986
+- 9986
+- 8976
+- 9186
+
+? Ifodaning qiymatini toping: 4435 + 4349 − 4606
++ 4178
+- 5178
+- 4168
+- 4176
+
+? Omborda 23 012 kg un bor edi. Undan 3181 kg un do'konlarga jo'natildi. Omborda necha kilogramm un qoldi?
++ 19 831 kg
+- 19 841 kg
+- 19 829 kg
+- 20 831 kg
+= 19831 | 19 831
+
+? Hisoblang: 36 396 − 15 042
++ 21 354
+- 22 354
+- 21 344
+- 21 352
+= 21354
+
+? Hisoblang: 30 973 − 16 675
++ 14 298
+- 15 298
+- 14 288
+- 14 198
+= 14298
+
+## Ko'p xonali sonlarni ko'paytirish
+
+? Sonni 100 ga ko'paytirish uchun nima qilinadi?
++ Sonning o'ng tomoniga ikkita nol yoziladi
+- Sonning o'ng tomoniga bitta nol yoziladi
+- Sonning o'ng tomoniga uchta nol yoziladi
+- Sonning chap tomoniga ikkita nol yoziladi
+
+? Sonni 1 000 ga ko'paytirish uchun nima qilinadi?
++ Sonning o'ng tomoniga uchta nol yoziladi
+- Sonning o'ng tomoniga ikkita nol yoziladi
+- Sonning o'ng tomoniga bitta nol yoziladi
+- Son 1 000 ga qo'shiladi
+
+? Ko'paytirishda qatnashuvchi sonlar qanday ataladi?
++ Ko'paytuvchilar
+- Qo'shiluvchilar
+- Bo'luvchilar
+- Ayriluvchilar
+= ko'paytuvchi
+
+? Ko'paytirish natijasi qanday ataladi?
++ Ko'paytma
+- Yig'indi
+- Bo'linma
+- Ayirma
+= ko'paytma
+
+? Narx, miqdor va qiymat orasidagi to'g'ri bog'lanishni toping.
++ Qiymat = narx · miqdor
+- Narx = qiymat · miqdor
+- Miqdor = narx · qiymat
+- Qiymat = narx + miqdor
+
+? 1 minut necha sekundga teng?
++ 60 sekund
+- 100 sekund
+- 30 sekund
+- 10 sekund
+= 60
+
+? O'rtasida nol bo'lgan sonni ko'paytiring: 3088 · 9
++ 27 792
+- 26 792
+- 27 782
+- 27 793
+= 27792
+
+? Hisoblang: 731 · 34
++ 24 854
+- 24 754
+- 23 854
+- 24 954
+= 24854
+
+? 5 soat necha minutga teng?
++ 300 minut
+- 500 minut
+- 310 minut
+- 302 minut
+= 300
+
+? Hisoblang: 94 · 43
++ 4042
+- 4041
+- 4043
+- 3842
+
+? Yaxlit sonlarni ko'paytiring: 800 · 60
++ 48 000
+- 480 000
+- 4800
+- 48 002
+= 48000
+
+? Hisoblang: 76 · 59
++ 4484
+- 5484
+- 4482
+- 4494
+
+? Hisoblang: 22 · 4
++ 88
+- 90
+- 93
+- 87
+
+? 3 soat necha minutga teng?
++ 180 minut
+- 300 minut
+- 177 minut
+- 190 minut
+= 180
+
+? Hisoblang: 72 · 5
++ 360
+- 365
+- 350
+- 359
+
+? Yaxlit sonlarni ko'paytiring: 200 · 900
++ 180 000
+- 1 800 000
+- 18 000
+- 179 990
+= 180000
+
+? 7 soat necha minutga teng?
++ 420 minut
+- 700 minut
+- 400 minut
+- 320 minut
+= 420
+
+? Hisoblang: 424 · 4
++ 1696
+- 6961
+- 1706
+- 1896
+
+? Hisoblang: 6664 · 6
++ 39 984
+- 39 986
+- 40 984
+- 48 993
+= 39984
+
+? Hisoblang: 322 · 9
++ 2898
+- 2798
+- 2899
+- 2893
+
+? Yaxlit sonlarni ko'paytiring: 900 · 20
++ 18 000
+- 180 000
+- 1800
+- 19 000
+= 18000
+
+? Hisoblang: 30 · 86
++ 2580
+- 2380
+- 2575
+- 2581
+
+? Hisoblang: 740 · 3
++ 2220
+- 2320
+- 2215
+- 2219
+
+? Hisoblang: 592 · 59
++ 34 928
+- 34 929
+- 34 918
+- 35 028
+= 34928
+
+? Hisoblang: 81 · 6
++ 486
+- 586
+- 684
+- 488
+
+? Yaxlit sonlarni ko'paytiring: 3000 · 300
++ 900 000
+- 9 000 000
+- 90 000
+- 880 000
+= 900000
+
+? Hisoblang: 45 · 5
++ 225
+- 224
+- 230
+- 215
+
+? Yaxlit sonlarni ko'paytiring: 500 · 70
++ 35 000
+- 350 000
+- 3500
+- 34 900
+= 35000
+
+? Hisoblang: 9917 · 6
++ 59 502
+- 58 502
+- 59 500
+- 20 595
+= 59502
+
+? Hisoblang: 1714 · 7
++ 11 998
+- 13 998
+- 11 988
+- 11 898
+= 11998
+
+? Hisoblang: 3243 · 3
++ 9729
+- 9629
+- 9279
+- 9929
+
+? Hisoblang: 83 · 100
++ 8300
+- 83 000
+- 830
+- 8302
+
+? Hisoblang: 92 · 40
++ 3680
+- 2680
+- 3690
+- 3679
+
+? Bitta qalam 6000 so'm turadi. 12 ta qalam necha so'm turadi?
++ 72 000 so'm
+- 72 100 so'm
+- 71 900 so'm
+- 74 000 so'm
+= 72000 | 72 000
+
+? Hisoblang: 636 · 7
++ 4452
+- 2544
+- 4453
+- 4450
+
+? Hisoblang: 9552 · 4
++ 38 208
+- 37 208
+- 38 210
+- 38 108
+= 38208
+
+? O'rtasida nol bo'lgan sonni ko'paytiring: 1009 · 9
++ 9081
+- 9281
+- 10 081
+- 9181
+
+? Hisoblang: 767 · 17
++ 13 039
+- 15 039
+- 13 049
+- 12 939
+= 13039
+
+## Bo'lish, qoldiqli bo'lish, bo'luvchilar va karralilar
+
+? Qoldiqli bo'lishda qoldiq bo'luvchiga nisbatan qanday bo'lishi kerak?
++ Bo'luvchidan kichik
+- Bo'luvchidan katta
+- Bo'luvchiga teng
+- Bo'linmaga teng
+
+? Bo'lishda bo'linadigan son qanday ataladi?
++ Bo'linuvchi
+- Bo'luvchi
+- Bo'linma
+- Ko'paytuvchi
+= bo'linuvchi
+
+? Bo'lish natijasi qanday ataladi?
++ Bo'linma
+- Bo'luvchi
+- Ko'paytma
+- Qoldiq
+= bo'linma
+
+? Nolni har qanday songa (noldan farqli) bo'lsak, nima hosil bo'ladi?
++ 0
+- 1
+- Shu son
+- Bo'lib bo'lmaydi
+
+? Har qanday sonni o'ziga bo'lsak (noldan farqli), nima hosil bo'ladi?
++ 1
+- 0
+- Shu son
+- 10
+
+? Har qanday sonni 1 ga bo'lsak, nima hosil bo'ladi?
++ Shu sonning o'zi
+- 1
+- 0
+- 10
+
+? Qoldiqli bo'lishni tekshirish formulasi qaysi?
++ Bo'linuvchi = bo'luvchi · bo'linma + qoldiq
+- Bo'linuvchi = bo'luvchi + bo'linma + qoldiq
+- Bo'linuvchi = bo'luvchi · qoldiq + bo'linma
+- Bo'linuvchi = bo'linma − qoldiq
+
+? Qaysi sonlar 2 ga bo'linadi?
++ Oxirgi raqami juft bo'lgan sonlar
+- Oxirgi raqami 5 bo'lgan sonlar
+- Barcha uch xonali sonlar
+- Oxirgi raqami toq bo'lgan sonlar
+
+? Har qanday sonning eng kichik bo'luvchisi qaysi?
++ 1
+- 0
+- 2
+- Shu sonning o'zi
+
+? Uch xonali songa burchakli bo'lishni bajaring: 1904 : 136
++ 14
+- 12
+- 24
+- 19
+
+? Uch xonali songa burchakli bo'lishni bajaring: 4212 : 234
++ 18
+- 81
+- 20
+- 16
+
+? 75 kg olma 3 ta yashikka teng solindi. Har bir yashikda necha kilogramm olma bor?
++ 25 kg
+- 26 kg
+- 35 kg
+- 28 kg
+= 25
+
+? Yig'indini songa bo'ling: (45 + 40) : 5
++ 17
+- 22
+- 7
+- 20
+
+? 162 kg olma 9 ta yashikka teng solindi. Har bir yashikda necha kilogramm olma bor?
++ 18 kg
+- 16 kg
+- 20 kg
+- 8 kg
+= 18
+
+? 72 ta qalam 8 ta qutiga teng joylandi. Har bir qutida nechta qalam bor?
++ 9 ta
+- 4 ta
+- 10 ta
+- 8 ta
+= 9
+
+? 28 sonining barcha bo'luvchilarini ko'rsating.
++ 1, 2, 4, 7, 14, 28
+- 1, 2, 4, 7, 14
+- 1, 2, 4, 6, 7, 14, 28
+- 2, 4, 7, 14
+
+? Uch xonali songa burchakli bo'lishni bajaring: 6049 : 263
++ 23
+- 25
+- 32
+- 24
+
+? Qoldiqli bo'lishni bajaring: 41 : 4
++ 10 (qoldiq 1)
+- 10 (qoldiq 4)
+- 9 (qoldiq 5)
+- 10 (qoldiq 2)
+= 10 qoldiq 1 | 10, qoldiq 1 | 10 (1)
+
+? Qaysi son 3 ga karrali?
++ 27
+- 28
+- 29
+- 26
+
+? O'rtasida nol bor sonni bo'ling: 20 450 : 5
++ 4090
+- 3090
+- 4099
+- 5090
+
+? Hisoblang: 75 : 25
++ 3
+- 0
+- 1
+- 5
+
+? Uch xonali songa burchakli bo'lishni bajaring: 2472 : 206
++ 12
+- 9
+- 10
+- 11
+
+? Hisoblang: 204 : 34
++ 6
+- 7
+- 5
+- 9
+
+? Uch xonali songa burchakli bo'lishni bajaring: 2608 : 326
++ 8
+- 13
+- 11
+- 6
+
+? Hisoblang: 245 : 35
++ 7
+- 6
+- 4
+- 17
+
+? O'rtasida nol bor sonni bo'ling: 909 : 3
++ 303
+- 313
+- 305
+- 283
+
+? Yig'indini songa bo'ling: (54 + 66) : 6
++ 20
+- 19
+- 30
+- 22
+
+? Qaysi son 6 ga karrali?
++ 24
+- 25
+- 26
+- 23
+
+? Qoldiqli bo'lishni bajaring: 52 : 7
++ 7 (qoldiq 3)
+- 8 (qoldiq 3)
+- 7 (qoldiq 7)
+- 7 (qoldiq 4)
+= 7 qoldiq 3 | 7, qoldiq 3 | 7 (3)
+
+? Hisoblang: 96 : 12
++ 8
+- 6
+- 7
+- 18
+
+? 36 sonining barcha bo'luvchilarini ko'rsating.
++ 1, 2, 3, 4, 6, 9, 12, 18, 36
+- 1, 2, 3, 4, 6, 9, 12, 18
+- 1, 2, 3, 4, 5, 6, 9, 12, 18, 36
+- 2, 3, 4, 6, 9, 12, 18
+
+? 16 sonining barcha bo'luvchilarini ko'rsating.
++ 1, 2, 4, 8, 16
+- 1, 2, 4, 8
+- 1, 2, 4, 6, 8, 16
+- 2, 4, 8
+
+? Qoldiqli bo'lishni bajaring: 27 : 4
++ 6 (qoldiq 3)
+- 6 (qoldiq 4)
+- 7 (qoldiq 3)
+- 5 (qoldiq 7)
+= 6 qoldiq 3 | 6, qoldiq 3 | 6 (3)
+
+? Burchakli bo'lishni bajaring: 1393 : 7
++ 199
+- 209
+- 189
+- 991
+
+? Ikki xonali songa burchakli bo'lishni bajaring: 5159 : 77
++ 67
+- 68
+- 72
+- 77
+
+? O'rtasida nol bor sonni bo'ling: 5628 : 7
++ 804
+- 904
+- 824
+- 805
+
+? Burchakli bo'lishni bajaring: 648 : 8
++ 81
+- 76
+- 82
+- 18
+
+? 30 sonining barcha bo'luvchilarini ko'rsating.
++ 1, 2, 3, 5, 6, 10, 15, 30
+- 1, 2, 3, 5, 6, 10, 15
+- 1, 2, 3, 5, 6, 10, 15, 29, 30
+- 2, 3, 5, 6, 10, 15
+
+? Burchakli bo'lishni bajaring: 5924 : 4
++ 1481
+- 1483
+- 1479
+- 1581
+
+? Hisoblang: 36 : 12
++ 3
+- 8
+- 5
+- 4
+
+? O'rtasida nol bor sonni bo'ling: 28 120 : 4
++ 7030
+- 7028
+- 7032
+- 7029
+
+? Burchakli bo'lishni bajaring: 2265 : 5
++ 453
+- 448
+- 443
+- 463
+
+## Perimetr, yuz va hajm
+
+? Shakl perimetri nima?
++ Shakl barcha tomonlari uzunliklarining yig'indisi
+- Shaklning ichidagi joy
+- Eng uzun tomonining uzunligi
+- Tomonlarining ko'paytmasi
+
+? To'g'ri to'rtburchakning perimetri qanday topiladi?
++ P = (a + b) · 2
+- P = a · b
+- P = a + b
+- P = a · 4
+
+? To'g'ri to'rtburchakning yuzi qanday topiladi?
++ S = a · b
+- S = (a + b) · 2
+- S = a + b
+- S = a · 4
+
+? Kvadratning perimetri qanday topiladi?
++ P = a · 4
+- P = a · a
+- P = a + 4
+- P = a · 2
+
+? Kvadratning yuzi qanday topiladi?
++ S = a · a
+- S = a · 4
+- S = a + a
+- S = a · 2
+
+? Barcha tomonlari teng bo'lgan ko'pburchak qanday ataladi?
++ Muntazam ko'pburchak
+- To'g'ri to'rtburchak
+- Nostandart shakl
+- Kuboid
+= muntazam
+
+? Kuboidning (to'g'ri burchakli parallelepipedning) hajmi qanday topiladi?
++ V = a · b · c
+- V = a + b + c
+- V = (a + b) · 2
+- V = a · b
+
+? Yuz o'lchov birligi sifatida ko'pincha qanday shakl olinadi?
++ Tomoni 1 birlik bo'lgan kvadrat
+- Tomoni 1 birlik bo'lgan uchburchak
+- Radiusi 1 bo'lgan doira
+- Qirrasi 1 bo'lgan kub
+
+? Hajm o'lchov birligi sifatida qanday shakl olinadi?
++ Qirrasi 1 birlik bo'lgan kub
+- Tomoni 1 birlik bo'lgan kvadrat
+- Uzunligi 1 birlik bo'lgan kesma
+- Radiusi 1 bo'lgan doira
+
+? Muntazam beshburchakning tomoni 9 cm. Uning perimetrini toping.
++ 45 cm
+- 42 cm
+- 40 cm
+- 44 cm
+= 45
+
+? Kvadratning perimetri 56 cm. Uning tomoni necha santimetr?
++ 14 cm
+- 19 cm
+- 4 cm
+- 12 cm
+= 14
+
+? Kvadratning tomoni 15 cm. Uning yuzini toping.
++ 225 cm²
+- 60 cm²
+- 30 cm²
+- 215 cm²
+= 225
+
+? To'g'ri to'rtburchakning perimetri 52 cm, bo'yi 14 cm. Enini toping.
++ 12 cm
+- 11 cm
+- 13 cm
+- 10 cm
+= 12
+
+? Kvadratning perimetri 100 cm. Uning tomoni necha santimetr?
++ 25 cm
+- 24 cm
+- 15 cm
+- 26 cm
+= 25
+
+? To'g'ri to'rtburchakning bo'yi 19 cm, eni 20 cm. Uning yuzini toping.
++ 380 cm²
+- 78 cm²
+- 390 cm²
+- 480 cm²
+= 380
+
+? Kuboidning bo'yi 8 cm, eni 6 cm, balandligi 5 cm. Uning hajmini toping.
++ 240 cm³
+- 19 cm³
+- 76 cm³
+- 243 cm³
+= 240
+
+? To'g'ri to'rtburchakning perimetri 40 cm, bo'yi 8 cm. Enini toping.
++ 12 cm
+- 10 cm
+- 14 cm
+- 15 cm
+= 12
+
+? Kvadratning perimetri 84 cm. Uning tomoni necha santimetr?
++ 21 cm
+- 20 cm
+- 23 cm
+- 18 cm
+= 21
+
+? Kvadratning perimetri 92 cm. Uning tomoni necha santimetr?
++ 23 cm
+- 22 cm
+- 21 cm
+- 20 cm
+= 23
+
+? Kvadratning perimetri 60 cm. Uning tomoni necha santimetr?
++ 15 cm
+- 10 cm
+- 12 cm
+- 13 cm
+= 15
+
+? Kvadratning tomoni 4 cm. Uning yuzini toping.
++ 16 cm²
+- 8 cm²
+- 21 cm²
+- 26 cm²
+= 16
+
+? Muntazam uchburchakning tomoni 13 cm. Uning perimetrini toping.
++ 39 cm
+- 49 cm
+- 40 cm
+- 36 cm
+= 39
+
+? Kubning qirrasi 8 cm. Uning hajmini toping.
++ 512 cm³
+- 64 cm³
+- 96 cm³
+- 513 cm³
+= 512
+
+? To'g'ri to'rtburchakning bo'yi 7 cm, eni 16 cm. Uning yuzini toping.
++ 112 cm²
+- 46 cm²
+- 115 cm²
+- 122 cm²
+= 112
+
+? Muntazam oltiburchakning tomoni 10 cm. Uning perimetrini toping.
++ 60 cm
+- 58 cm
+- 55 cm
+- 61 cm
+= 60
+
+? To'g'ri to'rtburchakning perimetri 12 cm, bo'yi 4 cm. Enini toping.
++ 2 cm
+- 0 cm
+- 12 cm
+- 1 cm
+= 2
+
+? Uzunligi 12 cm bo'lgan kesma 4 ta teng bo'lakka bo'lindi. Har bir bo'lakning uzunligi necha santimetr?
++ 3 cm
+- 4 cm
+- 5 cm
+- 2 cm
+= 3
+
+? Kvadratning tomoni 5 cm. Uning yuzini toping.
++ 25 cm²
+- 20 cm²
+- 10 cm²
+- 52 cm²
+= 25
+
+? To'g'ri to'rtburchakning perimetri 30 cm, bo'yi 4 cm. Enini toping.
++ 11 cm
+- 10 cm
+- 8 cm
+- 13 cm
+= 11
+
+? Kuboidning bo'yi 4 cm, eni 3 cm, balandligi 8 cm. Uning hajmini toping.
++ 96 cm³
+- 15 cm³
+- 60 cm³
+- 97 cm³
+= 96
+
+? Uzunligi 48 cm bo'lgan kesma 6 ta teng bo'lakka bo'lindi. Har bir bo'lakning uzunligi necha santimetr?
++ 8 cm
+- 7 cm
+- 10 cm
+- 18 cm
+= 8
+
+? Kvadratning tomoni 13 cm. Uning perimetrini toping.
++ 52 cm
+- 169 cm
+- 26 cm
+- 53 cm
+= 52
+
+? Kvadratning perimetri 52 cm. Uning tomoni necha santimetr?
++ 13 cm
+- 18 cm
+- 3 cm
+- 23 cm
+= 13
+
+? Uzunligi 12 cm bo'lgan kesma 3 ta teng bo'lakka bo'lindi. Har bir bo'lakning uzunligi necha santimetr?
++ 4 cm
+- 2 cm
+- 14 cm
+- 6 cm
+= 4
+
+? Kubning qirrasi 2 cm. Uning hajmini toping.
++ 8 cm³
+- 4 cm³
+- 24 cm³
+- 7 cm³
+= 8
+
+? To'g'ri to'rtburchakning bo'yi 8 cm, eni 16 cm. Uning yuzini toping.
++ 128 cm²
+- 48 cm²
+- 148 cm²
+- 131 cm²
+= 128
+
+? Kubning qirrasi 3 cm. Uning hajmini toping.
++ 27 cm³
+- 9 cm³
+- 36 cm³
+- 28 cm³
+= 27
+
+? Muntazam oltiburchakning tomoni 11 cm. Uning perimetrini toping.
++ 66 cm
+- 67 cm
+- 61 cm
+- 64 cm
+= 66
+
+## O'lchov birliklari: massa, uzunlik, yuz, hajm, vaqt
+
+? 1 t (tonna) necha kilogrammga teng?
++ 1 000 kg
+- 100 kg
+- 10 000 kg
+- 10 kg
+= 1000
+
+? 1 q (sentner) necha kilogrammga teng?
++ 100 kg
+- 1 000 kg
+- 10 kg
+- 50 kg
+= 100
+
+? 1 t necha sentnerga teng?
++ 10 q
+- 100 q
+- 1 000 q
+- 1 q
+= 10
+
+? 1 kg necha grammga teng?
++ 1 000 g
+- 100 g
+- 10 g
+- 10 000 g
+= 1000
+
+? 1 km necha metrga teng?
++ 1 000 m
+- 100 m
+- 10 000 m
+- 10 m
+= 1000
+
+? 1 cm necha millimetrga teng?
++ 10 mm
+- 100 mm
+- 1 mm
+- 1 000 mm
+= 10
+
+? 1 m necha millimetrga teng?
++ 1 000 mm
+- 100 mm
+- 10 mm
+- 10 000 mm
+= 1000
+
+? 1 m necha detsimetrga teng?
++ 10 dm
+- 100 dm
+- 1 000 dm
+- 1 dm
+= 10
+
+? 1 cm² necha mm² ga teng?
++ 100 mm²
+- 10 mm²
+- 1 000 mm²
+- 1 mm²
+= 100
+
+? 1 dm² necha cm² ga teng?
++ 100 cm²
+- 10 cm²
+- 1 000 cm²
+- 10 000 cm²
+= 100
+
+? 1 m² necha dm² ga teng?
++ 100 dm²
+- 10 dm²
+- 1 000 dm²
+- 10 000 dm²
+= 100
+
+? 1 m² necha cm² ga teng?
++ 10 000 cm²
+- 100 cm²
+- 1 000 cm²
+- 100 000 cm²
+= 10000
+
+? 1 a (ar) necha kvadrat metrga teng?
++ 100 m²
+- 10 m²
+- 1 000 m²
+- 10 000 m²
+= 100
+
+? 1 ha (gektar) necha kvadrat metrga teng?
++ 10 000 m²
+- 1 000 m²
+- 100 m²
+- 100 000 m²
+= 10000
+
+? 1 ha necha arga teng?
++ 100 a
+- 10 a
+- 1 000 a
+- 10 000 a
+= 100
+
+? 1 dm³ necha cm³ ga teng?
++ 1 000 cm³
+- 100 cm³
+- 10 cm³
+- 10 000 cm³
+= 1000
+
+? 1 cm³ necha mm³ ga teng?
++ 1 000 mm³
+- 100 mm³
+- 10 mm³
+- 10 000 mm³
+= 1000
+
+? 1 m³ necha dm³ ga teng?
++ 1 000 dm³
+- 100 dm³
+- 10 dm³
+- 10 000 dm³
+= 1000
+
+? 1 sutka necha soatga teng?
++ 24 soat
+- 12 soat
+- 60 soat
+- 100 soat
+= 24
+
+? 1 haftada necha kun bor?
++ 7 kun
+- 5 kun
+- 10 kun
+- 30 kun
+= 7
+
+? 1 yilda necha oy bor?
++ 12 oy
+- 10 oy
+- 24 oy
+- 52 oy
+= 12
+
+? Og'ir yuklarning (masalan, yuk mashinasidagi yukning) massasi qaysi birlikda o'lchanadi?
++ Tonnada
+- Grammda
+- Santimetrda
+- Litrda
+= tonna
+
+? Katta maydonlar (dalalar) qaysi birliklarda o'lchanadi?
++ Ar va gektarlarda
+- Santimetrlarda
+- Kilogrammlarda
+- Minutlarda
+
+? 9 km 317 m necha metrga teng?
++ 9317 m
+- 1217 m
+- 9315 m
+- 9319 m
+= 9317
+
+? 6 t 7 kg necha kilogrammga teng?
++ 6007 kg
+- 607 kg
+- 60 007 kg
+- 6006 kg
+= 6007
+
+? 15 cm³ necha mm³ ga teng?
++ 15 000 mm³
+- 1500 mm³
+- 150 mm³
+- 14 998 mm³
+= 15000 | 15 000
+
+? 15 ha necha a ga teng?
++ 1500 a
+- 150 a
+- 15 000 a
+- 1490 a
+= 1500
+
+? 21 m³ necha dm³ ga teng?
++ 21 000 dm³
+- 2100 dm³
+- 210 dm³
+- 22 000 dm³
+= 21000 | 21 000
+
+? 4 kg 812 g necha grammga teng?
++ 4812 g
+- 1212 g
+- 4822 g
+- 3812 g
+= 4812
+
+? 5 t 604 kg necha kilogrammga teng?
++ 5604 kg
+- 1104 kg
+- 50 604 kg
+- 5603 kg
+= 5604
+
+? 6 t 452 kg necha kilogrammga teng?
++ 6452 kg
+- 1052 kg
+- 60 452 kg
+- 2546 kg
+= 6452
+
+? Mashg'ulot soat 14:00 da boshlanib, 90 minut davom etdi. U soat nechada tugadi?
++ 15:30
+- 15:40
+- 16:30
+- 15:20
+
+? 15 m³ necha dm³ ga teng?
++ 15 000 dm³
+- 1500 dm³
+- 150 dm³
+- 15 010 dm³
+= 15000 | 15 000
+
+? 6 min 28 s necha sekundga teng?
++ 388 s
+- 628 s
+- 88 s
+- 390 s
+= 388
+
+? 6 min 27 s necha sekundga teng?
++ 387 s
+- 627 s
+- 87 s
+- 287 s
+= 387
+
+? 28 dm³ necha cm³ ga teng?
++ 28 000 cm³
+- 2800 cm³
+- 280 cm³
+- 27 000 cm³
+= 28000 | 28 000
+
+? 24 ha necha a ga teng?
++ 2400 a
+- 240 a
+- 24 000 a
+- 2300 a
+= 2400
+
+? 8 t 692 kg necha kilogrammga teng?
++ 8692 kg
+- 1492 kg
+- 80 692 kg
+- 8691 kg
+= 8692
+
+? 3 q (sentner) necha kilogrammga teng?
++ 300 kg
+- 3000 kg
+- 30 kg
+- 297 kg
+= 300
+
+? 7 km 413 m necha metrga teng?
++ 7413 m
+- 1113 m
+- 7411 m
+- 7423 m
+= 7413
+
+? Mashg'ulot soat 8:20 da boshlanib, 25 minut davom etdi. U soat nechada tugadi?
++ 8:45
+- 9:15
+- 9:45
+- 8:40
+
+? 2 km 502 m necha metrga teng?
++ 2502 m
+- 702 m
+- 2512 m
+- 2402 m
+= 2502
+
+? Mashg'ulot soat 13:15 da boshlanib, 35 minut davom etdi. U soat nechada tugadi?
++ 13:50
+- 14:50
+- 14:00
+- 13:40
+
+? 6 t 648 kg necha kilogrammga teng?
++ 6648 kg
+- 1248 kg
+- 60 648 kg
+- 6658 kg
+= 6648
+
+## Fazoviy shakllar, aylana, doira va ulushlar
+
+? Kubning nechta yog'i bor?
++ 6 ta
+- 4 ta
+- 8 ta
+- 12 ta
+= 6
+
+? Kubning nechta qirrasi bor?
++ 12 ta
+- 6 ta
+- 8 ta
+- 10 ta
+= 12
+
+? Kubning nechta uchi bor?
++ 8 ta
+- 6 ta
+- 12 ta
+- 4 ta
+= 8
+
+? To'g'ri burchakli parallelepipedning nechta yog'i bor?
++ 6 ta
+- 4 ta
+- 8 ta
+- 12 ta
+= 6
+
+? To'g'ri burchakli parallelepipedning nechta qirrasi bor?
++ 12 ta
+- 6 ta
+- 8 ta
+- 4 ta
+= 12
+
+? Kubning barcha yoqlari qanday shaklda bo'ladi?
++ Kvadrat
+- Uchburchak
+- Doira
+- Beshburchak
+= kvadrat
+
+? Kubning yoyilmasi nechta kvadratdan iborat?
++ 6 ta
+- 4 ta
+- 8 ta
+- 12 ta
+= 6
+
+? Aylana markazini aylanadagi istalgan nuqta bilan tutashtiruvchi kesma nima deyiladi?
++ Radius
+- Diametr
+- Vatar
+- Perimetr
+= radius
+
+? Aylananing markazidan o'tib, aylananing ikki nuqtasini tutashtiruvchi kesma nima deyiladi?
++ Diametr
+- Radius
+- Nur
+- Tomon
+= diametr
+
+? Diametr radiusdan necha marta uzun?
++ 2 marta
+- 3 marta
+- 4 marta
+- Teng
+= 2
+
+? Aylana chizish uchun qaysi asbobdan foydalaniladi?
++ Sirkul
+- Transportir
+- Chizg'ich
+- Tarozi
+= sirkul
+
+? Aylana va uning ichidagi nuqtalar birgalikda qanday shaklni hosil qiladi?
++ Doira
+- Aylana
+- Kvadrat
+- Shar
+= doira
+
+? Doira 4 ta teng bo'lakka bo'lindi. Har bir bo'lak doiraning qanday ulushi?
++ 1/4
+- 1/2
+- 1/3
+- 1/8
+= chorak
+
+? Soat siferblatining yarmi necha minutni ko'rsatadi?
++ 30 minut
+- 15 minut
+- 60 minut
+- 45 minut
+= 30
+
+? Soatning chorak qismi (1/4 soat) necha minut?
++ 15 minut
+- 25 minut
+- 30 minut
+- 45 minut
+= 15
+
+? 3/4 soat necha minut?
++ 45 minut
+- 30 minut
+- 34 minut
+- 40 minut
+= 45
+
+? Sonning ulushini (masalan, 1/5 qismini) topish uchun nima qilinadi?
++ Sonni 5 ga bo'lish kerak
+- Sonni 5 ga ko'paytirish kerak
+- Songa 5 ni qo'shish kerak
+- Sondan 5 ni ayirish kerak
+
+? Aylananing radiusi 2 cm. Uning diametri necha santimetr?
++ 4 cm
+- 1 cm
+- 8 cm
+- 3 cm
+= 4
+
+? Aylananing diametri 12 cm. Uning radiusi necha santimetr?
++ 6 cm
+- 24 cm
+- 7 cm
+- 4 cm
+= 6
+
+? 90 ning 7/9 qismini toping.
++ 70
+- 10
+- 80
+- 68
+
+? 48 ning 2/6 qismini toping.
++ 16
+- 8
+- 18
+- 19
+
+? Aylananing diametri 16 cm. Uning radiusi necha santimetr?
++ 8 cm
+- 32 cm
+- 7 cm
+- 9 cm
+= 8
+
+? To'g'ri burchakli parallelepipedning o'lchamlari 10 cm, 8 cm va 9 cm. Barcha qirralari uzunliklari yig'indisini toping.
++ 108 cm
+- 27 cm
+- 54 cm
+- 88 cm
+= 108
+
+? 90 ning 1/9 qismini toping.
++ 10
+- 810
+- 11
+- 5
+
+? To'g'ri burchakli parallelepipedning o'lchamlari 10 cm, 6 cm va 7 cm. Barcha qirralari uzunliklari yig'indisini toping.
++ 92 cm
+- 23 cm
+- 46 cm
+- 97 cm
+= 92
+
+? To'g'ri burchakli parallelepipedning o'lchamlari 5 cm, 11 cm va 2 cm. Barcha qirralari uzunliklari yig'indisini toping.
++ 72 cm
+- 18 cm
+- 36 cm
+- 73 cm
+= 72
+
+? Kubning qirrasi 5 cm. Uning barcha qirralari uzunliklari yig'indisini toping.
++ 60 cm
+- 30 cm
+- 40 cm
+- 61 cm
+= 60
+
+? 63 ning 1/7 qismini toping.
++ 9
+- 441
+- 6
+- 10
+
+? Kubning qirrasi 2 cm. Uning barcha qirralari uzunliklari yig'indisini toping.
++ 24 cm
+- 12 cm
+- 16 cm
+- 22 cm
+= 24
+
+? 27 ning 2/3 qismini toping.
++ 18
+- 9
+- 28
+- 15
+
+? Aylananing radiusi 18 cm. Uning diametri necha santimetr?
++ 36 cm
+- 9 cm
+- 72 cm
+- 34 cm
+= 36
+
+? 45 ning 4/5 qismini toping.
++ 36
+- 9
+- 37
+- 39
+
+? 24 ning 1/8 qismini toping.
++ 3
+- 192
+- 0
+- 5
+
+? Aylananing radiusi 3 cm. Uning diametri necha santimetr?
++ 6 cm
+- 5 cm
+- 12 cm
+- 16 cm
+= 6
+
+? 32 ning 2/4 qismini toping.
++ 16
+- 8
+- 11
+- 18
+
+? 16 ning 2/4 qismini toping.
++ 8
+- 4
+- 9
+- 11
+
+? 35 ning 1/7 qismini toping.
++ 5
+- 245
+- 0
+- 3
+
+? Aylananing diametri 10 cm. Uning radiusi necha santimetr?
++ 5 cm
+- 20 cm
+- 6 cm
+- 3 cm
+= 5
+
+## Koordinata nuri, tenglamalar, tengsizliklar va simmetriya
+
+? Kesishmaydigan va doim bir xil masofada joylashgan to'g'ri chiziqlar qanday ataladi?
++ Parallel to'g'ri chiziqlar
+- Perpendikular to'g'ri chiziqlar
+- Kesishuvchi nurlar
+- Simmetrik chiziqlar
+= parallel
+
+? To'g'ri burchak ostida kesishadigan to'g'ri chiziqlar qanday ataladi?
++ Perpendikular to'g'ri chiziqlar
+- Parallel to'g'ri chiziqlar
+- Koordinata nurlari
+- Teng kesmalar
+= perpendikular
+
+? Boshlang'ich nuqtasi O, birlik kesmasi va yo'nalishi belgilangan nur qanday ataladi?
++ Koordinata nuri
+- Kesma
+- Aylana
+- Koordinata burchagi
+= koordinata nuri
+
+? Koordinata nurining boshlang'ich nuqtasi O qaysi songa mos keladi?
++ 0
+- 1
+- 10
+- 100
+
+? Koordinata nurida o'ngda joylashgan son chapdagi songa nisbatan qanday bo'ladi?
++ Katta
+- Kichik
+- Teng
+- Ikki marta kichik
+= katta
+
+? A (3; 5) nuqtaning birinchi koordinatasi qaysi?
++ 3
+- 5
+- 8
+- 2
+
+? B (7; 2) nuqtaning ikkinchi koordinatasi qaysi?
++ 2
+- 7
+- 9
+- 5
+
+? Noma'lum son qatnashgan tenglik nima deyiladi?
++ Tenglama
+- Tengsizlik
+- Ifoda
+- Mulohaza
+= tenglama
+
+? Tenglamaning ildizi (yechimi) nima?
++ Tenglamani to'g'ri tenglikka aylantiruvchi son
+- Tenglamadagi eng katta son
+- Tenglamadagi birinchi son
+- Tenglama natijasidagi nol
+
+? Simmetriya o'qi shaklni qanday qismlarga ajratadi?
++ Ustma-ust tushadigan ikki teng qismga
+- Ikki xil qismga
+- Uchta teng qismga
+- To'rtta teng qismga
+
+? Kvadratning nechta simmetriya o'qi bor?
++ 4 ta
+- 2 ta
+- 1 ta
+- 8 ta
+= 4
+
+? Kvadrat bo'lmagan to'g'ri to'rtburchakning nechta simmetriya o'qi bor?
++ 2 ta
+- 4 ta
+- 1 ta
+- 3 ta
+= 2
+
+? Teng tomonli uchburchakning nechta simmetriya o'qi bor?
++ 3 ta
+- 1 ta
+- 2 ta
+- 6 ta
+= 3
+
+? Qaysi harf vertikal simmetriya o'qiga ega?
++ A
+- F
+- G
+- L
+
+? Qaysi harf simmetriya o'qiga ega emas?
++ F
+- H
+- O
+- X
+
+? Tenglamani yeching: x + 165 = 573
++ 408
+- 406
+- 804
+- 388
+
+? Tarkibli tenglamani yeching: 3 · x + 16 = 28
++ 4
+- 14
+- 5
+- 3
+
+? Tenglamani yeching: x + 492 = 888
++ 396
+- 376
+- 386
+- 397
+
+? Tarkibli tenglamani yeching: 5 · x + 10 = 30
++ 4
+- 2
+- 3
+- 6
+
+? Tenglamani soddalashtirib yeching: 7 · x + 6 · x = 143
++ 11
+- 9
+- 6
+- 10
+
+? Tenglamani yeching: x : 9 = 23
++ 207
+- 702
+- 197
+- 227
+
+? Tenglamani yeching: x : 5 = 4
++ 20
+- 18
+- 22
+- 10
+
+? Koordinata nurida A(2) va B(34) nuqtalar orasidagi masofa necha birlik kesmaga teng?
++ 32
+- 36
+- 23
+- 35
+
+? Tenglamani soddalashtirib yeching: 6 · x + 7 · x = 143
++ 11
+- 21
+- 1
+- 13
+
+? Tenglamani soddalashtirib yeching: 2 · x + 2 · x = 28
++ 7
+- 8
+- 12
+- 9
+
+? Tenglamani yeching: x + 121 = 967
++ 846
+- 841
+- 856
+- 847
+
+? Koordinata nurida A(1) va B(2) nuqtalar orasidagi masofa necha birlik kesmaga teng?
++ 1
+- 3
+- 4
+- 0
+
+? Tenglamani yeching: x − 347 = 4
++ 351
+- 349
+- 341
+- 331
+
+? Tarkibli tenglamani yeching: 9 · x + 19 = 82
++ 7
+- 5
+- 6
+- 9
+
+? Tarkibli tenglamani yeching: 3 · x + 28 = 64
++ 12
+- 13
+- 9
+- 11
+
+? Tenglamani yeching: x + 74 = 108
++ 34
+- 43
+- 33
+- 39
+
+? Tenglamani yeching: 66 : x = 6
++ 11
+- 9
+- 1
+- 6
+
+? Tenglamani yeching: x : 4 = 23
++ 92
+- 89
+- 87
+- 29
+
+? Qaysi son x > 55 tengsizlikning yechimi bo'ladi?
++ 63
+- 55
+- 52
+- 46
+
+? x < 3 tengsizlikni qanoatlantiradigan barcha sonlarni (0 dan boshlab) toping.
++ 0, 1, 2
+- 1, 2
+- 0, 1, 2, 3
+- 1, 2, 3
+
+? Tenglamani yeching: 16 : x = 8
++ 2
+- 3
+- 5
+- 0
+
+? Tenglamani yeching: x + 83 = 540
++ 457
+- 467
+- 447
+- 456
+
+? Tenglamani yeching: 49 : x = 7
++ 7
+- 17
+- 2
+- 9
+
+? Tenglamani yeching: x : 7 = 20
++ 140
+- 120
+- 138
+- 149
+
+? Tenglamani soddalashtirib yeching: 2 · x + 5 · x = 35
++ 5
+- 3
+- 0
+- 8
+
+## Harakat, qiymat va unumdorlikka doir masalalar
+
+? Tezlik nima?
++ Vaqt birligida bosib o'tilgan yo'l
+- Bosib o'tilgan butun yo'l
+- Yo'lga sarflangan vaqt
+- Yo'l va vaqtning yig'indisi
+
+? Tezlik qaysi harf bilan belgilanadi?
++ v
+- s
+- t
+- w
+
+? Bosib o'tilgan yo'l (masofa) qaysi harf bilan belgilanadi?
++ s
+- v
+- t
+- w
+
+? Masofani topish uchun nima qilish kerak?
++ Tezlikni vaqtga ko'paytirish
+- Tezlikni vaqtga bo'lish
+- Vaqtni tezlikka bo'lish
+- Tezlikka vaqtni qo'shish
+
+? Tezlikni topish uchun nima qilish kerak?
++ Masofani vaqtga bo'lish
+- Masofani vaqtga ko'paytirish
+- Vaqtni masofaga bo'lish
+- Masofadan vaqtni ayirish
+
+? Vaqtni topish uchun nima qilish kerak?
++ Masofani tezlikka bo'lish
+- Masofani tezlikka ko'paytirish
+- Tezlikni masofaga bo'lish
+- Masofaga tezlikni qo'shish
+
+? Unumdorlik odatda qaysi harf bilan belgilanadi?
++ w
+- v
+- s
+- t
+
+? Unumdorlik nimani ko'rsatadi?
++ Vaqt birligida bajarilgan ish hajmini
+- Butun ishga ketgan vaqtni
+- Ishchilar sonini
+- Mahsulot narxini
+
+? Foyda qanday topiladi?
++ Daromaddan xarajat ayiriladi
+- Daromad va xarajat qo'shiladi
+- Xarajatdan daromad ayiriladi
+- Daromad xarajatga ko'paytiriladi
+
+? Mahsulotni sotishdan olingan pul nima deyiladi?
++ Daromad
+- Xarajat
+- Narx yorlig'i
+- Miqdor
+= daromad
+
+? Narxni topish uchun nima qilinadi?
++ Qiymat miqdorga bo'linadi
+- Qiymat miqdorga ko'paytiriladi
+- Miqdor qiymatga bo'linadi
+- Qiymatga miqdor qo'shiladi
+
+? «km/h» yozuvi qanday o'qiladi?
++ Kilometr soatiga
+- Kilometr minutiga
+- Metr soatiga
+- Kilometr sekundiga
+
+? 3 ta kalkulyator uchun 27 000 so'm to'landi. Bitta kalkulyatorning narxi qancha?
++ 9000 so'm
+- 8998 so'm
+- 10 000 so'm
+- 9100 so'm
+= 9000
+
+? Avtomobil 79 km/h tezlik bilan 5 soat yurdi. U qancha masofani bosib o'tdi?
++ 395 km
+- 84 km
+- 495 km
+- 385 km
+= 395
+
+? Do'kon bir kunda 54 000 so'm daromad oldi, xarajat 12 000 so'm bo'ldi. Foyda qancha?
++ 42 000 so'm
+- 66 000 so'm
+- 42 010 so'm
+- 42 001 so'm
+= 42000 | 42 000
+
+? 9 ta futbolka uchun 139 500 so'm to'landi. Bitta futbolkaning narxi qancha?
++ 15 500 so'm
+- 15 499 so'm
+- 15 501 so'm
+- 15 498 so'm
+= 15500 | 15 500
+
+? Sayyoh 145 km masofani 29 km/h tezlik bilan bosib o'tdi. U yo'lda necha soat bo'lgan?
++ 5 soat
+- 15 soat
+- 6 soat
+- 0 soat
+= 5
+
+? Bitta futbolkaning narxi 12 000 so'm. 120 000 so'mga nechta futbolka sotib olish mumkin?
++ 10 ta
+- 9 ta
+- 8 ta
+- 11 ta
+= 10
+
+? Avtobus 95 km/h tezlik bilan 7 soat yurdi. U qancha masofani bosib o'tdi?
++ 665 km
+- 102 km
+- 765 km
+- 675 km
+= 665
+
+? Avtomobil 4 soatda 296 km yo'l bosib o'tdi. Uning tezligi qanday?
++ 74 km/h
+- 76 km/h
+- 72 km/h
+- 69 km/h
+= 74
+
+? Avtomobil 4 km/h tezlik bilan 3 soat yurdi. U qancha masofani bosib o'tdi?
++ 12 km
+- 7 km
+- 15 km
+- 2 km
+= 12
+
+? Usta 1 soatda 25 ta detal tayyorlaydi. U 3 soatda nechta detal tayyorlaydi?
++ 75 ta
+- 74 ta
+- 65 ta
+- 76 ta
+= 75
+
+? 2 ta futbolka uchun 5000 so'm to'landi. Bitta futbolkaning narxi qancha?
++ 2500 so'm
+- 2490 so'm
+- 2505 so'm
+- 2400 so'm
+= 2500
+
+? Chavandoz 81 km/h tezlik bilan 6 soat yurdi. U qancha masofani bosib o'tdi?
++ 486 km
+- 87 km
+- 386 km
+- 684 km
+= 486
+
+? Sayyoh 329 km masofani 47 km/h tezlik bilan bosib o'tdi. U yo'lda necha soat bo'lgan?
++ 7 soat
+- 2 soat
+- 17 soat
+- 10 soat
+= 7
+
+? Do'kon bir kunda 43 000 so'm daromad oldi, xarajat 8000 so'm bo'ldi. Foyda qancha?
++ 35 000 so'm
+- 51 000 so'm
+- 34 900 so'm
+- 34 990 so'm
+= 35000 | 35 000
+
+? Sayyoh 522 km masofani 87 km/h tezlik bilan bosib o'tdi. U yo'lda necha soat bo'lgan?
++ 6 soat
+- 1 soat
+- 7 soat
+- 11 soat
+= 6
+
+? Sayyoh 371 km masofani 53 km/h tezlik bilan bosib o'tdi. U yo'lda necha soat bo'lgan?
++ 7 soat
+- 8 soat
+- 4 soat
+- 9 soat
+= 7
+
+? Bitta savat olmaning narxi 19 500 so'm. 58 500 so'mga nechta savat olma sotib olish mumkin?
++ 3 ta
+- 2 ta
+- 0 ta
+- 5 ta
+= 3
+
+? Tikuvchi 3 soatda 21 ta ro'mol tikdi. U 1 soatda nechta ro'mol tikkan?
++ 7 ta
+- 6 ta
+- 8 ta
+- 9 ta
+= 7
+
+? Tikuvchi 4 soatda 144 ta ro'mol tikdi. U 1 soatda nechta ro'mol tikkan?
++ 36 ta
+- 38 ta
+- 41 ta
+- 33 ta
+= 36
+
+? Operator minutiga 340 ta belgi teradi. U 1360 ta belgini necha minutda teradi?
++ 4 minut
+- 6 minut
+- 14 minut
+- 3 minut
+= 4
+
+? Motorli qayiq 8 soatda 88 km yo'l bosib o'tdi. Uning tezligi qanday?
++ 11 km/h
+- 21 km/h
+- 6 km/h
+- 14 km/h
+= 11
+
+? Sayyoh 304 km masofani 76 km/h tezlik bilan bosib o'tdi. U yo'lda necha soat bo'lgan?
++ 4 soat
+- 14 soat
+- 1 soat
+- 5 soat
+= 4
+
+? Operator minutiga 570 ta belgi teradi. U 3990 ta belgini necha minutda teradi?
++ 7 minut
+- 2 minut
+- 5 minut
+- 10 minut
+= 7
+
+? Sayyoh 385 km masofani 55 km/h tezlik bilan bosib o'tdi. U yo'lda necha soat bo'lgan?
++ 7 soat
+- 10 soat
+- 8 soat
+- 12 soat
+= 7
+
+? Velosipedchi 65 km/h tezlik bilan 4 soat yurdi. U qancha masofani bosib o'tdi?
++ 260 km
+- 69 km
+- 240 km
+- 263 km
+= 260
+
+? Sayyoh 45 km masofani 5 km/h tezlik bilan bosib o'tdi. U yo'lda necha soat bo'lgan?
++ 9 soat
+- 10 soat
+- 11 soat
+- 8 soat
+= 9
+
+? Avtobus 7 soatda 112 km yo'l bosib o'tdi. Uning tezligi qanday?
++ 16 km/h
+- 17 km/h
+- 13 km/h
+- 14 km/h
+= 16
+
+? 11 ta kalkulyator uchun 143 000 so'm to'landi. Bitta kalkulyatorning narxi qancha?
++ 13 000 so'm
+- 12 900 so'm
+- 14 000 so'm
+- 13 001 so'm
+= 13000 | 13 000
+
+## To'plamlar va mulohazalar
+
+? To'plamni tashkil etuvchi har bir obyekt nima deb ataladi?
++ To'plamning elementi
+- To'plamning qismi
+- To'plamning soni
+- Qismto'plam
+= element
+
+? Agar ikki to'plam butunlay bir xil elementlardan iborat bo'lsa, ular qanday to'plamlar bo'ladi?
++ Teng to'plamlar
+- Kesishmaydigan to'plamlar
+- Bo'sh to'plamlar
+- Har xil to'plamlar
+= teng
+
+? To'plamda elementlarning yozilish tartibi muhimmi?
++ Yo'q, muhim emas
+- Ha, juda muhim
+- Faqat sonlar uchun muhim
+- Faqat harflar uchun muhim
+= yo'q | muhim emas
+
+? «∈» belgisi nimani bildiradi?
++ Tegishli
+- Tegishli emas
+- Kesishma
+- Birlashma
+= tegishli
+
+? «∉» belgisi nimani bildiradi?
++ Tegishli emas
+- Tegishli
+- Teng
+- Qismto'plam
+= tegishli emas
+
+? To'plamlarni doiralar yordamida tasvirlash usuli qanday ataladi?
++ Eyler-Venn diagrammasi
+- Koordinata nuri
+- Ustunli diagramma
+- Jadval
+= eyler-venn | eyler venn diagrammasi
+
+? Ikki to'plamning ikkalasiga ham tegishli bo'lgan elementlardan tuzilgan to'plam nima deyiladi?
++ To'plamlar kesishmasi
+- To'plamlar birlashmasi
+- Qismto'plam
+- Bo'sh to'plam
+= kesishma | kesishmasi
+
+? Ikki to'plamning hech bo'lmaganda bittasiga tegishli elementlardan tuzilgan to'plam nima deyiladi?
++ To'plamlar birlashmasi
+- To'plamlar kesishmasi
+- Qismto'plam
+- Teng to'plamlar
+= birlashma | birlashmasi
+
+? Kesishma qaysi belgi bilan belgilanadi?
++ ∩
+- ∪
+- ∈
+- ⊂
+
+? Birlashma qaysi belgi bilan belgilanadi?
++ ∪
+- ∩
+- ∉
+- =
+
+? Agar B to'plamning barcha elementlari A to'plamga ham tegishli bo'lsa, B to'plam A ga nisbatan nima bo'ladi?
++ Qismto'plam
+- Kesishma
+- Birlashma
+- Teng to'plam emas
+= qismto'plam
+
+? Rost yoki yolg'on ekanini aniqlash mumkin bo'lgan gap nima deyiladi?
++ Mulohaza
+- Savol
+- Tenglama
+- To'plam
+= mulohaza
+
+? «Kubning 6 ta yog'i bor» mulohazasi qanday?
++ Rost
+- Yolg'on
+- Aniqlab bo'lmaydi
+- Savol
+= rost | to'g'ri
+
+? «Eng kichik uch xonali son 101» mulohazasi qanday?
++ Yolg'on
+- Rost
+- Aniqlab bo'lmaydi
+- Savol
+= yolg'on | noto'g'ri
+
+? «Har qanday sonni 1 ga ko'paytirsak, shu sonning o'zi hosil bo'ladi» mulohazasi qanday?
++ Rost
+- Yolg'on
+- Aniqlab bo'lmaydi
+- Faqat juft sonlar uchun rost
+= rost | to'g'ri
+
+? «1 tonna 100 kilogrammga teng» mulohazasi qanday?
++ Yolg'on
+- Rost
+- Aniqlab bo'lmaydi
+- Faqat yuklar uchun rost
+= yolg'on | noto'g'ri
+
+? O'zbek alifbosidagi unli harflar to'plami nechta elementdan iborat?
++ 6 ta
+- 5 ta
+- 7 ta
+- 10 ta
+= 6
+
+? A = {8, 15, 19, 21, 24, 31, 50, 54, 55} to'plamda nechta element bor?
++ 9
+- 11
+- 12
+- 14
+
+? A = {8, 16, 20, 21, 29}. Qaysi son A to'plamga tegishli?
++ 16
+- 7
+- 23
+- 22
+
+? A = {10, 22, 24, 51, 56} to'plamda nechta element bor?
++ 5
+- 3
+- 4
+- 0
+
+? A = {1, 4, 5, 8, 11, 12}, B = {4, 6, 9, 10, 12}. A ∩ B kesishmani toping.
++ {4, 12}
+- {1, 4, 5, 6, 8, 9, 10, 11, 12}
+- {1, 5, 8, 11}
+- {6, 9, 10}
+
+? A = {8, 20, 22, 25, 28}. Qaysi son A to'plamga tegishli?
++ 25
+- 9
+- 18
+- 24
+
+? A = {4, 5, 8, 9}, B = {1, 4, 6}. A ∪ B birlashmani toping.
++ {1, 4, 5, 6, 8, 9}
+- {4}
+- {4, 5, 8, 9}
+- {1, 4, 6}
+
+? A = {12, 18, 20, 25, 28}. Qaysi son A to'plamga tegishli?
++ 18
+- 8
+- 23
+- 10
+
+? A = {2, 4, 6, 7}, B = {1, 4, 6, 9}. A ∪ B birlashmani toping.
++ {1, 2, 4, 6, 7, 9}
+- {4, 6}
+- {2, 4, 6, 7}
+- {1, 4, 6, 9}
+
+? A = {6, 12, 13, 15, 16, 22, 33, 37} to'plamda nechta element bor?
++ 8
+- 11
+- 7
+- 6
+
+? A = {3, 5, 10, 11}, B = {2, 6, 7, 11}. A ∩ B kesishmani toping.
++ {11}
+- {2, 3, 5, 6, 7, 10, 11}
+- {3, 5, 10}
+- {2, 6, 7}
+
+? A = {13, 28, 31, 36, 52} to'plamda nechta element bor?
++ 5
+- 7
+- 10
+- 15
+
+? A = {2, 4, 7, 10}, B = {1, 3, 4, 6, 10}. A ∩ B kesishmani toping.
++ {4, 10}
+- {1, 2, 3, 4, 6, 7, 10}
+- {2, 7}
+- {1, 3, 6}
+
+? A = {2, 4, 5, 6, 8, 10}, B = {3, 7, 8, 9, 11, 12}. A ∩ B kesishmani toping.
++ {8}
+- {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}
+- {2, 4, 5, 6, 10}
+- {3, 7, 9, 11, 12}
+
+? A = {7, 13, 28, 56, 58} to'plamda nechta element bor?
++ 5
+- 4
+- 3
+- 0
+
+? A = {1, 21, 22, 31, 35} to'plamda nechta element bor?
++ 5
+- 15
+- 0
+- 7
+
+? A = {2, 6, 8}, B = {3, 6, 8, 10}. A ∪ B birlashmani toping.
++ {2, 3, 6, 8, 10}
+- {6, 8}
+- {2, 6, 8}
+- {3, 6, 8, 10}
+
+? A = {1, 2, 3}, B = {3, 6, 7, 10}. A ∪ B birlashmani toping.
++ {1, 2, 3, 6, 7, 10}
+- {3}
+- {1, 2, 3}
+- {3, 6, 7, 10}
+
+? A = {8, 14, 21, 26, 28}. Qaysi son A to'plamga tegishli?
++ 8
+- 12
+- 18
+- 24
+
+? A = {1, 3, 7}, B = {1, 6, 7, 9}. A ∪ B birlashmani toping.
++ {1, 3, 6, 7, 9}
+- {1, 7}
+- {1, 3, 7}
+- {1, 6, 7, 9}
