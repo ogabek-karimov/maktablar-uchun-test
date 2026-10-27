@@ -38,12 +38,26 @@
 
   <footer class="footer">
     <div class="wrap">
-      <p>Savollar 2025–2026 o'quv yili uchun Respublika ta'lim markazi tasdiqlagan maktab darsliklari asosida tuzilgan.</p>
-      <p>Savolda xato topsangiz, natijalar sahifasidagi <b>«Xato haqida xabar berish»</b> tugmasini bosing.</p>
+      <div class="foot-info">
+        <p class="foot-note"><span class="fi" aria-hidden="true">📚</span><span>Savollar 2025–2026 o'quv yili uchun Respublika ta'lim markazi tasdiqlagan maktab darsliklari asosida tuzilgan.</span></p>
+        <p class="foot-note"><span class="fi" aria-hidden="true">⚑</span><span>Savolda xato topsangiz, test natijalari sahifasida o'sha savol ostidagi <b>«⚑ Xato haqida xabar berish»</b> tugmasini bosing — savol ma'lumoti nusxalanib, texnik yordam Telegram chati ochiladi.</span></p>
+      </div>
+      <div class="foot">
+        <a class="foot-brand" href="#/"><span class="brand-mark sm" aria-hidden="true">B</span><span>Bilimdon</span></a>
+        <p class="copyright">© <span id="year">2026</span> Barcha huquqlar himoyalangan</p>
+        <div class="foot-right-group">
+          <p class="developer">Ishlab chiquvchi: <b>Karimov Og'abek</b></p>
+          <a class="support" href="https://t.me/Uzswlu_rttm" target="_blank" rel="noopener">
+            <svg class="tg-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="12" fill="#229ED9"/><path fill="#fff" d="M5.4 11.8l11.1-4.3c.5-.2 1 .1.8.9l-1.9 8.9c-.1.6-.5.8-1 .5l-2.9-2.1-1.4 1.3c-.2.2-.3.3-.6.3l.2-2.9 5.3-4.8c.2-.2 0-.3-.3-.1l-6.6 4.1-2.8-.9c-.6-.2-.6-.6.1-.9z"/></svg>
+            <span class="support-text">Texnik yordam uchun</span>
+          </a>
+        </div>
+      </div>
     </div>
   </footer>
 
   <div id="confetti" aria-hidden="true"></div>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
   <script src="assets/app.js"></script>
 </body>
 </html>

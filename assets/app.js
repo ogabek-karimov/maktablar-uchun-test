@@ -1,7 +1,7 @@
 (() => {
   'use strict';
 
-  const REPO = 'ogabek-karimov/maktablar-uchun-test';
+  const SUPPORT_URL = 'https://t.me/Uzswlu_rttm';
   const GENERAL_SIZES = [30, 50, 100];
   const GRADE_HUES = { 3: 250, 4: 275, 5: 305, 6: 335, 7: 10, 8: 150, 9: 180, 10: 205, 11: 228 };
   const LETTERS = ['A', 'B', 'C', 'D'];
@@ -426,10 +426,26 @@
     if (pct >= 86) confetti();
   }
 
-  function reportLink(it) {
-    const title = `Savolda xato: ${quiz.g}-sinf, ${quiz.subj.name} — ${quiz.subj.topics[it.topicIdx]?.name || ''}`;
-    const body = `**Sinf:** ${quiz.g}\n**Fan:** ${quiz.subj.name}\n**Mavzu:** ${quiz.subj.topics[it.topicIdx]?.name || ''}\n\n**Savol:** ${it.q.q}\n**Saytdagi to'g'ri javob:** ${it.q.a}\n\n**Xato nimada (izoh yozing):**\n`;
-    return `https://github.com/${REPO}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+  // Xato haqida xabar: savol ma'lumotlari nusxalanadi va texnik yordam Telegram chati ochiladi.
+  function reportText(it) {
+    const topic = quiz.subj.topics[it.topicIdx]?.name || '';
+    return `⚑ Savolda xato\nSinf: ${quiz.g}-sinf\nFan: ${quiz.subj.name}\nMavzu: ${topic}\nSavol: ${it.q.q}\nSaytdagi to'g'ri javob: ${it.q.a}\nXato nimada: `;
+  }
+  async function reportIssue(it) {
+    const text = reportText(it);
+    let copied = false;
+    try { await navigator.clipboard.writeText(text); copied = true; } catch (e) { /* clipboard yopiq */ }
+    if (!copied) window.prompt("Quyidagi matnni nusxalab, texnik yordamga yuboring:", text);
+    else toast("📋 Savol ma'lumoti nusxalandi. Telegram'da xabarga joylab (paste), xato nimadaligini yozing.");
+    window.open(SUPPORT_URL, '_blank', 'noopener');
+  }
+  function toast(msg) {
+    let el = document.getElementById('toast');
+    if (!el) { el = document.createElement('div'); el.id = 'toast'; el.setAttribute('role', 'status'); document.body.appendChild(el); }
+    el.textContent = msg;
+    el.classList.add('show');
+    clearTimeout(toast.t);
+    toast.t = setTimeout(() => el.classList.remove('show'), 5000);
   }
 
   function renderResults(filter) {
@@ -453,7 +469,7 @@
           : `<div class="rv-line ${st === 'bad' ? 'bad' : ''}"><span class="k">Javobingiz:</span> <b>${yourAnswer(it)}</b> ${st === 'bad' ? '❌' : ''}</div>
              <div class="rv-line ok"><span class="k">To'g'ri javob:</span> <b>${esc(it.q.a)}</b></div>`}
         ${it.q.e ? `<div class="explain">💡 ${esc(it.q.e)}</div>` : ''}
-        <div class="rv-foot"><a class="report" href="${reportLink(it)}" target="_blank" rel="noopener">⚑ Xato haqida xabar berish</a></div>
+        <div class="rv-foot"><button type="button" class="report" data-report="${i}">⚑ Xato haqida xabar berish</button></div>
       </div>`;
     }).join('') || `<div class="card empty"><p>Bu bo'limda savol yo'q.</p></div>`;
 
@@ -498,6 +514,7 @@
       if (arc) arc.style.strokeDashoffset = String(C * (1 - pct / 100));
     }));
     app.querySelectorAll('[data-f]').forEach((b) => b.addEventListener('click', () => renderResults(b.dataset.f)));
+    app.querySelectorAll('[data-report]').forEach((b) => b.addEventListener('click', () => reportIssue(quiz.items[+b.dataset.report])));
     document.getElementById('again').addEventListener('click', () => {
       if (quiz.retry) {
         const items = shuffle(quiz.items.map((x) => makeItem(x.q, x.topicIdx, quiz.mode)));
