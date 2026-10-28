@@ -1,0 +1,3351 @@
+fan: matematika
+kitob: Matematika, 5-sinf (1–2-qismlar). «Novda Edutainment»
+
+## Natural sonlar (10 milliongacha)
+
+? 1 million necha mingga teng?
++ 1000
+- 100
+- 10 000
+- 10
+
+? Eng kichik yetti xonali son qaysi?
++ 1 000 000
+- 999 999
+- 100 000
+- 10 000 000
+= 1000000
+
+? Eng katta olti xonali son qaysi?
++ 999 999
+- 1 000 000
+- 99 999
+- 9 999 999
+= 999999
+
+? 10 000 000 sonida nechta nol bor?
++ 7
+- 6
+- 8
+- 5
+
+? 1 000 000 da nechta yuz ming bor?
++ 10
+- 100
+- 1000
+- 1
+
+? Yetti xonali sonning eng yuqori xonasi qaysi?
++ millionlar
+- yuz minglar
+- o'n minglar
+- minglar
+
+? 5 000 000 + 500 000 + 80 000 + 700 + 30 yig'indisiga teng sonni toping.
++ 5 580 730
+- 5 589 730
+- 5 580 640
+- 5 580 732
+= 5580730
+
+? 2 206 814 sonining o'nlar xonasida qaysi raqam turibdi?
++ 1
+- 2
+- 0
+- 6
+
+? 8 000 000 + 200 000 + 20 000 + 30 + 3 yig'indisiga teng sonni toping.
++ 8 220 033
+- 8 229 033
+- 8 219 943
+- 8 220 043
+= 8220033
+
+? 5 426 029 sonining birlar xonasida qaysi raqam turibdi?
++ 9
+- 5
+- 4
+- 2
+
+? 6 055 966 sonini yuz minglar xonasigacha yaxlitlang.
++ 6 100 000
+- 6 000 000
+- 6 200 000
+- 6 100 001
+= 6100000
+
+? 1 007 000 sonidan oldin keladigan sonni toping.
++ 1 006 999
+- 1 007 001
+- 1 006 990
+- 1 006 998
+= 1006999
+
+? 6 000 000 + 400 000 + 6000 + 100 + 30 + 5 yig'indisiga teng sonni toping.
++ 6 406 135
+- 6 415 135
+- 6 406 045
+- 6 606 135
+= 6406135
+
+? 3 000 099 sonidan keyin keladigan sonni toping.
++ 3 000 100
+- 3 000 098
+- 3 000 101
+- 30 001 000
+= 3000100
+
+? «ikki million to'qqiz yuz o'ttiz ikki ming uch yuz qirq to'rt» sonini raqamlar bilan yozing.
++ 2 932 344
+- 2 941 344
+- 2 931 444
+- 4 432 392
+= 2932344
+
+? 70 000 sonidan oldin keladigan sonni toping.
++ 69 999
+- 70 001
+- 69 990
+- 69 998
+= 69999
+
+? 5 000 000 + 700 000 + 40 000 + 4000 + 500 + 20 + 9 yig'indisiga teng sonni toping.
++ 5 744 529
+- 5 753 529
+- 5 744 439
+- 9 254 475
+= 5744529
+
+? 68 000 sonidan oldin keladigan sonni toping.
++ 67 999
+- 68 001
+- 67 990
+- 67 998
+= 67999
+
+? 3 684 741 sonining o'n minglar xonasida qaysi raqam turibdi?
++ 8
+- 3
+- 6
+- 4
+
+? 30 300 sonidan oldin keladigan sonni toping.
++ 30 299
+- 30 301
+- 30 290
+- 30 298
+= 30299
+
+? 7 274 862 sonining birlar xonasida qaysi raqam turibdi?
++ 2
+- 7
+- 4
+- 8
+
+? 7 801 076 sonini o'n minglar xonasigacha yaxlitlang.
++ 7 800 000
+- 7 810 000
+- 7 790 000
+- 7 799 900
+= 7800000
+
+? 9 000 000 + 500 000 + 70 000 + 2000 + 200 + 90 + 6 yig'indisiga teng sonni toping.
++ 9 572 296
+- 9 581 296
+- 9 572 206
+- 9 572 196
+= 9572296
+
+? 78 000 sonidan oldin keladigan sonni toping.
++ 77 999
+- 78 001
+- 77 990
+- 77 998
+= 77999
+
+? 10 799 sonidan keyin keladigan sonni toping.
++ 10 800
+- 10 798
+- 10 801
+- 108 000
+= 10800
+
+? 8 000 000 + 800 000 + 90 000 + 1000 + 20 + 4 yig'indisiga teng sonni toping.
++ 8 891 024
+- 8 900 024
+- 8 890 934
+- 8 891 023
+= 8891024
+
+? 8 643 929 sonini yuz minglar xonasigacha yaxlitlang.
++ 8 600 000
+- 8 700 000
+- 8 500 000
+- 8 600 002
+= 8600000
+
+? 1 054 130 sonini yuz minglar xonasigacha yaxlitlang.
++ 1 100 000
+- 1 000 000
+- 1 200 000
+- 1 099 000
+= 1100000
+
+? 2 429 354 sonini minglar xonasigacha yaxlitlang.
++ 2 429 000
+- 2 430 000
+- 2 428 000
+- 2 229 000
+= 2429000
+
+? 4 071 670 sonining o'n minglar xonasida qaysi raqam turibdi?
++ 7
+- 4
+- 0
+- 1
+
+? 7 944 697 sonining millionlar xonasida qaysi raqam turibdi?
++ 7
+- 9
+- 4
+- 6
+
+? 2 127 897 sonining o'n minglar xonasida qaysi raqam turibdi?
++ 2
+- 1
+- 7
+- 8
+
+? 1 730 863 sonining o'n minglar xonasida qaysi raqam turibdi?
++ 3
+- 1
+- 7
+- 0
+
+? «olti million to'rt yuz oltmish bir ming to'qqiz yuz to'rt» sonini raqamlar bilan yozing.
++ 6 461 904
+- 6 470 904
+- 6 461 004
+- 6 461 902
+= 6461904
+
+? 1 935 350 sonini minglar xonasigacha yaxlitlang.
++ 1 935 000
+- 1 936 000
+- 1 934 000
+- 1 935 002
+= 1935000
+
+? 70 299 sonidan keyin keladigan sonni toping.
++ 70 300
+- 70 298
+- 70 301
+- 703 000
+= 70300
+
+? 4 000 200 sonidan oldin keladigan sonni toping.
++ 4 000 199
+- 4 000 201
+- 4 000 190
+- 4 000 198
+= 4000199
+
+? 9 682 061 sonini minglar xonasigacha yaxlitlang.
++ 9 682 000
+- 9 683 000
+- 9 681 000
+- 9 681 999
+= 9682000
+
+? 8 191 467 sonini o'n minglar xonasigacha yaxlitlang.
++ 8 190 000
+- 8 200 000
+- 8 180 000
+- 8 290 000
+= 8190000
+
+? 4 945 460 sonini minglar xonasigacha yaxlitlang.
++ 4 945 000
+- 4 946 000
+- 4 944 000
+- 4 944 999
+= 4945000
+
+## Sonlar ustida to'rt amal
+
+? Qavssiz ifodada birinchi qaysi amallar bajariladi?
++ ko'paytirish va bo'lish
+- qo'shish va ayirish
+- faqat qo'shish
+- chapdan o'ngga hammasi baravar
+
+? Qavsli ifodada birinchi nima bajariladi?
++ qavs ichidagi amallar
+- ko'paytirish
+- qo'shish
+- chapdagi amal
+
+? Sonni 100 ga ko'paytirish uchun nima qilinadi?
++ sonning o'ng tomoniga ikkita nol yoziladi
+- bitta nol yoziladi
+- uchta nol yoziladi
+- ikkita nol o'chiriladi
+
+? Oxiri uchta nol bilan tugagan sonni 1000 ga bo'lish uchun nima qilinadi?
++ oxiridagi uchta nol tashlab yuboriladi
+- uchta nol qo'shiladi
+- bitta nol tashlanadi
+- ikkita nol qo'shiladi
+
+? 8280 : 40 = ?
++ 207
+- 2070
+- 20
+- 204
+
+? 3 422 000 : 1000 = ?
++ 3422
+- 34 220
+- 342
+- 2243
+
+? 86 400 : 90 = ?
++ 960
+- 9600
+- 96
+- 969
+
+? 3198 · 10 = ?
++ 31 980
+- 3198
+- 319 800
+- 30 980
+= 31980
+
+? Ifodaning qiymatini toping: 14 · (193 − 75)
++ 1652
+- 2627
+- 1647
+- 1662
+
+? Ifodaning qiymatini toping: (43 + 18) · 10
++ 610
+- 223
+- 600
+- 615
+
+? Ifodaning qiymatini toping: 461 + 25 · 5
++ 586
+- 2430
+- 581
+- 685
+
+? Ifodaning qiymatini toping: 64 + 26 · 19
++ 558
+- 1710
+- 553
+- 658
+
+? 2143 · 100 = ?
++ 214 300
+- 21 430
+- 2 143 000
+- 214 290
+= 214300
+
+? 286 · 4000 = ?
++ 1 144 000
+- 114 400
+- 11 440 000
+- 1 144 001
+= 1144000
+
+? 2643 · 1000 = ?
++ 2 643 000
+- 264 300
+- 26 430 000
+- 2 843 000
+= 2643000
+
+? Ifodaning qiymatini toping: 2096 − 120 : 8
++ 2081
+- 1976
+- 2076
+- 2080
+
+? 39 060 : 10 = ?
++ 3906
+- 39 060
+- 390
+- 6093
+
+? 1708 · 1000 = ?
++ 1 708 000
+- 170 800
+- 17 080 000
+- 1 708 001
+= 1708000
+
+? Do'konga har birida 38 ta daftar bo'lgan 34 ta quti keltirildi. Hammasi bo'lib nechta daftar keltirilgan?
++ 1292
+- 72
+- 1302
+- 1282
+
+? Ifodaning qiymatini toping: 485 + 17 · 4
++ 553
+- 2008
+- 355
+- 554
+
+? Bog'bon 480 ta olmani 40 tadan qutilarga joyladi. Nechta quti kerak bo'ldi?
++ 12
+- 120
+- 13
+- 14
+
+? 490 800 : 600 = ?
++ 818
+- 8180
+- 81
+- 813
+
+? Ifodaning qiymatini toping: 2628 − 315 : 9
++ 2593
+- 2313
+- 2693
+- 2493
+
+? Ifodaning qiymatini toping: (1944 − 180) : 12
++ 147
+- 1929
+- 144
+- 145
+
+? 13 · 5000 = ?
++ 65 000
+- 6500
+- 650 000
+- 65 100
+= 65000
+
+? 212 · 500 = ?
++ 106 000
+- 10 600
+- 1 060 000
+- 106 100
+= 106000
+
+? Ifodaning qiymatini toping: (107 + 45) · 13
++ 1976
+- 692
+- 1978
+- 1776
+
+? Ifodaning qiymatini toping: 33 · 4 − 12 : 4
++ 129
+- 30
+- 134
+- 127
+
+? Bog'bon 1400 ta olmani 40 tadan qutilarga joyladi. Nechta quti kerak bo'ldi?
++ 35
+- 350
+- 33
+- 30
+
+? Bog'bon 3120 ta olmani 40 tadan qutilarga joyladi. Nechta quti kerak bo'ldi?
++ 78
+- 780
+- 80
+- 68
+
+? Ifodaning qiymatini toping: 34 · 15 − 30 : 15
++ 508
+- 32
+- 506
+- 518
+
+? Ifodaning qiymatini toping: 437 + 6 · 13
++ 515
+- 5759
+- 495
+- 535
+
+? 715 · 80 = ?
++ 57 200
+- 5720
+- 572 000
+- 56 200
+= 57200
+
+? 3039 · 100 = ?
++ 303 900
+- 30 390
+- 3 039 000
+- 302 900
+= 303900
+
+? 670 · 800 = ?
++ 536 000
+- 53 600
+- 5 360 000
+- 536 100
+= 536000
+
+? Ifodaning qiymatini toping: (180 + 9) · 2
++ 378
+- 198
+- 358
+- 388
+
+? Ifodaning qiymatini toping: 6 · (88 − 73)
++ 90
+- 455
+- 91
+- 95
+
+? 3486 · 1000 = ?
++ 3 486 000
+- 348 600
+- 34 860 000
+- 3 486 009
+= 3486000
+
+## Oddiy kasrlar
+
+? Surati maxrajidan kichik bo'lgan kasr qanday kasr deyiladi?
++ to'g'ri kasr
+- noto'g'ri kasr
+- aralash son
+- o'nli kasr
+
+? Surati maxrajiga teng yoki undan katta bo'lgan kasr qanday kasr deyiladi?
++ noto'g'ri kasr
+- to'g'ri kasr
+- o'nli kasr
+- qisqarmas kasr
+
+? Ikki kasrni ko'paytirish uchun nima qilinadi?
++ suratlar suratlarga, maxrajlar maxrajlarga ko'paytiriladi
+- suratlar qo'shiladi, maxrajlar ko'paytiriladi
+- faqat suratlar ko'paytiriladi
+- maxrajlar qo'shiladi
+
+? Kasrni natural songa ko'paytirish uchun nima qilinadi?
++ kasrning surati shu songa ko'paytiriladi, maxraji o'zgarmaydi
+- maxraji songa ko'paytiriladi
+- surat va maxraj songa ko'paytiriladi
+- surati songa bo'linadi
+
+? Bog'da 30 ta daraxt bor. Ularning 1/5 qismi olma daraxtlari, qolganining 1/2 qismi o'rik daraxtlari. Bog'da nechta o'rik daraxti bor?
++ 12
+- 15
+- 24
+- 13
+
+? Hisoblang: 2 5/6 − 1 1/2
++ 1 1/3
+- 2 1/3
+- 1 5/12
+- 4 1/3
+= 4/3
+
+? 3 : 10 bo'linmani kasr ko'rinishida yozing.
++ 3/10
+- 10/3
+- 3/11
+- 2/5
+= 0,3
+
+? Hisoblang: 2 3/4 · 5
++ 13 3/4
+- 10 3/4
+- 14 3/4
+- 7 3/4
+= 13,75 | 55/4
+
+? Hisoblang: 5/8 · 5
++ 3 1/8
+- 5/8
+- 1 1/4
+- 4 1/8
+= 25/8 | 3,125
+
+? Hisoblang: 2 2/3 · 3
++ 8
+- 6 2/3
+- 9
+- 5 2/3
+
+? Nodira pulining 4/5 qismiga kitob oldi, qolgan pulining 2/5 qismiga ruchka oldi. U butun pulining qancha qismiga ruchka olgan?
++ 2/25
+- 2/5
+- 8/25
+- 1/5
+= 0,08
+
+? Hisoblang: 4 3/5 − 2 9/10
++ 1 7/10
+- 2 7/10
+- 1 4/5
+- 7 1/2
+= 1,7 | 17/10
+
+? Hisoblang: 5 4/9 − 3 8/9
++ 1 5/9
+- 2 5/9
+- 1 2/3
+- 9 1/3
+= 14/9
+
+? Sardor pulining 2/3 qismiga kitob oldi, qolgan pulining 3/5 qismiga ruchka oldi. U butun pulining qancha qismiga ruchka olgan?
++ 1/5
+- 3/5
+- 2/5
+- 1/3
+= 0,2
+
+? Bog'da 42 ta daraxt bor. Ularning 1/2 qismi olma daraxtlari, qolganining 2/3 qismi o'rik daraxtlari. Bog'da nechta o'rik daraxti bor?
++ 14
+- 28
+- 21
+- 16
+
+? Hisoblang: 3 1/8 + 4 7/8
++ 8
+- 9
+- 7 7/8
+- 8 1/8
+
+? 1/5 kasrni o'nli kasrga aylantiring.
++ 0,2
+- 0,3
+- 2
+- 0,02
+
+? 7/10 kasrni o'nli kasrga aylantiring.
++ 0,7
+- 70
+- 0,8
+- 1,7
+
+? Zarina pulining 1/2 qismiga kitob oldi, qolgan pulining 1/4 qismiga ruchka oldi. U butun pulining qancha qismiga ruchka olgan?
++ 1/8
+- 1/4
+- 1/2
+- 3/8
+= 0,125
+
+? Bog'da 12 ta daraxt bor. Ularning 1/2 qismi olma daraxtlari, qolganining 1/2 qismi o'rik daraxtlari. Bog'da nechta o'rik daraxti bor?
++ 3
+- 6
+- 5
+- 1
+
+? Hisoblang: 1 6/7 + 4 3/7
++ 6 2/7
+- 7 2/7
+- 6 1/7
+- 6 3/7
+= 44/7
+
+? Bog'da 192 ta daraxt bor. Ularning 1/4 qismi olma daraxtlari, qolganining 3/4 qismi o'rik daraxtlari. Bog'da nechta o'rik daraxti bor?
++ 108
+- 144
+- 128
+- 801
+
+? Hisoblang: 3 2/3 − 1 1/2
++ 2 1/6
+- 3 1/6
+- 5 1/6
+- 2 1/3
+= 13/6
+
+? Hisoblang: 5 1/2 − 1 1/2
++ 4
+- 5
+- 4 1/10
+- 7
+
+? 36 : 11 bo'linmani aralash son ko'rinishida yozing.
++ 3 3/11
+- 4 3/11
+- 3 11/36
+- 3 4/11
+= 36/11
+
+? 1/4 kasrni o'nli kasrga aylantiring.
++ 0,25
+- 2,5
+- 0,025
+- 1,25
+
+? 75 ning 3/5 qismini toping.
++ 45
+- 15
+- 125
+- 44
+
+? Hisoblang: 6/10 · 1/10
++ 3/50
+- 7/20
+- 3/10
+- 7/10
+= 0,06
+
+? Hisoblang: 4 11/12 − 1 3/4
++ 3 1/6
+- 4 1/6
+- 3 1/4
+- 6 2/3
+= 19/6
+
+? Hisoblang: 1 2/7 · 2
++ 2 4/7
+- 2 2/7
+- 3 4/7
+- 3 2/7
+= 18/7
+
+? Hisoblang: 6 1/3 · 4
++ 25 1/3
+- 24 1/3
+- 26 1/3
+- 10 1/3
+= 76/3
+
+? Hisoblang: 2 7/11 + 1 7/11
++ 4 3/11
+- 5 3/11
+- 4 2/11
+- 4 4/11
+= 47/11
+
+? Hisoblang: 2 1/5 − 1 1/2
++ 7/10
+- 17/10
+- 37/10
+- 4/5
+= 0,7
+
+? Bog'da 84 ta daraxt bor. Ularning 3/4 qismi olma daraxtlari, qolganining 1/3 qismi o'rik daraxtlari. Bog'da nechta o'rik daraxti bor?
++ 7
+- 28
+- 21
+- 4
+
+? Hisoblang: 4 5/9 · 3
++ 13 2/3
+- 12 5/9
+- 14 2/3
+- 7 5/9
+= 41/3
+
+? Hisoblang: 1 4/5 · 5
++ 9
+- 5 4/5
+- 10
+- 6 4/5
+
+? 11/25 kasrni o'nli kasrga aylantiring.
++ 0,44
+- 1,44
+- 0,0044
+- 0,54
+
+? Hisoblang: 1 1/5 + 4 1/10
++ 5 3/10
+- 6 3/10
+- 5 2/15
+- 5 2/5
+= 5,3 | 53/10
+
+? Hisoblang: 8/5 · 2/8. Natijani aralash son yoki qisqarmas kasr ko'rinishida yozing.
++ 2/5
+- 37/20
+- 16/13
+- 7/5
+= 0,4
+
+? Hisoblang: 2 1/2 + 4 1/4
++ 6 3/4
+- 7 3/4
+- 6 1/6
+- 7
+= 27/4 | 6,75
+
+? 15 : 7 bo'linmani aralash son ko'rinishida yozing.
++ 2 1/7
+- 3 1/7
+- 2 7/15
+- 2 2/7
+= 15/7
+
+? Bekzod pulining 1/4 qismiga kitob oldi, qolgan pulining 1/2 qismiga ruchka oldi. U butun pulining qancha qismiga ruchka olgan?
++ 3/8
+- 1/2
+- 1/8
+- 3/4
+= 0,375
+
+? Dilnoza pulining 2/5 qismiga kitob oldi, qolgan pulining 2/3 qismiga ruchka oldi. U butun pulining qancha qismiga ruchka olgan?
++ 2/5
+- 2/3
+- 4/15
+- 3/5
+= 0,4
+
+? Hisoblang: 1/3 · 15
++ 5
+- 1/3
+- 5 1/3
+- 6
+
+## Uchburchakning yuzi
+
+? Uchburchakning yuzi qanday topiladi?
++ asosi bilan balandligi ko'paytmasining yarmi
+- asosi bilan balandligi ko'paytmasi
+- tomonlari yig'indisi
+- asosining ikki baravari
+
+? Uchburchakning balandligi asosga nisbatan qanday joylashadi?
++ asosga perpendikulyar
+- asosga parallel
+- asos bilan 45° burchak hosil qiladi
+- asosning davomi
+
+? Uchburchakning nechta balandligi bor?
++ 3
+- 1
+- 2
+- 4
+
+? Yuz qaysi birliklarda o'lchanadi?
++ kvadrat birliklarda (sm², m²)
+- kub birliklarda (sm³)
+- santimetrda
+- litrda
+
+? Shakl tomonlari 15 sm va 5 sm bo'lgan to'g'ri to'rtburchak hamda uning 15 sm li tomoniga yopishgan, balandligi 12 sm bo'lgan uchburchakdan tuzilgan. Shaklning yuzini toping.
++ 165 sm²
+- 255 sm²
+- 75 sm²
+- 160 sm²
+= 165
+
+? Uchburchakning asosi 4 sm, shu asosga tushirilgan balandligi 21 sm. Uchburchakning yuzini toping.
++ 42 sm²
+- 84 sm²
+- 25 sm²
+- 50 sm²
+= 42
+
+? Shakl tomonlari 13 sm va 4 sm bo'lgan to'g'ri to'rtburchak hamda uning 13 sm li tomoniga yopishgan, balandligi 10 sm bo'lgan uchburchakdan tuzilgan. Shaklning yuzini toping.
++ 117 sm²
+- 182 sm²
+- 52 sm²
+- 127 sm²
+= 117
+
+? Uchburchakning asosi 12 sm, shu asosga tushirilgan balandligi 22 sm. Uchburchakning yuzini toping.
++ 132 sm²
+- 264 sm²
+- 34 sm²
+- 68 sm²
+= 132
+
+? Tomonlari 18 sm va 6 sm bo'lgan to'g'ri to'rtburchak diagonal bo'yicha ikkita uchburchakka bo'lindi. Har bir uchburchakning yuzini toping.
++ 54 sm²
+- 108 sm²
+- 24 sm²
+- 52 sm²
+= 54
+
+? Uchburchakning asosi 13 sm, shu asosga tushirilgan balandligi 8 sm. Uchburchakning yuzini toping.
++ 52 sm²
+- 104 sm²
+- 21 sm²
+- 42 sm²
+= 52
+
+? Tomonlari 20 sm va 6 sm bo'lgan to'g'ri to'rtburchak diagonal bo'yicha ikkita uchburchakka bo'lindi. Har bir uchburchakning yuzini toping.
++ 60 sm²
+- 120 sm²
+- 26 sm²
+- 58 sm²
+= 60
+
+? Shakl tomonlari 7 sm va 5 sm bo'lgan to'g'ri to'rtburchak hamda uning 7 sm li tomoniga yopishgan, balandligi 2 sm bo'lgan uchburchakdan tuzilgan. Shaklning yuzini toping.
++ 42 sm²
+- 49 sm²
+- 35 sm²
+- 41 sm²
+= 42
+
+? Uchburchakning asosi 16 sm, shu asosga tushirilgan balandligi 16 sm. Uchburchakning yuzini toping.
++ 128 sm²
+- 256 sm²
+- 32 sm²
+- 64 sm²
+= 128
+
+? Uchburchakning asosi 17 sm, shu asosga tushirilgan balandligi 10 sm. Uchburchakning yuzini toping.
++ 85 sm²
+- 170 sm²
+- 27 sm²
+- 54 sm²
+= 85
+
+? Shakl tomonlari 14 sm va 7 sm bo'lgan to'g'ri to'rtburchak hamda uning 14 sm li tomoniga yopishgan, balandligi 5 sm bo'lgan uchburchakdan tuzilgan. Shaklning yuzini toping.
++ 133 sm²
+- 168 sm²
+- 98 sm²
+- 113 sm²
+= 133
+
+? Tomonlari 20 sm va 4 sm bo'lgan to'g'ri to'rtburchak diagonal bo'yicha ikkita uchburchakka bo'lindi. Har bir uchburchakning yuzini toping.
++ 40 sm²
+- 80 sm²
+- 24 sm²
+- 42 sm²
+= 40
+
+? Uchburchakning asosi 10 sm, shu asosga tushirilgan balandligi 12 sm. Uchburchakning yuzini toping.
++ 60 sm²
+- 120 sm²
+- 22 sm²
+- 44 sm²
+= 60
+
+? To'g'ri burchakli uchburchakning to'g'ri burchak hosil qilgan tomonlari 18 sm va 2 sm. Uchburchakning yuzini toping.
++ 18 sm²
+- 36 sm²
+- 20 sm²
+- 16 sm²
+= 18
+
+? To'g'ri burchakli uchburchakning to'g'ri burchak hosil qilgan tomonlari 6 sm va 4 sm. Uchburchakning yuzini toping.
++ 12 sm²
+- 24 sm²
+- 10 sm²
+- 15 sm²
+= 12
+
+? Shakl tomonlari 8 sm va 13 sm bo'lgan to'g'ri to'rtburchak hamda uning 8 sm li tomoniga yopishgan, balandligi 2 sm bo'lgan uchburchakdan tuzilgan. Shaklning yuzini toping.
++ 112 sm²
+- 120 sm²
+- 104 sm²
+- 113 sm²
+= 112
+
+? To'g'ri burchakli uchburchakning to'g'ri burchak hosil qilgan tomonlari 8 sm va 5 sm. Uchburchakning yuzini toping.
++ 20 sm²
+- 40 sm²
+- 13 sm²
+- 18 sm²
+= 20
+
+? Tomonlari 4 sm va 13 sm bo'lgan to'g'ri to'rtburchak diagonal bo'yicha ikkita uchburchakka bo'lindi. Har bir uchburchakning yuzini toping.
++ 26 sm²
+- 52 sm²
+- 17 sm²
+- 31 sm²
+= 26
+
+? Tomonlari 4 sm va 19 sm bo'lgan to'g'ri to'rtburchak diagonal bo'yicha ikkita uchburchakka bo'lindi. Har bir uchburchakning yuzini toping.
++ 38 sm²
+- 76 sm²
+- 23 sm²
+- 43 sm²
+= 38
+
+? Tomonlari 11 sm va 4 sm bo'lgan to'g'ri to'rtburchak diagonal bo'yicha ikkita uchburchakka bo'lindi. Har bir uchburchakning yuzini toping.
++ 22 sm²
+- 44 sm²
+- 15 sm²
+- 20 sm²
+= 22
+
+? Shakl tomonlari 5 sm va 6 sm bo'lgan to'g'ri to'rtburchak hamda uning 5 sm li tomoniga yopishgan, balandligi 10 sm bo'lgan uchburchakdan tuzilgan. Shaklning yuzini toping.
++ 55 sm²
+- 80 sm²
+- 30 sm²
+- 52 sm²
+= 55
+
+? Shakl tomonlari 19 sm va 10 sm bo'lgan to'g'ri to'rtburchak hamda uning 19 sm li tomoniga yopishgan, balandligi 10 sm bo'lgan uchburchakdan tuzilgan. Shaklning yuzini toping.
++ 285 sm²
+- 380 sm²
+- 190 sm²
+- 295 sm²
+= 285
+
+? Shakl tomonlari 18 sm va 11 sm bo'lgan to'g'ri to'rtburchak hamda uning 18 sm li tomoniga yopishgan, balandligi 12 sm bo'lgan uchburchakdan tuzilgan. Shaklning yuzini toping.
++ 306 sm²
+- 414 sm²
+- 198 sm²
+- 316 sm²
+= 306
+
+? Tomonlari 20 sm va 14 sm bo'lgan to'g'ri to'rtburchak diagonal bo'yicha ikkita uchburchakka bo'lindi. Har bir uchburchakning yuzini toping.
++ 140 sm²
+- 280 sm²
+- 34 sm²
+- 141 sm²
+= 140
+
+? Uchburchakning yuzi 54 sm², asosi 12 sm. Shu asosga tushirilgan balandlikni toping.
++ 9 sm
+- 18 sm
+- 42 sm
+- 8 sm
+= 9
+
+? Uchburchakning asosi 28 sm, shu asosga tushirilgan balandligi 6 sm. Uchburchakning yuzini toping.
++ 84 sm²
+- 168 sm²
+- 34 sm²
+- 68 sm²
+= 84
+
+? Uchburchakning asosi 6 sm, shu asosga tushirilgan balandligi 16 sm. Uchburchakning yuzini toping.
++ 48 sm²
+- 96 sm²
+- 22 sm²
+- 44 sm²
+= 48
+
+? Uchburchakning asosi 3 sm, shu asosga tushirilgan balandligi 12 sm. Uchburchakning yuzini toping.
++ 18 sm²
+- 36 sm²
+- 15 sm²
+- 30 sm²
+= 18
+
+? Uchburchakning yuzi 45 sm², asosi 18 sm. Shu asosga tushirilgan balandlikni toping.
++ 5 sm
+- 10 sm
+- 27 sm
+- 7 sm
+= 5
+
+? Tomonlari 16 sm va 17 sm bo'lgan to'g'ri to'rtburchak diagonal bo'yicha ikkita uchburchakka bo'lindi. Har bir uchburchakning yuzini toping.
++ 136 sm²
+- 272 sm²
+- 33 sm²
+- 126 sm²
+= 136
+
+? Uchburchakning asosi 22 sm, shu asosga tushirilgan balandligi 20 sm. Uchburchakning yuzini toping.
++ 220 sm²
+- 440 sm²
+- 42 sm²
+- 84 sm²
+= 220
+
+? To'g'ri burchakli uchburchakning to'g'ri burchak hosil qilgan tomonlari 24 sm va 4 sm. Uchburchakning yuzini toping.
++ 48 sm²
+- 96 sm²
+- 28 sm²
+- 50 sm²
+= 48
+
+? Uchburchakning asosi 17 sm, shu asosga tushirilgan balandligi 12 sm. Uchburchakning yuzini toping.
++ 102 sm²
+- 204 sm²
+- 29 sm²
+- 58 sm²
+= 102
+
+? Shakl tomonlari 20 sm va 9 sm bo'lgan to'g'ri to'rtburchak hamda uning 20 sm li tomoniga yopishgan, balandligi 7 sm bo'lgan uchburchakdan tuzilgan. Shaklning yuzini toping.
++ 250 sm²
+- 320 sm²
+- 180 sm²
+- 259 sm²
+= 250
+
+## Hajm
+
+? Kuboidning hajmi qanday topiladi?
++ bo'yi × eni × balandligi
+- bo'yi + eni + balandligi
+- bo'yi × eni
+- (bo'yi + eni) × 2
+
+? 1 sm³ necha ml ga teng?
++ 1 ml
+- 10 ml
+- 100 ml
+- 1000 ml
+= 1
+
+? 1 litr necha sm³ ga teng?
++ 1000 sm³
+- 100 sm³
+- 10 sm³
+- 1 000 000 sm³
+= 1000
+
+? 1 m³ necha sm³ ga teng?
++ 1 000 000 sm³
+- 1000 sm³
+- 100 sm³
+- 10 000 sm³
+= 1000000
+
+? Kubning nechta qirrasi bor?
++ 12
+- 6
+- 8
+- 4
+
+? Kubning nechta yog'i bor?
++ 6
+- 8
+- 12
+- 4
+
+? Kubning nechta uchi bor?
++ 8
+- 6
+- 12
+- 4
+
+? O'lchamlari 5 sm × 7 sm × 5 sm bo'lgan kuboid qirrasi 1 sm bo'lgan nechta kubchadan tuzilgan?
++ 175
+- 17
+- 35
+- 177
+
+? Qirrasi 2 sm bo'lgan kubning hajmini toping.
++ 8 sm³
+- 4 sm³
+- 6 sm³
+- 24 sm³
+= 8
+
+? O'lchamlari 5 sm × 8 sm × 9 sm bo'lgan kuboid qirrasi 1 sm bo'lgan nechta kubchadan tuzilgan?
++ 360
+- 22
+- 40
+- 358
+
+? Kuboidning bo'yi 2 sm, eni 15 sm, balandligi 12 sm. Uning hajmini toping.
++ 360 sm³
+- 29 sm³
+- 30 sm³
+- 468 sm³
+= 360
+
+? Qirrasi 11 sm bo'lgan kubning hajmini toping.
++ 1331 sm³
+- 121 sm³
+- 33 sm³
+- 726 sm³
+= 1331
+
+? Kuboidning hajmi 126 sm³, bo'yi 14 sm, eni 3 sm. Uning balandligini toping.
++ 3 sm
+- 42 sm
+- 6 sm
+- 4 sm
+= 3
+
+? Kuboidning bo'yi 18 sm, eni 14 sm, balandligi 12 sm. Uning hajmini toping.
++ 3024 sm³
+- 44 sm³
+- 252 sm³
+- 1272 sm³
+= 3024
+
+? Kuboidning bo'yi 8 sm, eni 12 sm, balandligi 9 sm. Uning hajmini toping.
++ 864 sm³
+- 29 sm³
+- 96 sm³
+- 552 sm³
+= 864
+
+? Qirrasi 10 sm bo'lgan kubning hajmini toping.
++ 1000 sm³
+- 100 sm³
+- 30 sm³
+- 600 sm³
+= 1000
+
+? 433 sm³ necha ml ga teng?
++ 433 ml
+- 4330 ml
+- 433 000 ml
+- 434 ml
+= 433
+
+? Kuboidning hajmi 1152 sm³, bo'yi 12 sm, eni 12 sm. Uning balandligini toping.
++ 8 sm
+- 144 sm
+- 16 sm
+- 9 sm
+= 8
+
+? 4 l necha ml ga teng?
++ 4000 ml
+- 400 ml
+- 40 ml
+- 40 000 ml
+= 4000
+
+? O'lchamlari 7 sm × 3 sm × 2 sm bo'lgan kuboid qirrasi 1 sm bo'lgan nechta kubchadan tuzilgan?
++ 42
+- 12
+- 21
+- 43
+
+? 702 sm³ necha ml ga teng?
++ 702 ml
+- 7020 ml
+- 702 000 ml
+- 704 ml
+= 702
+
+? 6 l necha ml ga teng?
++ 6000 ml
+- 600 ml
+- 60 ml
+- 60 000 ml
+= 6000
+
+? Kuboidning bo'yi 16 sm, eni 3 sm, balandligi 3 sm. Uning hajmini toping.
++ 144 sm³
+- 22 sm³
+- 48 sm³
+- 210 sm³
+= 144
+
+? Kuboidning hajmi 1260 sm³, bo'yi 15 sm, eni 12 sm. Uning balandligini toping.
++ 7 sm
+- 180 sm
+- 14 sm
+- 8 sm
+= 7
+
+? Kuboidning hajmi 1134 sm³, bo'yi 14 sm, eni 9 sm. Uning balandligini toping.
++ 9 sm
+- 126 sm
+- 18 sm
+- 10 sm
+= 9
+
+? Kuboidning hajmi 300 sm³, bo'yi 10 sm, eni 6 sm. Uning balandligini toping.
++ 5 sm
+- 60 sm
+- 10 sm
+- 6 sm
+= 5
+
+? 8 l necha ml ga teng?
++ 8000 ml
+- 800 ml
+- 80 ml
+- 80 000 ml
+= 8000
+
+? Qirrasi 9 sm bo'lgan kubning hajmini toping.
++ 729 sm³
+- 81 sm³
+- 27 sm³
+- 486 sm³
+= 729
+
+? Kuboidning bo'yi 19 sm, eni 10 sm, balandligi 6 sm. Uning hajmini toping.
++ 1140 sm³
+- 35 sm³
+- 190 sm³
+- 728 sm³
+= 1140
+
+? O'lchamlari 3 sm × 8 sm × 7 sm bo'lgan kuboid qirrasi 1 sm bo'lgan nechta kubchadan tuzilgan?
++ 168
+- 18
+- 24
+- 158
+
+? 182 sm³ necha ml ga teng?
++ 182 ml
+- 1820 ml
+- 182 000 ml
+- 184 ml
+= 182
+
+? Qirrasi 12 sm bo'lgan kubning hajmini toping.
++ 1728 sm³
+- 144 sm³
+- 36 sm³
+- 864 sm³
+= 1728
+
+? O'lchamlari 9 sm × 3 sm × 4 sm bo'lgan kuboid qirrasi 1 sm bo'lgan nechta kubchadan tuzilgan?
++ 108
+- 16
+- 27
+- 106
+
+? O'lchamlari 9 sm × 3 sm × 8 sm bo'lgan kuboid qirrasi 1 sm bo'lgan nechta kubchadan tuzilgan?
++ 216
+- 20
+- 27
+- 219
+
+? Kuboidning hajmi 960 sm³, bo'yi 12 sm, eni 10 sm. Uning balandligini toping.
++ 8 sm
+- 120 sm
+- 16 sm
+- 9 sm
+= 8
+
+? Akvariumning bo'yi 25 sm, eni 20 sm. Unga 10 sm balandlikkacha suv quyildi. Akvariumda necha litr suv bor?
++ 5 l
+- 50 l
+- 5000 l
+- 15 l
+= 5
+
+? 832 sm³ necha ml ga teng?
++ 832 ml
+- 8320 ml
+- 832 000 ml
+- 842 ml
+= 832
+
+? Kuboidning hajmi 600 sm³, bo'yi 15 sm, eni 4 sm. Uning balandligini toping.
++ 10 sm
+- 60 sm
+- 20 sm
+- 11 sm
+= 10
+
+? O'lchamlari 6 sm × 7 sm × 8 sm bo'lgan kuboid qirrasi 1 sm bo'lgan nechta kubchadan tuzilgan?
++ 336
+- 21
+- 42
+- 326
+
+? Qirrasi 6 sm bo'lgan kubning hajmini toping.
++ 216 sm³
+- 36 sm³
+- 18 sm³
+- 215 sm³
+= 216
+
+? 249 sm³ necha ml ga teng?
++ 249 ml
+- 2490 ml
+- 249 000 ml
+- 247 ml
+= 249
+
+## Nisbatlar
+
+? Nisbat nimani ko'rsatadi?
++ bir miqdor ikkinchisidan necha marta katta yoki qanday qismini tashkil etishini
+- ikki son yig'indisini
+- ikki son ayirmasini
+- sonning foizini
+
+? Nisbatning ikkala hadini bir xil songa ko'paytirsak nima hosil bo'ladi?
++ teng kuchli nisbat
+- kattaroq nisbat
+- kichikroq nisbat
+- yig'indi
+
+? 2 : 3 nisbatda «2» va «3» nima deyiladi?
++ nisbatning hadlari
+- kasrning maxrajlari
+- ko'paytuvchilar
+- foizlar
+
+? 48 ta konfet Jasur va Dilnoza o'rtasida 3 : 1 nisbatda bo'lindi. Jasur nechta konfet oldi?
++ 36
+- 12
+- 24
+- 37
+
+? Sinfdagi o'g'il bolalar sonining qiz bolalar soniga nisbati 5 : 4. Sinfda 20 ta o'g'il bola bo'lsa, nechta qiz bola bor?
++ 16
+- 24
+- 36
+- 8
+
+? Uchta son 2 : 7 : 6 nisbatda. Ularning yig'indisi 150. Ikkinchi sonni toping.
++ 70
+- 20
+- 60
+- 50
+
+? Sinfdagi o'g'il bolalar sonining qiz bolalar soniga nisbati 6 : 1. Sinfda 36 ta o'g'il bola bo'lsa, nechta qiz bola bor?
++ 6
+- 37
+- 42
+- 7
+
+? Sinfdagi o'g'il bolalar sonining qiz bolalar soniga nisbati 5 : 4. Sinfda 15 ta o'g'il bola bo'lsa, nechta qiz bola bor?
++ 12
+- 19
+- 27
+- 7
+
+? 11 : 77 nisbatni eng sodda ko'rinishda yozing.
++ 1 : 7
+- 7 : 1
+- 2 : 7
+- 11 : 7
+= 1:7
+
+? 77 ta konfet Aziz va Sevara o'rtasida 6 : 1 nisbatda bo'lindi. Aziz nechta konfet oldi?
++ 66
+- 11
+- 67
+- 76
+
+? Uchta son 4 : 2 : 5 nisbatda. Ularning yig'indisi 55. Ikkinchi sonni toping.
++ 10
+- 20
+- 25
+- 12
+
+? 63 : 36 : 18 nisbatni eng sodda ko'rinishda yozing.
++ 7 : 4 : 2
+- 2 : 4 : 7
+- 7 : 4 : 18
+- 8 : 5 : 3
+= 7:4:2
+
+? 119 ta konfet Sevara va Zarina o'rtasida 9 : 8 nisbatda bo'lindi. Sevara nechta konfet oldi?
++ 63
+- 56
+- 64
+- 71
+
+? 24 : 32 : 48 nisbatni eng sodda ko'rinishda yozing.
++ 3 : 4 : 6
+- 6 : 4 : 3
+- 3 : 4 : 48
+- 4 : 5 : 7
+= 3:4:6
+
+? 15 : 12 nisbatni eng sodda ko'rinishda yozing.
++ 5 : 4
+- 4 : 5
+- 6 : 4
+- 15 : 4
+= 5:4
+
+? 35 : 10 : 20 nisbatni eng sodda ko'rinishda yozing.
++ 7 : 2 : 4
+- 4 : 2 : 7
+- 7 : 2 : 20
+- 8 : 3 : 5
+= 7:2:4
+
+? Sinfdagi o'g'il bolalar sonining qiz bolalar soniga nisbati 7 : 4. Sinfda 35 ta o'g'il bola bo'lsa, nechta qiz bola bor?
++ 20
+- 39
+- 55
+- 9
+
+? Uchta son 4 : 1 : 6 nisbatda. Ularning yig'indisi 77. Ikkinchi sonni toping.
++ 7
+- 28
+- 42
+- 9
+
+? 2 : 1 = 10 : ?  Noma'lum sonni toping.
++ 5
+- 6
+- 10
+- 7
+
+? Sinfdagi o'g'il bolalar sonining qiz bolalar soniga nisbati 3 : 8. Sinfda 24 ta o'g'il bola bo'lsa, nechta qiz bola bor?
++ 64
+- 32
+- 88
+- 16
+
+? 132 ta konfet Otabek va Sevara o'rtasida 5 : 6 nisbatda bo'lindi. Otabek nechta konfet oldi?
++ 60
+- 72
+- 66
+- 58
+
+? 36 ta konfet Madina va Otabek o'rtasida 5 : 1 nisbatda bo'lindi. Madina nechta konfet oldi?
++ 30
+- 6
+- 18
+- 31
+
+? 36 : 18 : 30 nisbatni eng sodda ko'rinishda yozing.
++ 6 : 3 : 5
+- 5 : 3 : 6
+- 6 : 3 : 30
+- 7 : 4 : 6
+= 6:3:5
+
+? 7 : 1 = 70 : ?  Noma'lum sonni toping.
++ 10
+- 11
+- 70
+- 13
+
+? 48 ta konfet Jasur va Nodira o'rtasida 9 : 7 nisbatda bo'lindi. Jasur nechta konfet oldi?
++ 27
+- 21
+- 24
+- 34
+
+? Uchta son 3 : 4 : 2 nisbatda. Ularning yig'indisi 45. Ikkinchi sonni toping.
++ 20
+- 15
+- 10
+- 18
+
+? 5 : 4 = 45 : ?  Noma'lum sonni toping.
++ 36
+- 13
+- 45
+- 40
+
+? 42 : 36 : 12 nisbatni eng sodda ko'rinishda yozing.
++ 7 : 6 : 2
+- 2 : 6 : 7
+- 7 : 6 : 12
+- 8 : 7 : 3
+= 7:6:2
+
+? 18 ta konfet Jasur va Aziz o'rtasida 2 : 1 nisbatda bo'lindi. Jasur nechta konfet oldi?
++ 12
+- 6
+- 9
+- 13
+
+? Uchta son 7 : 5 : 6 nisbatda. Ularning yig'indisi 36. Ikkinchi sonni toping.
++ 10
+- 14
+- 12
+- 15
+
+? 2 : 3 = 22 : ?  Noma'lum sonni toping.
++ 33
+- 14
+- 22
+- 36
+
+? 66 ta konfet Malika va Bekzod o'rtasida 1 : 5 nisbatda bo'lindi. Malika nechta konfet oldi?
++ 11
+- 55
+- 33
+- 16
+
+? 1 : 5 = 3 : ?  Noma'lum sonni toping.
++ 15
+- 8
+- 3
+- 20
+
+? 10 : 2 : 6 nisbatni eng sodda ko'rinishda yozing.
++ 5 : 1 : 3
+- 3 : 1 : 5
+- 5 : 1 : 6
+- 6 : 2 : 4
+= 5:1:3
+
+? 1 : 6 = 7 : ?  Noma'lum sonni toping.
++ 42
+- 13
+- 7
+- 48
+
+? 99 ta konfet Malika va Dilnoza o'rtasida 1 : 8 nisbatda bo'lindi. Malika nechta konfet oldi?
++ 11
+- 88
+- 12
+- 19
+
+? 30 : 6 : 36 nisbatni eng sodda ko'rinishda yozing.
++ 5 : 1 : 6
+- 6 : 1 : 5
+- 5 : 1 : 36
+- 6 : 2 : 7
+= 5:1:6
+
+## O'nli kasrlar
+
+? O'nli kasrni 10 ga ko'paytirganda vergul qayerga suriladi?
++ bir xona o'ngga
+- bir xona chapga
+- ikki xona o'ngga
+- surilmaydi
+
+? O'nli kasrni 100 ga bo'lganda vergul qayerga suriladi?
++ ikki xona chapga
+- ikki xona o'ngga
+- bir xona chapga
+- uch xona chapga
+
+? O'nli kasrni 1000 ga ko'paytirganda vergul qayerga suriladi?
++ uch xona o'ngga
+- uch xona chapga
+- ikki xona o'ngga
+- bir xona o'ngga
+
+? 1 kg necha grammga teng?
++ 1000 g
+- 100 g
+- 10 g
+- 10 000 g
+= 1000
+
+? 1 km necha metrga teng?
++ 1000 m
+- 100 m
+- 10 000 m
+- 10 m
+= 1000
+
+? 2,173 km necha metrga teng?
++ 2173 m
+- 21 730 m
+- 21,73 m
+- 217 300 m
+= 2173
+
+? 65,777 · 1000 = ?
++ 65 777
+- 657 770
+- 6577,7
+- 657,77
+= 65777
+
+? 540,4 : 100 = ?
++ 5,404
+- 540,4
+- 54,04
+- 6,404
+
+? 384 : 300 = ?
++ 1,28
+- 0,128
+- 128
+- 1,38
+
+? 665,5 : 1000 = ?
++ 0,6655
+- 1,6655
+- 0,7655
+- 66,55
+
+? 36,463 · 1000 = ?
++ 36 463
+- 36 464
+- 3646,3
+- 36463,1
+= 36463
+
+? 87,955 · 1000 = ?
++ 87 955
+- 87 956
+- 8795,5
+- 879,55
+= 87955
+
+? 31,59 · 10 = ?
++ 315,9
+- 3159
+- 316
+- 316,9
+
+? 3,743 · 10 = ?
++ 37,43
+- 3,743
+- 0,3743
+- 38,43
+
+? 1753 g necha kilogrammga teng?
++ 1,753 kg
+- 0,1753 kg
+- 2,753 kg
+- 1,853 kg
+= 1,753
+
+? 217 sm necha metrga teng?
++ 2,17 m
+- 2,27 m
+- 0,217 m
+- 217 m
+= 2,17
+
+? 247 sm necha metrga teng?
++ 2,47 m
+- 24,7 m
+- 2,57 m
+- 0,0247 m
+= 2,47
+
+? 66,84 · 100 = ?
++ 6684
+- 668 400
+- 66,84
+- 668,4
+
+? 9,34 m necha santimetrga teng?
++ 934 sm
+- 935 sm
+- 93,4 sm
+- 93 400 sm
+= 934
+
+? 0,16 · 80 = ?
++ 12,8
+- 0,128
+- 13,8
+- 128
+
+? 787,2 · 100 = ?
++ 78 720
+- 787 200
+- 7 872 000
+- 7872
+= 78720
+
+? 189 : 20 = ?
++ 9,45
+- 0,0945
+- 10,45
+- 0,945
+
+? 3,59 · 60 = ?
++ 215,4
+- 2154
+- 21,54
+- 21 540
+
+? 34,545 · 1000 = ?
++ 34 545
+- 345 450
+- 3 454 500
+- 345,45
+= 34545
+
+? 763,5 : 1000 = ?
++ 0,7635
+- 76,35
+- 0,07635
+- 1,7635
+
+? 597,8 : 70 = ?
++ 8,54
+- 8,64
+- 9,54
+- 0,0854
+
+? 8,855 · 1000 = ?
++ 8855
+- 8856
+- 88 550
+- 8855,1
+
+? 3640 : 500 = ?
++ 7,28
+- 72,8
+- 0,0728
+- 728
+
+? 3,61 · 40 = ?
++ 144,4
+- 14 440
+- 14,44
+- 144,5
+
+? 56,96 · 1000 = ?
++ 56 960
+- 569,6
+- 569 600
+- 56 961
+= 56960
+
+? 1,17 · 300 = ?
++ 351
+- 35 100
+- 352
+- 3510
+
+? 92,911 · 1000 = ?
++ 92 911
+- 92 912
+- 929 110
+- 9 291 100
+= 92911
+
+? 31,11 · 100 = ?
++ 3111
+- 311 100
+- 31,11
+- 3112
+
+? 264 : 600 = ?
++ 0,44
+- 44
+- 0,0044
+- 0,044
+
+? 3654 ml necha litrga teng?
++ 3,654 l
+- 0,03654 l
+- 3,754 l
+- 365,4 l
+= 3,654
+
+? 0,61 · 600 = ?
++ 366
+- 36,6
+- 3,66
+- 366,1
+
+? 3,89 · 600 = ?
++ 2334
+- 233 400
+- 233,4
+- 2334,1
+
+? 0,77 · 1000 = ?
++ 770
+- 77 000
+- 7,7
+- 770,1
+
+? 422,1 : 1000 = ?
++ 0,4221
+- 42,21
+- 0,004221
+- 0,04221
+
+## Me'yor
+
+? Bitta narsaning narxi (yoki bir birlikka to'g'ri keladigan miqdor) nima deyiladi?
++ me'yor
+- nisbat
+- foiz
+- o'rtacha qiymat
+
+? Me'yorni bilgan holda umumiy miqdor qanday topiladi?
++ me'yor birliklar soniga ko'paytiriladi
+- me'yor birliklar soniga bo'linadi
+- me'yorga birliklar soni qo'shiladi
+- me'yordan birliklar soni ayriladi
+
+? Umumiy miqdor va me'yor ma'lum bo'lsa, birliklar soni qanday topiladi?
++ umumiy miqdor me'yorga bo'linadi
+- umumiy miqdor me'yorga ko'paytiriladi
+- ular qo'shiladi
+- ular ayriladi
+
+? 1 ta ruchka 5500 so'm turadi. 11 ta ruchka necha so'm turadi?
++ 60 500 so'm
+- 5511 so'm
+- 66 000 so'm
+- 55 000 so'm
+= 60500 | 60 500
+
+? 1 ta kitob 8500 so'm turadi. 127 500 so'mga nechta kitob sotib olish mumkin?
++ 15
+- 16
+- 150
+- 14
+
+? Usta 5 soatda 70 ta detal tayyorlaydi. U 6 soatda nechta detal tayyorlaydi?
++ 84
+- 420
+- 20
+- 98
+
+? 2 ta non 15 000 so'm turadi. Shunday 11 ta non necha so'm turadi?
++ 82 500 so'm
+- 165 000 so'm
+- 22 500 so'm
+- 90 000 so'm
+= 82500 | 82 500
+
+? Usta 6 soatda 78 ta detal tayyorlaydi. U 5 soatda nechta detal tayyorlaydi?
++ 65
+- 390
+- 18
+- 78
+
+? Avtomobil 6 soatda 180 km yo'l yurdi. U shunday tezlik bilan 7 soatda necha km yo'l yuradi?
++ 210 km
+- 1260 km
+- 240 km
+- 209 km
+= 210
+
+? 1 ta non 10 000 so'm turadi. 130 000 so'mga nechta non sotib olish mumkin?
++ 13
+- 14
+- 130
+- 12
+
+? 5 ta ruchka 12 500 so'm turadi. Shunday 10 ta ruchka necha so'm turadi?
++ 25 000 so'm
+- 125 000 so'm
+- 15 000 so'm
+- 27 500 so'm
+= 25000 | 25 000
+
+? 7 ta non 17 500 so'm turadi. Shunday 4 ta non necha so'm turadi?
++ 10 000 so'm
+- 70 000 so'm
+- 20 000 so'm
+- 12 500 so'm
+= 10000 | 10 000
+
+? 1 ta ruchka 14 000 so'm turadi. 4 ta ruchka necha so'm turadi?
++ 56 000 so'm
+- 14 004 so'm
+- 70 000 so'm
+- 42 000 so'm
+= 56000 | 56 000
+
+? 6 ta daftar 21 000 so'm turadi. 1 ta daftar necha so'm turadi?
++ 3500 so'm
+- 126 000 so'm
+- 4500 so'm
+- 7000 so'm
+= 3500
+
+? 1 ta ruchka 4000 so'm turadi. 4 ta ruchka necha so'm turadi?
++ 16 000 so'm
+- 4004 so'm
+- 20 000 so'm
+- 12 000 so'm
+= 16000 | 16 000
+
+? 9 ta kitob 45 000 so'm turadi. 1 ta kitob necha so'm turadi?
++ 5000 so'm
+- 405 000 so'm
+- 6000 so'm
+- 10 000 so'm
+= 5000
+
+? 6 ta kitob 84 000 so'm turadi. 1 ta kitob necha so'm turadi?
++ 14 000 so'm
+- 504 000 so'm
+- 15 000 so'm
+- 28 000 so'm
+= 14000 | 14 000
+
+? Usta 7 soatda 42 ta detal tayyorlaydi. U 5 soatda nechta detal tayyorlaydi?
++ 30
+- 210
+- 11
+- 36
+
+? Avtomobil 3 soatda 60 km yo'l yurdi. U shunday tezlik bilan 8 soatda necha km yo'l yuradi?
++ 160 km
+- 480 km
+- 80 km
+- 180 km
+= 160
+
+? 1 ta kitob 9500 so'm turadi. 142 500 so'mga nechta kitob sotib olish mumkin?
++ 15
+- 16
+- 150
+- 14
+
+? Usta 5 soatda 60 ta detal tayyorlaydi. U 4 soatda nechta detal tayyorlaydi?
++ 48
+- 240
+- 16
+- 60
+
+? 1 ta ruchka 9500 so'm turadi. 3 ta ruchka necha so'm turadi?
++ 28 500 so'm
+- 9503 so'm
+- 38 000 so'm
+- 19 000 so'm
+= 28500 | 28 500
+
+? Usta 6 soatda 18 ta detal tayyorlaydi. U 5 soatda nechta detal tayyorlaydi?
++ 15
+- 90
+- 8
+- 18
+
+? 8 ta daftar 36 000 so'm turadi. Shunday 3 ta daftar necha so'm turadi?
++ 13 500 so'm
+- 108 000 so'm
+- 40 500 so'm
+- 18 000 so'm
+= 13500 | 13 500
+
+? 1 ta daftar 5500 so'm turadi. 60 500 so'mga nechta daftar sotib olish mumkin?
++ 11
+- 12
+- 110
+- 10
+
+? 5 ta non 15 000 so'm turadi. Shunday 8 ta non necha so'm turadi?
++ 24 000 so'm
+- 120 000 so'm
+- 18 000 so'm
+- 27 000 so'm
+= 24000 | 24 000
+
+? Avtomobil 4 soatda 80 km yo'l yurdi. U shunday tezlik bilan 9 soatda necha km yo'l yuradi?
++ 180 km
+- 720 km
+- 100 km
+- 200 km
+= 180
+
+? 6 ta daftar 15 000 so'm turadi. 1 ta daftar necha so'm turadi?
++ 2500 so'm
+- 90 000 so'm
+- 3500 so'm
+- 5000 so'm
+= 2500
+
+? 1 ta kitob 8500 so'm turadi. 17 000 so'mga nechta kitob sotib olish mumkin?
++ 2
+- 3
+- 20
+- 1
+
+? 3 ta kitob 6000 so'm turadi. 1 ta kitob necha so'm turadi?
++ 2000 so'm
+- 18 000 so'm
+- 3000 so'm
+- 4000 so'm
+= 2000
+
+? 4 ta non 34 000 so'm turadi. Shunday 3 ta non necha so'm turadi?
++ 25 500 so'm
+- 102 000 so'm
+- 42 500 so'm
+- 34 000 so'm
+= 25500 | 25 500
+
+? 1 ta non 9000 so'm turadi. 27 000 so'mga nechta non sotib olish mumkin?
++ 3
+- 4
+- 30
+- 2
+
+? Usta 6 soatda 66 ta detal tayyorlaydi. U 9 soatda nechta detal tayyorlaydi?
++ 99
+- 594
+- 20
+- 110
+
+? 1 ta daftar 6000 so'm turadi. 78 000 so'mga nechta daftar sotib olish mumkin?
++ 13
+- 14
+- 130
+- 12
+
+? 6 ta daftar 54 000 so'm turadi. Shunday 12 ta daftar necha so'm turadi?
++ 108 000 so'm
+- 648 000 so'm
+- 63 000 so'm
+- 117 000 so'm
+= 108000 | 108 000
+
+? 5 ta daftar 10 000 so'm turadi. 1 ta daftar necha so'm turadi?
++ 2000 so'm
+- 50 000 so'm
+- 3000 so'm
+- 4000 so'm
+= 2000
+
+? 5 ta kitob 40 000 so'm turadi. Shunday 4 ta kitob necha so'm turadi?
++ 32 000 so'm
+- 160 000 so'm
+- 48 000 so'm
+- 40 000 so'm
+= 32000 | 32 000
+
+## Foizlar
+
+? 1% bu…
++ sonning yuzdan bir qismi
+- sonning o'ndan bir qismi
+- sonning mingdan bir qismi
+- sonning yarmi
+
+? Butun miqdor necha foizga teng?
++ 100%
+- 10%
+- 50%
+- 1000%
+= 100
+
+? QQS nimani bildiradi?
++ qo'shilgan qiymat solig'i
+- qo'shimcha qarz summasi
+- qolgan qism summasi
+- qisqa qarz shartnomasi
+
+? Omonatga 7 500 000 so'm yillik 22% bilan qo'yildi. 1 yildan keyin omonatda necha so'm bo'ladi?
++ 9 150 000 so'm
+- 1 650 000 so'm
+- 5 850 000 so'm
+- 7 720 000 so'm
+= 9150000 | 9 150 000
+
+? Mahsulotning QQSsiz narxi 1 350 000 so'm. QQS 12%. Mahsulotning QQS bilan narxini toping.
++ 1 512 000 so'm
+- 162 000 so'm
+- 1 188 000 so'm
+- 1 362 000 so'm
+= 1512000 | 1 512 000
+
+? 900 ning 30% ini toping.
++ 270
+- 899
+- 630
+- 30
+
+? Mahsulotning QQSsiz narxi 1 700 000 so'm. QQS 12%. Mahsulotning QQS bilan narxini toping.
++ 1 904 000 so'm
+- 204 000 so'm
+- 1 496 000 so'm
+- 1 712 000 so'm
+= 1904000 | 1 904 000
+
+? 260 ning 60% ini toping.
++ 156
+- 259
+- 104
+- 60
+
+? 1140 ning 60% ini toping.
++ 684
+- 1139
+- 456
+- 60
+
+? Mahsulotning QQSsiz narxi 1 900 000 so'm. QQS 12%. Mahsulotning QQS bilan narxini toping.
++ 2 128 000 so'm
+- 228 000 so'm
+- 1 672 000 so'm
+- 1 912 000 so'm
+= 2128000 | 2 128 000
+
+? 65% ni o'nli kasr ko'rinishida yozing.
++ 0,65
+- 0,75
+- 1,65
+- 65
+
+? Omonatga 3 500 000 so'm yillik 22% bilan qo'yildi. 1 yildan keyin omonatda necha so'm bo'ladi?
++ 4 270 000 so'm
+- 770 000 so'm
+- 2 730 000 so'm
+- 3 720 000 so'm
+= 4270000 | 4 270 000
+
+? 960 ning 5% ini toping.
++ 48
+- 480
+- 912
+- 5
+
+? Omonatga 2 000 000 so'm yillik 20% bilan qo'yildi. 1 yildan keyin omonatda necha so'm bo'ladi?
++ 2 400 000 so'm
+- 400 000 so'm
+- 1 600 000 so'm
+- 2 200 000 so'm
+= 2400000 | 2 400 000
+
+? Kurtka narxi 230 000 so'm edi. Chegirma 40% bo'ldi. Chegirmadan keyin kurtka necha so'm turadi?
++ 138 000 so'm
+- 92 000 so'm
+- 322 000 so'm
+- 190 000 so'm
+= 138000 | 138 000
+
+? Mahsulotning QQSsiz narxi 1 225 000 so'm. QQS 12% bo'lsa, QQS miqdori necha so'm?
++ 147 000 so'm
+- 1 372 000 so'm
+- 1 470 000 so'm
+- 148 000 so'm
+= 147000 | 147 000
+
+? Omonatga 10 000 000 so'm yillik 15% bilan qo'yildi. 1 yildan keyin omonatda necha so'm bo'ladi?
++ 11 500 000 so'm
+- 1 500 000 so'm
+- 8 500 000 so'm
+- 10 150 000 so'm
+= 11500000 | 11 500 000
+
+? Mahsulotning QQSsiz narxi 1 975 000 so'm. QQS 12%. Mahsulotning QQS bilan narxini toping.
++ 2 212 000 so'm
+- 237 000 so'm
+- 1 738 000 so'm
+- 1 987 000 so'm
+= 2212000 | 2 212 000
+
+? Omonatga 500 000 so'm yillik 10% bilan qo'yildi. 1 yildan keyin omonatda necha so'm bo'ladi?
++ 550 000 so'm
+- 50 000 so'm
+- 450 000 so'm
+- 600 000 so'm
+= 550000 | 550 000
+
+? 1280 ning 10% ini toping.
++ 128
+- 1279
+- 1152
+- 10
+
+? Mahsulotning QQSsiz narxi 1 800 000 so'm. QQS 12% bo'lsa, QQS miqdori necha so'm?
++ 216 000 so'm
+- 2 016 000 so'm
+- 2 160 000 so'm
+- 150 000 so'm
+= 216000 | 216 000
+
+? 20% ni qisqarmas oddiy kasr ko'rinishida yozing.
++ 1/5
+- 1/20
+- 2/5
+- 3/5
+= 0,2
+
+? 0,8 o'nli kasrni foizda ifodalang.
++ 80%
+- 800%
+- 8%
+- 85%
+= 80
+
+? 94% ni o'nli kasr ko'rinishida yozing.
++ 0,94
+- 1,94
+- 1,04
+- 9,4
+
+? Omonatga 8 500 000 so'm yillik 25% bilan qo'yildi. 1 yildan keyin omonatda necha so'm bo'ladi?
++ 10 625 000 so'm
+- 2 125 000 so'm
+- 6 375 000 so'm
+- 8 750 000 so'm
+= 10625000 | 10 625 000
+
+? 0,3 o'nli kasrni foizda ifodalang.
++ 30%
+- 300%
+- 3%
+- 35%
+= 30
+
+? 9/10 kasrni foizda ifodalang.
++ 90%
+- 900%
+- 9%
+- 95%
+= 90
+
+? 99% ni o'nli kasr ko'rinishida yozing.
++ 0,99
+- 9,9
+- 99
+- 0,0099
+
+? 120 soni 200 ning necha foizini tashkil etadi?
++ 60%
+- 600%
+- 6%
+- 65%
+= 60
+
+? 200 soni 400 ning necha foizini tashkil etadi?
++ 50%
+- 500%
+- 5%
+- 55%
+= 50
+
+? Mahsulotning QQSsiz narxi 500 000 so'm. QQS 12% bo'lsa, QQS miqdori necha so'm?
++ 60 000 so'm
+- 560 000 so'm
+- 600 000 so'm
+- 61 000 so'm
+= 60000 | 60 000
+
+? 145% ni o'nli kasr ko'rinishida yozing.
++ 1,45
+- 145
+- 0,145
+- 1,55
+
+? Omonatga 3 500 000 so'm yillik 15% bilan qo'yildi. 1 yildan keyin omonatda necha so'm bo'ladi?
++ 4 025 000 so'm
+- 525 000 so'm
+- 2 975 000 so'm
+- 3 650 000 so'm
+= 4025000 | 4 025 000
+
+? 10% ni qisqarmas oddiy kasr ko'rinishida yozing.
++ 1/10
+- 1/5
+- 3/10
+- 2/5
+= 0,1
+
+? Kurtka narxi 550 000 so'm edi. Chegirma 30% bo'ldi. Chegirmadan keyin kurtka necha so'm turadi?
++ 385 000 so'm
+- 165 000 so'm
+- 715 000 so'm
+- 520 000 so'm
+= 385000 | 385 000
+
+? 5 soni 20 ning necha foizini tashkil etadi?
++ 25%
+- 250%
+- 2%
+- 30%
+= 25
+
+? Mahsulotning QQSsiz narxi 200 000 so'm. QQS 12% bo'lsa, QQS miqdori necha so'm?
++ 24 000 so'm
+- 224 000 so'm
+- 240 000 so'm
+- 25 000 so'm
+= 24000 | 24 000
+
+## O'rtacha qiymat
+
+? O'rtacha qiymat qanday topiladi?
++ miqdorlar yig'indisi ularning soniga bo'linadi
+- eng katta va eng kichik son qo'shiladi
+- miqdorlar ko'paytiriladi
+- eng katta son olinadi
+
+? O'rtacha qiymat va miqdorlar soni ma'lum bo'lsa, yig'indi qanday topiladi?
++ o'rtacha qiymat soniga ko'paytiriladi
+- o'rtacha qiymat soniga bo'linadi
+- ular qo'shiladi
+- ular ayriladi
+
+? 6 ta sonning o'rtacha qiymati 25. Bu sonlarning yig'indisini toping.
++ 150
+- 31
+- 125
+- 175
+
+? Sonlarning o'rtacha qiymatini toping: 16, 57, 40, 92, 50.
++ 51
+- 255
+- 53
+- 92
+
+? Sonlarning o'rtacha qiymatini toping: 72, 8, 79.
++ 53
+- 159
+- 55
+- 79
+
+? Sonlarning o'rtacha qiymatini toping: 79, 79, 9, 58, 83, 28.
++ 56
+- 336
+- 58
+- 83
+
+? 7 ta sonning o'rtacha qiymati 30. Bu sonlarning yig'indisini toping.
++ 210
+- 37
+- 180
+- 240
+
+? Aziz 5 ta testdan quyidagi ballarni oldi: 9, 6, 10, 10, 10. U o'rtacha necha ball olgan?
++ 9
+- 45
+- 10
+- 8
+
+? 5 ta sonning o'rtacha qiymati 54. Ulardan 4 tasi: 50, 29, 46, 23. Qolgan sonni toping.
++ 122
+- 54
+- 270
+- 176
+
+? Bir nechta kitobning o'rtacha narxi 7000 so'm, umumiy narxi 56 000 so'm. Nechta kitob bor?
++ 8
+- 9
+- 16
+- 7
+
+? Bir nechta kitobning o'rtacha narxi 12 000 so'm, umumiy narxi 144 000 so'm. Nechta kitob bor?
++ 12
+- 13
+- 24
+- 11
+
+? 5 ta sonning o'rtacha qiymati 71. Bu sonlarning yig'indisini toping.
++ 355
+- 76
+- 284
+- 426
+
+? 5 ta sonning o'rtacha qiymati 67. Bu sonlarning yig'indisini toping.
++ 335
+- 72
+- 268
+- 402
+
+? 3 ta sonning o'rtacha qiymati 21. Ulardan 2 tasi: 16, 12. Qolgan sonni toping.
++ 35
+- 21
+- 63
+- 56
+
+? Zarina 4 ta testdan quyidagi ballarni oldi: 9, 7, 6, 10. U o'rtacha necha ball olgan?
++ 8
+- 32
+- 9
+- 7
+
+? Bir hafta davomida havo harorati (°C): 21, 32, 30, 17, 29, 29, 10. O'rtacha haroratni toping.
++ 24°C
+- 168°C
+- 32°C
+- 10°C
+= 24
+
+? Sonlarning o'rtacha qiymatini toping: 91, 80, 91, 78.
++ 85
+- 340
+- 87
+- 91
+
+? 7 ta sonning o'rtacha qiymati 80. Bu sonlarning yig'indisini toping.
++ 560
+- 87
+- 480
+- 640
+
+? 5 ta sonning o'rtacha qiymati 67. Ulardan 4 tasi: 28, 75, 43, 73. Qolgan sonni toping.
++ 116
+- 67
+- 335
+- 183
+
+? Bir nechta kitobning o'rtacha narxi 33 000 so'm, umumiy narxi 165 000 so'm. Nechta kitob bor?
++ 5
+- 6
+- 10
+- 4
+
+? Dilnoza 3 ta testdan quyidagi ballarni oldi: 9, 10, 5. U o'rtacha necha ball olgan?
++ 8
+- 24
+- 9
+- 7
+
+? Bir nechta kitobning o'rtacha narxi 21 000 so'm, umumiy narxi 252 000 so'm. Nechta kitob bor?
++ 12
+- 13
+- 24
+- 11
+
+? Sonlarning o'rtacha qiymatini toping: 41, 77, 90, 100.
++ 77
+- 308
+- 79
+- 100
+
+? 7 ta sonning o'rtacha qiymati 88. Bu sonlarning yig'indisini toping.
++ 616
+- 95
+- 528
+- 704
+
+? Ali 3 ta testdan quyidagi ballarni oldi: 10, 7, 10. U o'rtacha necha ball olgan?
++ 9
+- 27
+- 10
+- 8
+
+? 5 ta sonning o'rtacha qiymati 34. Ulardan 4 tasi: 39, 60, 36, 29. Qolgan sonni toping.
++ 6
+- 34
+- 170
+- 40
+
+? 8 ta sonning o'rtacha qiymati 55. Bu sonlarning yig'indisini toping.
++ 440
+- 63
+- 385
+- 495
+
+? Sonlarning o'rtacha qiymatini toping: 71, 50, 17, 39, 78.
++ 51
+- 255
+- 53
+- 78
+
+? Bir nechta kitobning o'rtacha narxi 24 000 so'm, umumiy narxi 48 000 so'm. Nechta kitob bor?
++ 2
+- 3
+- 4
+- 1
+
+? 4 ta sonning o'rtacha qiymati 19. Bu sonlarning yig'indisini toping.
++ 76
+- 23
+- 57
+- 95
+
+? 3 ta sonning o'rtacha qiymati 6. Bu sonlarning yig'indisini toping.
++ 18
+- 9
+- 12
+- 24
+
+? Sonlarning o'rtacha qiymatini toping: 80, 71, 49, 52.
++ 63
+- 252
+- 84
+- 80
+
+? Sonlarning o'rtacha qiymatini toping: 8, 56, 59.
++ 41
+- 123
+- 43
+- 59
+
+? 3 ta sonning o'rtacha qiymati 50. Ulardan 2 tasi: 14, 16. Qolgan sonni toping.
++ 120
+- 50
+- 150
+- 170
+
+? 4 ta sonning o'rtacha qiymati 87. Bu sonlarning yig'indisini toping.
++ 348
+- 91
+- 261
+- 435
+
+? Sonlarning o'rtacha qiymatini toping: 90, 62, 41, 19.
++ 53
+- 212
+- 55
+- 90
+
+## Burchaklar
+
+? To'g'ri chiziqda bir nuqtada yonma-yon joylashgan burchaklar yig'indisi necha gradus?
++ 180°
+- 90°
+- 360°
+- 270°
+= 180
+
+? Bir nuqta atrofidagi burchaklar yig'indisi necha gradus?
++ 360°
+- 180°
+- 90°
+- 270°
+= 360
+
+? Vertikal burchaklar haqida qaysi gap to'g'ri?
++ vertikal burchaklar o'zaro teng
+- ularning yig'indisi 90°
+- ularning yig'indisi 360°
+- biri doim o'tmas
+
+? To'g'ri burchak necha gradus?
++ 90°
+- 180°
+- 45°
+- 360°
+= 90
+
+? O'tkir burchak qanday burchak?
++ 90° dan kichik
+- 90° ga teng
+- 90° dan katta, 180° dan kichik
+- 180° ga teng
+
+? 108° li burchak qanday burchak?
++ o'tmas
+- o'tkir
+- to'g'ri
+- yoyiq
+
+? Ikkita burchak to'g'ri chiziqda yonma-yon joylashgan. Ulardan biri 161°. Ikkinchisini toping.
++ 19°
+- 199°
+- 71°
+- 161°
+= 19
+
+? Ikki to'g'ri chiziq kesishganda hosil bo'lgan burchaklardan biri 44°. Unga qo'shni (yonma-yon) burchakni toping.
++ 136°
+- 44°
+- 316°
+- 116°
+= 136
+
+? To'g'ri chiziqda bir nuqtada uchta burchak yonma-yon joylashgan: 22°, 57° va x. x ni toping.
++ 101°
+- 281°
+- 79°
+- 68°
+= 101
+
+? To'g'ri chiziqda bir nuqtada uchta burchak yonma-yon joylashgan: 62°, 31° va x. x ni toping.
++ 87°
+- 267°
+- 93°
+- 28°
+= 87
+
+? Ikkita burchak to'g'ri chiziqda yonma-yon joylashgan. Ulardan biri 31°. Ikkinchisini toping.
++ 149°
+- 329°
+- 59°
+- 31°
+= 149
+
+? Ikki to'g'ri chiziq kesishganda hosil bo'lgan burchaklardan biri 133°. Unga vertikal burchakni toping.
++ 133°
+- 47°
+- 227°
+- 90°
+= 133
+
+? To'g'ri chiziqda bir nuqtada uchta burchak yonma-yon joylashgan: 68°, 74° va x. x ni toping.
++ 38°
+- 218°
+- 142°
+- 22°
+= 38
+
+? 32° li burchak qanday burchak?
++ o'tkir
+- to'g'ri
+- o'tmas
+- yoyiq
+
+? Ikki to'g'ri chiziq kesishganda hosil bo'lgan burchaklardan biri 160°. Unga qo'shni (yonma-yon) burchakni toping.
++ 20°
+- 160°
+- 200°
+- 22°
+= 20
+
+? Ikki to'g'ri chiziq kesishganda hosil bo'lgan burchaklardan biri 128°. Unga qo'shni (yonma-yon) burchakni toping.
++ 52°
+- 128°
+- 232°
+- 47°
+= 52
+
+? 90° li burchak qanday burchak?
++ to'g'ri
+- o'tkir
+- o'tmas
+- yoyiq
+
+? Bir nuqta atrofida burchaklar joylashgan: 69°, 90°, 65°, 75° va x. x ni toping.
++ 61°
+- 71°
+- 299°
+- 58°
+= 61
+
+? Bir nuqta atrofida burchaklar joylashgan: 44°, 46° va x. x ni toping.
++ 270°
+- 90°
+- 280°
+- 275°
+= 270
+
+? 45° li burchak qanday burchak?
++ o'tkir
+- to'g'ri
+- o'tmas
+- yoyiq
+
+? To'g'ri chiziqda bir nuqtada uchta burchak yonma-yon joylashgan: 30°, 27° va x. x ni toping.
++ 123°
+- 303°
+- 57°
+- 60°
+= 123
+
+? To'g'ri chiziqda bir nuqtada uchta burchak yonma-yon joylashgan: 29°, 51° va x. x ni toping.
++ 100°
+- 280°
+- 80°
+- 61°
+= 100
+
+? Ikki to'g'ri chiziq kesishganda hosil bo'lgan burchaklardan biri 27°. Unga vertikal burchakni toping.
++ 27°
+- 153°
+- 333°
+- 90°
+= 27
+
+? To'g'ri chiziqda yonma-yon joylashgan ikki burchakdan biri ikkinchisidan 30° katta. Kattasini toping.
++ 105°
+- 75°
+- 150°
+- 120°
+= 105
+
+? Bir nuqta atrofida burchaklar joylashgan: 69°, 69° va x. x ni toping.
++ 222°
+- 42°
+- 138°
+- 223°
+= 222
+
+? To'g'ri chiziqda bir nuqtada uchta burchak yonma-yon joylashgan: 72°, 32° va x. x ni toping.
++ 76°
+- 256°
+- 104°
+- 18°
+= 76
+
+? Ikki to'g'ri chiziq kesishganda hosil bo'lgan burchaklardan biri 164°. Unga qo'shni (yonma-yon) burchakni toping.
++ 16°
+- 164°
+- 196°
+- 18°
+= 16
+
+? Ikki to'g'ri chiziq kesishganda hosil bo'lgan burchaklardan biri 105°. Unga qo'shni (yonma-yon) burchakni toping.
++ 75°
+- 105°
+- 255°
+- 77°
+= 75
+
+? Ikki to'g'ri chiziq kesishganda hosil bo'lgan burchaklardan biri 28°. Unga qo'shni (yonma-yon) burchakni toping.
++ 152°
+- 28°
+- 332°
+- 147°
+= 152
+
+? Bir nuqta atrofida burchaklar joylashgan: 105°, 43° va x. x ni toping.
++ 212°
+- 32°
+- 148°
+- 211°
+= 212
+
+? 166° li burchak qanday burchak?
++ o'tmas
+- o'tkir
+- to'g'ri
+- yoyiq
+
+? Ikki to'g'ri chiziq kesishganda hosil bo'lgan burchaklardan biri 43°. Unga vertikal burchakni toping.
++ 43°
+- 137°
+- 317°
+- 90°
+= 43
+
+? Ikki to'g'ri chiziq kesishganda hosil bo'lgan burchaklardan biri 140°. Unga vertikal burchakni toping.
++ 140°
+- 40°
+- 220°
+- 90°
+= 140
+
+? 180° li burchak qanday burchak?
++ yoyiq
+- o'tkir
+- to'g'ri
+- o'tmas
+
+? To'g'ri chiziqda bir nuqtada uchta burchak yonma-yon joylashgan: 31°, 30° va x. x ni toping.
++ 119°
+- 299°
+- 61°
+- 59°
+= 119
+
+? Ikkita burchak to'g'ri chiziqda yonma-yon joylashgan. Ulardan biri 75°. Ikkinchisini toping.
++ 105°
+- 285°
+- 15°
+- 75°
+= 105
+
+? Ikkita burchak to'g'ri chiziqda yonma-yon joylashgan. Ulardan biri 36°. Ikkinchisini toping.
++ 144°
+- 324°
+- 54°
+- 36°
+= 144
+
+? Ikkita burchak to'g'ri chiziqda yonma-yon joylashgan. Ulardan biri 44°. Ikkinchisini toping.
++ 136°
+- 316°
+- 46°
+- 44°
+= 136
+
+? To'g'ri chiziqda yonma-yon joylashgan ikki burchakdan biri ikkinchisidan 10° katta. Kattasini toping.
++ 95°
+- 85°
+- 170°
+- 100°
+= 95
+
+## Uchburchakning xossalari
+
+? Uchburchak ichki burchaklarining yig'indisi necha gradus?
++ 180°
+- 360°
+- 90°
+- 270°
+= 180
+
+? Teng tomonli uchburchakning har bir burchagi necha gradus?
++ 60°
+- 90°
+- 45°
+- 30°
+= 60
+
+? Teng yonli uchburchakning asosidagi burchaklari haqida qaysi gap to'g'ri?
++ ular o'zaro teng
+- ularning yig'indisi 180°
+- biri to'g'ri burchak
+- ular doim 60°
+
+? Uchburchakda nechta o'tmas burchak bo'lishi mumkin?
++ ko'pi bilan bitta
+- ikkita
+- uchta
+- bitta ham bo'lmaydi
+
+? To'g'ri burchakli uchburchakning o'tkir burchaklari yig'indisi necha gradus?
++ 90°
+- 180°
+- 60°
+- 45°
+= 90
+
+? Teng yonli uchburchakning asosidagi burchagi 75°. Uning uchidagi burchagini toping.
++ 30°
+- 105°
+- 75°
+- 15°
+= 30
+
+? Burchaklari 98°, 42° va 40° bo'lgan uchburchak qanday uchburchak?
++ o'tmas burchakli
+- o'tkir burchakli
+- to'g'ri burchakli
+- yoyiq burchakli
+
+? Teng yonli uchburchakning yon tomoni 8 sm, asosi 5 sm. Uning perimetrini toping.
++ 21 sm
+- 18 sm
+- 13 sm
+- 40 sm
+= 21
+
+? Tomonlari 8 sm, 8 sm va 8 sm bo'lgan uchburchak qanday uchburchak?
++ teng tomonli
+- teng yonli, lekin teng tomonli emas
+- to'g'ri burchakli
+- o'tmas burchakli
+
+? To'g'ri burchakli uchburchakning o'tkir burchaklaridan biri 50°. Ikkinchi o'tkir burchagini toping.
++ 40°
+- 130°
+- 50°
+- 140°
+= 40
+
+? To'g'ri burchakli uchburchakning o'tkir burchaklaridan biri 57°. Ikkinchi o'tkir burchagini toping.
++ 33°
+- 123°
+- 57°
+- 147°
+= 33
+
+? Teng yonli uchburchakning asosidagi burchagi 61°. Uning uchidagi burchagini toping.
++ 58°
+- 119°
+- 61°
+- 29°
+= 58
+
+? Burchaklari 30°, 85° va 65° bo'lgan uchburchak qanday uchburchak?
++ o'tkir burchakli
+- to'g'ri burchakli
+- o'tmas burchakli
+- yoyiq burchakli
+
+? To'g'ri burchakli uchburchakning o'tkir burchaklaridan biri 24°. Ikkinchi o'tkir burchagini toping.
++ 66°
+- 156°
+- 24°
+- 114°
+= 66
+
+? Uchburchakning ikki burchagi 36° va 74°. Uchinchi burchagini toping.
++ 70°
+- 250°
+- 110°
+- 20°
+= 70
+
+? Burchaklari 70°, 27° va 83° bo'lgan uchburchak qanday uchburchak?
++ o'tkir burchakli
+- to'g'ri burchakli
+- o'tmas burchakli
+- yoyiq burchakli
+
+? Tomonlari 9 sm, 9 sm va 2 sm bo'lgan uchburchak qanday uchburchak?
++ teng yonli
+- teng tomonli
+- to'g'ri burchakli
+- yoyiq burchakli
+
+? Teng yonli uchburchakning asosidagi burchagi 60°. Uning uchidagi burchagini toping.
++ 60°
+- 120°
+- 30°
+- 58°
+= 60
+
+? Teng yonli uchburchakning yon tomoni 4 sm, asosi 3 sm. Uning perimetrini toping.
++ 11 sm
+- 10 sm
+- 7 sm
+- 12 sm
+= 11
+
+? Teng yonli uchburchakning asosidagi burchagi 66°. Uning uchidagi burchagini toping.
++ 48°
+- 114°
+- 66°
+- 24°
+= 48
+
+? To'g'ri burchakli uchburchakning o'tkir burchaklaridan biri 35°. Ikkinchi o'tkir burchagini toping.
++ 55°
+- 145°
+- 35°
+- 125°
+= 55
+
+? Teng yonli uchburchakning asosidagi burchagi 65°. Uning uchidagi burchagini toping.
++ 50°
+- 115°
+- 65°
+- 25°
+= 50
+
+? Uchburchakning ikki burchagi 45° va 54°. Uchinchi burchagini toping.
++ 81°
+- 261°
+- 99°
+- 9°
+= 81
+
+? Burchaklari 78°, 101° va 1° bo'lgan uchburchak qanday uchburchak?
++ o'tmas burchakli
+- o'tkir burchakli
+- to'g'ri burchakli
+- yoyiq burchakli
+
+? Teng yonli uchburchakning asosidagi burchagi 58°. Uning uchidagi burchagini toping.
++ 64°
+- 122°
+- 58°
+- 32°
+= 64
+
+? To'g'ri burchakli uchburchakning o'tkir burchaklaridan biri 32°. Ikkinchi o'tkir burchagini toping.
++ 58°
+- 148°
+- 32°
+- 122°
+= 58
+
+? Uchburchakning ikki burchagi 24° va 74°. Uchinchi burchagini toping.
++ 82°
+- 262°
+- 98°
+- 8°
+= 82
+
+? Teng yonli uchburchakning asosidagi burchagi 34°. Uning uchidagi burchagini toping.
++ 112°
+- 146°
+- 34°
+- 56°
+= 112
+
+? Teng yonli uchburchakning asosidagi burchagi 78°. Uning uchidagi burchagini toping.
++ 24°
+- 102°
+- 78°
+- 12°
+= 24
+
+? To'g'ri burchakli uchburchakning o'tkir burchaklaridan biri 63°. Ikkinchi o'tkir burchagini toping.
++ 27°
+- 117°
+- 63°
+- 153°
+= 27
+
+? To'g'ri burchakli uchburchakning o'tkir burchaklaridan biri 69°. Ikkinchi o'tkir burchagini toping.
++ 21°
+- 111°
+- 69°
+- 159°
+= 21
+
+? Teng yonli uchburchakning yon tomoni 17 sm, asosi 9 sm. Uning perimetrini toping.
++ 43 sm
+- 35 sm
+- 26 sm
+- 153 sm
+= 43
+
+? Tomonlari 7 sm, 7 sm va 7 sm bo'lgan uchburchak qanday uchburchak?
++ teng tomonli
+- teng yonli, lekin teng tomonli emas
+- to'g'ri burchakli
+- o'tmas burchakli
+
+? Tomonlari 13 sm, 13 sm va 13 sm bo'lgan uchburchak qanday uchburchak?
++ teng tomonli
+- teng yonli, lekin teng tomonli emas
+- to'g'ri burchakli
+- o'tmas burchakli
+
+? Burchaklari 58°, 84° va 38° bo'lgan uchburchak qanday uchburchak?
++ o'tkir burchakli
+- to'g'ri burchakli
+- o'tmas burchakli
+- yoyiq burchakli
+
+? Teng yonli uchburchakning uchidagi burchagi 84°. Asosidagi burchaklaridan birini toping.
++ 48°
+- 96°
+- 84°
+- 58°
+= 48
+
+? Tomonlari 8 sm, 8 sm va 10 sm bo'lgan uchburchak qanday uchburchak?
++ teng yonli
+- teng tomonli
+- to'g'ri burchakli
+- yoyiq burchakli
+
+? Burchaklari 65°, 91° va 24° bo'lgan uchburchak qanday uchburchak?
++ o'tmas burchakli
+- o'tkir burchakli
+- to'g'ri burchakli
+- yoyiq burchakli
+
+? Teng yonli uchburchakning asosidagi burchagi 67°. Uning uchidagi burchagini toping.
++ 46°
+- 113°
+- 67°
+- 23°
+= 46
+
+## Parallelogramm, romb va trapetsiya
+
+? Parallelogrammning qarama-qarshi tomonlari haqida qaysi gap to'g'ri?
++ ular parallel va teng
+- ular perpendikulyar
+- faqat bir jufti parallel
+- ular hech qachon teng emas
+
+? Rombning tomonlari haqida qaysi gap to'g'ri?
++ barcha tomonlari teng
+- faqat ikki tomoni teng
+- hech bir tomoni teng emas
+- faqat bir juft tomoni parallel
+
+? Trapetsiyaning nechta juft qarama-qarshi tomoni parallel?
++ faqat bir jufti
+- ikki jufti
+- hech biri
+- uch jufti
+
+? To'rtburchak burchaklarining yig'indisi necha gradus?
++ 360°
+- 180°
+- 270°
+- 540°
+= 360
+
+? Parallelogrammning qarama-qarshi burchaklari haqida qaysi gap to'g'ri?
++ ular o'zaro teng
+- yig'indisi 90°
+- biri doim to'g'ri burchak
+- yig'indisi 360°
+
+? Parallelogrammning qo'shni burchaklari yig'indisi necha gradus?
++ 180°
+- 90°
+- 360°
+- 270°
+= 180
+
+? Parallelogrammning bir burchagi 103°. Unga qo'shni burchakni toping.
++ 77°
+- 103°
+- 257°
+- 90°
+= 77
+
+? Rombning perimetri 96 sm. Uning tomonini toping.
++ 24 sm
+- 48 sm
+- 96 sm
+- 28 sm
+= 24
+
+? Trapetsiyaning bir yon tomoniga yopishgan burchaklardan biri 121°. Shu yon tomonga yopishgan ikkinchi burchakni toping.
++ 59°
+- 121°
+- 239°
+- 90°
+= 59
+
+? Parallelogrammning bir burchagi 105°. Unga qarama-qarshi burchakni toping.
++ 105°
+- 75°
+- 255°
+- 90°
+= 105
+
+? Parallelogrammning bir burchagi 96°. Unga qarama-qarshi burchakni toping.
++ 96°
+- 84°
+- 264°
+- 90°
+= 96
+
+? Parallelogrammning bir burchagi 62°. Unga qo'shni burchakni toping.
++ 118°
+- 62°
+- 298°
+- 90°
+= 118
+
+? Parallelogrammning bir burchagi 111°. Unga qarama-qarshi burchakni toping.
++ 111°
+- 69°
+- 249°
+- 90°
+= 111
+
+? Parallelogrammning bir burchagi 117°. Unga qo'shni burchakni toping.
++ 63°
+- 117°
+- 243°
+- 90°
+= 63
+
+? Rombning perimetri 88 sm. Uning tomonini toping.
++ 22 sm
+- 44 sm
+- 88 sm
+- 26 sm
+= 22
+
+? To'rtburchakning uchta burchagi 114°, 108° va 105°. To'rtinchi burchagini toping.
++ 33°
+- 147°
+- 327°
+- 32°
+= 33
+
+? To'rtburchakning uchta burchagi 71°, 83° va 117°. To'rtinchi burchagini toping.
++ 89°
+- 91°
+- 271°
+- 79°
+= 89
+
+? Parallelogrammning qo'shni tomonlari 20 sm va 10 sm. Uning perimetrini toping.
++ 60 sm
+- 30 sm
+- 200 sm
+- 80 sm
+= 60
+
+? Rombning tomoni 6 sm. Uning perimetrini toping.
++ 24 sm
+- 12 sm
+- 36 sm
+- 28 sm
+= 24
+
+? Rombning bir burchagi 102°. Unga qo'shni burchakni toping.
++ 78°
+- 102°
+- 258°
+- 90°
+= 78
+
+? Rombning perimetri 44 sm. Uning tomonini toping.
++ 11 sm
+- 22 sm
+- 44 sm
+- 15 sm
+= 11
+
+? To'rtburchakning uchta burchagi 115°, 52° va 97°. To'rtinchi burchagini toping.
++ 96°
+- 84°
+- 264°
+- 99°
+= 96
+
+? Parallelogrammning bir burchagi 52°. Unga qarama-qarshi burchakni toping.
++ 52°
+- 128°
+- 308°
+- 90°
+= 52
+
+? Parallelogrammning bir burchagi 132°. Unga qo'shni burchakni toping.
++ 48°
+- 132°
+- 228°
+- 90°
+= 48
+
+? To'rtburchakning uchta burchagi 91°, 78° va 71°. To'rtinchi burchagini toping.
++ 120°
+- 60°
+- 240°
+- 100°
+= 120
+
+? Parallelogrammning qo'shni tomonlari 27 sm va 22 sm. Uning perimetrini toping.
++ 98 sm
+- 49 sm
+- 594 sm
+- 108 sm
+= 98
+
+? To'rtburchakning uchta burchagi 126°, 108° va 64°. To'rtinchi burchagini toping.
++ 62°
+- 118°
+- 298°
+- 60°
+= 62
+
+? Trapetsiyaning bir yon tomoniga yopishgan burchaklardan biri 137°. Shu yon tomonga yopishgan ikkinchi burchakni toping.
++ 43°
+- 137°
+- 223°
+- 90°
+= 43
+
+? Rombning perimetri 92 sm. Uning tomonini toping.
++ 23 sm
+- 46 sm
+- 92 sm
+- 27 sm
+= 23
+
+? Trapetsiyaning bir yon tomoniga yopishgan burchaklardan biri 135°. Shu yon tomonga yopishgan ikkinchi burchakni toping.
++ 45°
+- 135°
+- 225°
+- 90°
+= 45
+
+? To'rtburchakning uchta burchagi 120°, 107° va 115°. To'rtinchi burchagini toping.
++ 18°
+- 162°
+- 342°
+- 19°
+= 18
+
+? Trapetsiyaning bir yon tomoniga yopishgan burchaklardan biri 120°. Shu yon tomonga yopishgan ikkinchi burchakni toping.
++ 60°
+- 120°
+- 240°
+- 90°
+= 60
+
+? Rombning bir burchagi 112°. Unga qarama-qarshi burchakni toping.
++ 112°
+- 68°
+- 248°
+- 90°
+= 112
+
+? Parallelogrammning bir burchagi 125°. Unga qo'shni burchakni toping.
++ 55°
+- 125°
+- 235°
+- 90°
+= 55
+
+? Parallelogrammning bir burchagi 78°. Unga qarama-qarshi burchakni toping.
++ 78°
+- 102°
+- 282°
+- 90°
+= 78
+
+? Parallelogrammning qo'shni tomonlari 14 sm va 8 sm. Uning perimetrini toping.
++ 44 sm
+- 22 sm
+- 112 sm
+- 56 sm
+= 44
+
+? Trapetsiyaning bir yon tomoniga yopishgan burchaklardan biri 32°. Shu yon tomonga yopishgan ikkinchi burchakni toping.
++ 148°
+- 32°
+- 328°
+- 90°
+= 148
+
+? Parallelogrammning qo'shni tomonlari 5 sm va 2 sm. Uning perimetrini toping.
++ 14 sm
+- 7 sm
+- 10 sm
+- 20 sm
+= 14
+
+? Trapetsiyaning bir yon tomoniga yopishgan burchaklardan biri 149°. Shu yon tomonga yopishgan ikkinchi burchakni toping.
++ 31°
+- 149°
+- 211°
+- 90°
+= 31
+
+? To'rtburchakning uchta burchagi 79°, 52° va 96°. To'rtinchi burchagini toping.
++ 133°
+- 47°
+- 227°
+- 123°
+= 133
